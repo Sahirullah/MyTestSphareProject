@@ -9,7 +9,7 @@ import SearchResults from './pages/SearchResults'
 const About = lazy(() => import('./pages/About'))
 const Contact = lazy(() => import('./pages/Contact'))
 const AllBooks = lazy(() => import('./pages/AllBooks'))
-const PastPapers = lazy(() => import('./pages/PastPapers'))
+const PastPapers = lazy(() => import('./pages/PastPaper'))
 const FileHub = lazy(() => import('./pages/FileHub'))
 const Quizzes = lazy(() => import('./pages/Quizzes'))
 const Assignment = lazy(() => import('./pages/Assignment'))
