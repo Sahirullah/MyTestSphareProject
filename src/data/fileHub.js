@@ -1467,17 +1467,35 @@ export const finalTermDataPart4 = [
   ] },
 ];
 
+// International Exams Data
+export const internationalExamsData = [
+  { id: 245, code: 'NMDCAT', title: 'NMDCAT Past Papers', category: 'nmdcat', image: '🩺', links: [] },
+  { id: 246, code: 'ETEA', title: 'ETEA Past Papers', category: 'etea', image: '⚙️', links: [] },
+  { id: 247, code: 'IELTS', title: 'IELTS Practice Tests', category: 'ielts', image: '🌍', links: [] },
+  { id: 248, code: 'TOEFL', title: 'TOEFL Preparation', category: 'toefl', image: '📖', links: [] },
+  { id: 249, code: 'GRE', title: 'GRE Practice Tests', category: 'gre', image: '📚', links: [] },
+  { id: 250, code: 'GMAT', title: 'GMAT Preparation', category: 'gmat', image: '💼', links: [] },
+  { id: 251, code: 'MCAT', title: 'MCAT Practice Materials', category: 'mcat', image: '🏥', links: [] },
+  { id: 252, code: 'ACT', title: 'ACT Preparation', category: 'act', image: '🎓', links: [] },
+  { id: 253, code: 'UCAT', title: 'UCAT Practice Tests', category: 'ucat', image: '👨‍⚕️', links: [] },
+  { id: 254, code: 'JEE', title: 'JEE Practice Materials', category: 'jee', image: '🔬', links: [] },
+  { id: 255, code: 'NEET', title: 'NEET Preparation', category: 'neet', image: '🩺', links: [] },
+  { id: 256, code: 'GATE', title: 'GATE Practice Tests', category: 'gate', image: '🏗️', links: [] },
+];
+
 // Merge all parts into one array
 export const allFinalTermData = [
   ...finalTermData,
   ...finalTermDataPart2,
   ...finalTermDataPart3,
   ...finalTermDataPart4,
+  ...internationalExamsData,
 ];
 
 export const finalTermCategories = [
   { id: 'all', name: 'All Courses' },
   { id: 'acc', name: 'ACC - Accounting' },
+  { id: 'act', name: 'ACT - American College Test' },
   { id: 'bif', name: 'BIF - Bioinformatics' },
   { id: 'bio', name: 'BIO - Biology' },
   { id: 'bnk', name: 'BNK - Banking' },
@@ -1487,17 +1505,26 @@ export const finalTermCategories = [
   { id: 'eco', name: 'ECO - Economics' },
   { id: 'edu', name: 'EDU - Education' },
   { id: 'eng', name: 'ENG - English' },
+  { id: 'etea', name: 'ETEA - Entry Test Engineering & Technology' },
   { id: 'eth', name: 'ETH - Ethics' },
   { id: 'fin', name: 'FIN - Finance' },
+  { id: 'gate', name: 'GATE - Graduate Aptitude Test in Engineering' },
+  { id: 'gmat', name: 'GMAT - Graduate Management Admission Test' },
+  { id: 'gre', name: 'GRE - Graduate Record Examination' },
   { id: 'gsc', name: 'GSC - General Science' },
   { id: 'hrm', name: 'HRM - Human Resource Management' },
+  { id: 'ielts', name: 'IELTS - International English Language Testing System' },
   { id: 'isl', name: 'ISL - Islamic Studies' },
   { id: 'it', name: 'IT - Information Technology' },
+  { id: 'jee', name: 'JEE - Joint Entrance Examination' },
+  { id: 'mcat', name: 'MCAT - Medical College Admission Test' },
   { id: 'mcm', name: 'MCM - Mass Communication' },
   { id: 'mgmt', name: 'MGMT - Management' },
   { id: 'mgt', name: 'MGT - Business & Management' },
   { id: 'mkt', name: 'MKT - Marketing' },
   { id: 'mth', name: 'MTH - Mathematics' },
+  { id: 'neet', name: 'NEET - National Eligibility cum Entrance Test' },
+  { id: 'nmdcat', name: 'NMDCAT - National Medical & Dental College Admission Test' },
   { id: 'pad', name: 'PAD - Public Administration' },
   { id: 'pak', name: 'PAK - Pakistan Studies' },
   { id: 'phy', name: 'PHY - Physics' },
@@ -1505,6 +1532,8 @@ export const finalTermCategories = [
   { id: 'psy', name: 'PSY - Psychology' },
   { id: 'soc', name: 'SOC - Sociology' },
   { id: 'sta', name: 'STA - Statistics' },
+  { id: 'toefl', name: 'TOEFL - Test of English as a Foreign Language' },
+  { id: 'ucat', name: 'UCAT - University Clinical Aptitude Test' },
   { id: 'urd', name: 'URD - Urdu' },
   { id: 'zoo', name: 'ZOO - Zoology' },
 ];

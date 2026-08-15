@@ -3,6 +3,7 @@ export const midtermData = [
   { id: 1, code: 'ACC311', title: 'Fundamentals of Auditing', category: 'acc', image: '📘' },
   { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘' },
   
+
   // BIF - Bioinformatics
   { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬' },
   { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬' },
@@ -262,16 +263,57 @@ export const midtermDataPart4 = [
   { id: 238, code: 'ZOO512', title: 'Animal Diversity: Invertebrates', category: 'zoo', image: '🐾' },
 ];
 
+export const nmdcatpastpaper = [
+  // NMDCAT - National Medical & Dental College Admission Test
+  { id: 1, code: 'NMDCAT', title: 'NMDCAT past paper 2018', category: 'nmdcat', image: '🩺' },
+  { id: 2, code: 'NMDCAT', title: 'NMDCAT Preparation', category: 'nmdcat', image: '🩺' },
+  
+  // ETEA - Entry Test Engineering & Technology
+  { id: 3, code: 'ETEA', title: 'ETEA Past Papers', category: 'etea', image: '⚙️' },
+  
+  // IELTS - International English Language Testing System
+  { id: 4, code: 'IELTS', title: 'IELTS Practice Tests', category: 'ielts', image: '🌍' },
+  
+  // TOEFL - Test of English as a Foreign Language
+  { id: 5, code: 'TOEFL', title: 'TOEFL Preparation', category: 'toefl', image: '📖' },
+  
+  // GRE - Graduate Record Examination
+  { id: 6, code: 'GRE', title: 'GRE Practice Tests', category: 'gre', image: '📚' },
+  
+  // GMAT - Graduate Management Admission Test
+  { id: 7, code: 'GMAT', title: 'GMAT Preparation', category: 'gmat', image: '💼' },
+  
+  // MCAT - Medical College Admission Test
+  { id: 8, code: 'MCAT', title: 'MCAT Practice Materials', category: 'mcat', image: '🏥' },
+  
+  // ACT - American College Test
+  { id: 9, code: 'ACT', title: 'ACT Preparation', category: 'act', image: '🎓' },
+  
+  // UCAT - University Clinical Aptitude Test
+  { id: 10, code: 'UCAT', title: 'UCAT Practice Tests', category: 'ucat', image: '👨‍⚕️' },
+  
+  // JEE - Joint Entrance Examination
+  { id: 11, code: 'JEE', title: 'JEE Practice Materials', category: 'jee', image: '🔬' },
+  
+  // NEET - National Eligibility cum Entrance Test
+  { id: 12, code: 'NEET', title: 'NEET Preparation', category: 'neet', image: '🩺' },
+  
+  // GATE - Graduate Aptitude Test in Engineering
+  { id: 13, code: 'GATE', title: 'GATE Practice Tests', category: 'gate', image: '🏗️' },
+];
+
 export const allMidtermData = [
   ...midtermData,
   ...midtermDataPart2,
   ...midtermDataPart3,
   ...midtermDataPart4,
+  ...nmdcatpastpaper,
 ];
 
 export const midtermCategories = [
   { id: 'all', name: 'All Courses' },
   { id: 'acc', name: 'ACC - Accounting' },
+  { id: 'act', name: 'ACT - American College Test' },
   { id: 'bif', name: 'BIF - Bioinformatics' },
   { id: 'bio', name: 'BIO - Biology' },
   { id: 'bnk', name: 'BNK - Banking' },
@@ -281,17 +323,26 @@ export const midtermCategories = [
   { id: 'eco', name: 'ECO - Economics' },
   { id: 'edu', name: 'EDU - Education' },
   { id: 'eng', name: 'ENG - English' },
+  { id: 'etea', name: 'ETEA - Entry Test Engineering & Technology' },
   { id: 'eth', name: 'ETH - Ethics' },
   { id: 'fin', name: 'FIN - Finance' },
+  { id: 'gate', name: 'GATE - Graduate Aptitude Test in Engineering' },
+  { id: 'gmat', name: 'GMAT - Graduate Management Admission Test' },
+  { id: 'gre', name: 'GRE - Graduate Record Examination' },
   { id: 'gsc', name: 'GSC - General Science' },
   { id: 'hrm', name: 'HRM - Human Resource Management' },
+  { id: 'ielts', name: 'IELTS - International English Language Testing System' },
   { id: 'isl', name: 'ISL - Islamic Studies' },
   { id: 'it', name: 'IT - Information Technology' },
+  { id: 'jee', name: 'JEE - Joint Entrance Examination' },
+  { id: 'mcat', name: 'MCAT - Medical College Admission Test' },
   { id: 'mcm', name: 'MCM - Mass Communication' },
   { id: 'mgmt', name: 'MGMT - Management' },
   { id: 'mgt', name: 'MGT - Business & Management' },
   { id: 'mkt', name: 'MKT - Marketing' },
   { id: 'mth', name: 'MTH - Mathematics' },
+  { id: 'neet', name: 'NEET - National Eligibility cum Entrance Test' },
+  { id: 'nmdcat', name: 'NMDCAT - National Medical & Dental College Admission Test' },
   { id: 'pad', name: 'PAD - Public Administration' },
   { id: 'pak', name: 'PAK - Pakistan Studies' },
   { id: 'phy', name: 'PHY - Physics' },
@@ -299,6 +350,8 @@ export const midtermCategories = [
   { id: 'psy', name: 'PSY - Psychology' },
   { id: 'soc', name: 'SOC - Sociology' },
   { id: 'sta', name: 'STA - Statistics' },
+  { id: 'toefl', name: 'TOEFL - Test of English as a Foreign Language' },
+  { id: 'ucat', name: 'UCAT - University Clinical Aptitude Test' },
   { id: 'urd', name: 'URD - Urdu' },
   { id: 'zoo', name: 'ZOO - Zoology' },
 ];
