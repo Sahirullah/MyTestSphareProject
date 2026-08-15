@@ -26,7 +26,7 @@ const PastPaper = () => {
         <div className="hero-content">
           <div className="hero-icon">📝</div>
           <h1>Past Papers</h1>
-          <p>Download authentic VU past exam papers</p>
+          <p>Download authentic all types of past papers</p>
         </div>
       </div>
 
