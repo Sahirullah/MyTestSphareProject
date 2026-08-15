@@ -1,0 +1,273 @@
+.reviews-page {
+  min-height: 100vh;
+  background: #f5f5f5;
+  padding: 0;
+}
+
+.reviews-hero {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+  margin-bottom: 40px;
+  border-radius: 10px;
+}
+
+.reviews-hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.reviews-hero p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.reviews-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background: #f5f5f5;
+}
+
+.reviews-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.reviews-header h2 {
+  color: #333;
+  font-size: 1.8rem;
+}
+
+.sort-filter {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.sort-btn, .filter-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  background: #FF741F;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.sort-btn:hover, .filter-btn:hover {
+  background: #ff8c42;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(255, 116, 31, 0.3);
+}
+
+.sort-btn.active, .filter-btn.active {
+  background: #FF741F;
+  color: white;
+}
+
+.reviews-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 25px;
+  margin-bottom: 40px;
+}
+
+.review-card {
+  background: white;
+  border-radius: 10px;
+  padding: 25px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.review-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+.review-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.review-avatar {
+  font-size: 2.5rem;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f0f0f0;
+  border-radius: 50%;
+}
+
+.review-author-info {
+  flex: 1;
+}
+
+.review-author {
+  font-weight: 700;
+  color: #333;
+  font-size: 1rem;
+}
+
+.review-course {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 3px;
+}
+
+.review-date {
+  font-size: 0.8rem;
+  color: #999;
+}
+
+.review-rating {
+  display: flex;
+  gap: 3px;
+  margin-bottom: 15px;
+}
+
+.star {
+  color: #ffc107;
+  font-size: 1.1rem;
+}
+
+.review-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.review-content {
+  color: #666;
+  line-height: 1.6;
+  font-size: 0.95rem;
+  flex: 1;
+  margin-bottom: 15px;
+}
+
+.review-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 15px;
+  border-top: 1px solid #eee;
+}
+
+.review-helpful {
+  display: flex;
+  gap: 10px;
+}
+
+.helpful-btn {
+  padding: 5px 12px;
+  border: 1px solid #ddd;
+  background: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.3s ease;
+}
+
+.helpful-btn:hover {
+  border-color: #667eea;
+  color: #667eea;
+}
+
+.helpful-btn.active {
+  background: #667eea;
+  color: white;
+  border-color: #667eea;
+}
+
+.no-reviews {
+  text-align: center;
+  padding: 60px 20px;
+  color: #333;
+}
+
+.no-reviews p {
+  font-size: 1.2rem;
+}
+
+/* Dark Mode */
+:root[data-theme="dark"] .reviews-page {
+  background: #1a1a1a;
+}
+
+:root[data-theme="dark"] .reviews-container {
+  background: #1a1a1a;
+}
+
+:root[data-theme="dark"] .review-card {
+  background: #2a2a2a;
+  color: #fff;
+}
+
+:root[data-theme="dark"] .review-author,
+:root[data-theme="dark"] .review-title {
+  color: #fff;
+}
+
+:root[data-theme="dark"] .review-course,
+:root[data-theme="dark"] .review-content {
+  color: #ccc;
+}
+
+:root[data-theme="dark"] .review-date {
+  color: #999;
+}
+
+:root[data-theme="dark"] .review-footer {
+  border-top-color: #444;
+}
+
+:root[data-theme="dark"] .helpful-btn {
+  background: #333;
+  border-color: #555;
+  color: #ccc;
+}
+
+:root[data-theme="dark"] .helpful-btn:hover {
+  border-color: #667eea;
+  color: #667eea;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .reviews-hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .reviews-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .reviews-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .sort-filter {
+    width: 100%;
+  }
+
+  .sort-btn, .filter-btn {
+    flex: 1;
+    min-width: 100px;
+  }
+}

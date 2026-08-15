@@ -1,0 +1,209 @@
+.softwares-page {
+  background: #ffffff;
+  color: #333;
+  min-height: 100vh;
+  padding: 40px 20px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.softwares-page.dark-mode {
+  background: #1a1a1a;
+  color: #ecf0f1;
+}
+
+.softwares-header {
+  text-align: center;
+  margin-bottom: 60px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.softwares-header h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  color: #e53e3e;
+}
+
+.softwares-header p {
+  font-size: 18px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.softwares-page.dark-mode .softwares-header p {
+  color: #aaa;
+}
+
+.softwares-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.softwares-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 30px;
+}
+
+.software-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.softwares-page.dark-mode .software-card {
+  background: #2a2a2a;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.software-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 25px rgba(229, 62, 62, 0.2);
+}
+
+.software-icon {
+  font-size: 64px;
+  margin-bottom: 20px;
+}
+
+.software-content h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+  color: #333;
+}
+
+.softwares-page.dark-mode .software-content h3 {
+  color: #ecf0f1;
+}
+
+.software-category {
+  display: inline-block;
+  background: rgba(229, 62, 62, 0.1);
+  color: #e53e3e;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.softwares-page.dark-mode .software-category {
+  background: rgba(229, 62, 62, 0.2);
+  color: #ff6b6b;
+}
+
+.software-description {
+  color: #666;
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 15px 0;
+  flex-grow: 1;
+}
+
+.softwares-page.dark-mode .software-description {
+  color: #aaa;
+}
+
+.software-features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 20px 0;
+  justify-content: center;
+}
+
+.feature-tag {
+  background: rgba(102, 126, 234, 0.1);
+  color: #667eea;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.softwares-page.dark-mode .feature-tag {
+  background: rgba(102, 126, 234, 0.2);
+  color: #a0aef8;
+}
+
+.download-btn {
+  border: 2px solid #ff9800;
+  background: transparent;
+  color: #ff9800;
+  padding: 12px 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+  transition: all 0.3s ease;
+  margin-top: 15px;
+}
+
+.download-btn:hover {
+  background: rgba(255, 152, 0, 0.15);
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(255, 152, 0, 0.3);
+}
+
+.download-btn:active {
+  transform: scale(0.95);
+}
+
+@media (max-width: 768px) {
+  .softwares-page {
+    padding: 30px 15px;
+  }
+
+  .softwares-header h1 {
+    font-size: 36px;
+  }
+
+  .softwares-grid {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+  }
+
+  .software-card {
+    padding: 20px;
+  }
+
+  .software-icon {
+    font-size: 50px;
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .softwares-page {
+    padding: 20px 10px;
+  }
+
+  .softwares-header h1 {
+    font-size: 28px;
+  }
+
+  .softwares-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .software-card {
+    padding: 15px;
+  }
+
+  .software-icon {
+    font-size: 40px;
+  }
+
+  .software-content h3 {
+    font-size: 18px;
+  }
+}

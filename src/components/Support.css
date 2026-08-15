@@ -1,0 +1,385 @@
+.support {
+  padding: 80px 0;
+  background: linear-gradient(135deg, #FFFFFF 0%, #ECEDEE 100%);
+  position: relative;
+}
+
+.support::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="supportPattern" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="12.5" cy="12.5" r="1.5" fill="rgba(37, 99, 235, 0.1)"/></pattern></defs><rect width="100" height="100" fill="url(%23supportPattern)"/></svg>');
+  opacity: 0.6;
+}
+
+.support-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 30px;
+  position: relative;
+  z-index: 1;
+}
+
+.support-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.support-title {
+  font-size: 42px;
+  font-weight: 800;
+  color: #2C3E50;
+  margin-bottom: 16px;
+  letter-spacing: -1px;
+}
+
+.support-subtitle {
+  font-size: 18px;
+  color: #2C3E50;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.support-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  margin-bottom: 80px;
+}
+
+.support-card {
+  background: white;
+  border-radius: 24px;
+  padding: 0;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s ease;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  min-height: 420px;
+}
+
+.support-card:hover {
+  transform: translateY(-12px);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+}
+
+.support-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  opacity: 0.08;
+  transition: all 0.4s ease;
+}
+
+.support-card:hover .support-background {
+  opacity: 0.12;
+  height: 120px;
+}
+
+.support-content {
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+.support-icon-wrapper {
+  margin-bottom: 24px;
+  display: flex;
+  justify-content: center;
+}
+
+.support-icon {
+  width: 80px;
+  height: 80px;
+  background: var(--support-color);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  transition: all 0.4s ease;
+}
+
+.support-card:hover .support-icon {
+  transform: scale(1.1) rotate(-5deg);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.25);
+}
+
+.support-title-card {
+  font-size: 24px;
+  font-weight: 800;
+  color: #2C3E50;
+  margin-bottom: 16px;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.support-description {
+  font-size: 15px;
+  color: #2C3E50;
+  line-height: 1.6;
+  margin-bottom: 24px;
+  text-align: center;
+  flex-grow: 1;
+}
+
+.support-features {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 32px;
+}
+
+.support-feature {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.feature-dot {
+  width: 8px;
+  height: 8px;
+  background: var(--support-color);
+  border-radius: 50%;
+  flex-shrink: 0;
+  font-size: 16px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.feature-text {
+  font-size: 14px;
+  color: #475569;
+  font-weight: 500;
+}
+
+.support-action {
+  margin-top: auto;
+}
+
+.support-footer {
+  text-align: center;
+}
+
+.support-stats {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-number {
+  font-size: 32px;
+  font-weight: 800;
+  color: #2563EB;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.stat-label {
+  font-size: 14px;
+  color: #64748B;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .support-container {
+    padding: 0 25px;
+  }
+
+  .support-grid {
+    gap: 30px;
+  }
+
+  .support-title {
+    font-size: 36px;
+  }
+
+  .support-content {
+    padding: 28px;
+  }
+
+  .support-icon {
+    width: 70px;
+    height: 70px;
+    font-size: 32px;
+  }
+
+  .support-title-card {
+    font-size: 22px;
+  }
+
+  .support-stats {
+    gap: 60px;
+    padding: 35px;
+  }
+}
+
+@media (max-width: 768px) {
+  .support {
+    padding: 60px 0;
+  }
+
+  .support-container {
+    padding: 0 20px;
+  }
+
+  .support-title {
+    font-size: 32px;
+  }
+
+  .support-subtitle {
+    font-size: 16px;
+  }
+
+  .support-grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+    margin-bottom: 60px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .support-card {
+    min-height: 380px;
+  }
+
+  .support-content {
+    padding: 32px 24px;
+  }
+
+  .support-icon {
+    width: 64px;
+    height: 64px;
+    font-size: 28px;
+  }
+
+  .support-title-card {
+    font-size: 20px;
+  }
+
+  .support-description {
+    font-size: 14px;
+  }
+
+  .support-stats {
+    flex-direction: column;
+    gap: 30px;
+    padding: 30px;
+  }
+
+  .stat-number {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 480px) {
+  .support {
+    padding: 50px 0;
+  }
+
+  .support-container {
+    padding: 0 15px;
+  }
+
+  .support-header {
+    margin-bottom: 40px;
+  }
+
+  .support-title {
+    font-size: 26px;
+    margin-bottom: 12px;
+  }
+
+  .support-subtitle {
+    font-size: 15px;
+  }
+
+  .support-grid {
+    gap: 20px;
+    margin-bottom: 40px;
+  }
+
+  .support-card {
+    min-height: 350px;
+  }
+
+  .support-content {
+    padding: 24px 20px;
+  }
+
+  .support-icon {
+    width: 56px;
+    height: 56px;
+    font-size: 24px;
+  }
+
+  .support-title-card {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+
+  .support-description {
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+
+  .support-features {
+    gap: 10px;
+    margin-bottom: 24px;
+  }
+
+  .feature-dot {
+    width: 6px;
+    height: 6px;
+  }
+
+  .feature-text {
+    font-size: 13px;
+  }
+
+  .support-btn {
+    padding: 12px 18px;
+    font-size: 13px;
+  }
+
+  .support-stats {
+    gap: 20px;
+    padding: 25px 20px;
+  }
+
+  .stat-number {
+    font-size: 24px;
+  }
+
+  .stat-label {
+    font-size: 12px;
+  }
+}

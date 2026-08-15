@@ -1,0 +1,216 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6;
+  color: #2C3E50;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
+}
+
+/* Global Responsive Utilities */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+@media (max-width: 1024px) {
+  html {
+    font-size: 15px;
+  }
+  
+  .container {
+    padding: 0 25px;
+  }
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+  
+  .container {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+  
+  .container {
+    padding: 0 15px;
+  }
+}
+
+/* Responsive Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Responsive Text */
+.text-responsive {
+  font-size: clamp(14px, 2.5vw, 18px);
+}
+
+.title-responsive {
+  font-size: clamp(24px, 5vw, 42px);
+}
+
+/* Hide scrollbars but keep functionality */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Dark Mode Styles */
+.dark-mode {
+  --bg-primary: #0F172A;
+  --bg-secondary: #1E293B;
+  --bg-tertiary: #334155;
+  --text-primary: #FFFFFF;
+  --text-secondary: #E2E8F0;
+  --text-muted: #94A3B8;
+  --border-color: #334155;
+}
+
+.dark-mode body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+.dark-mode .header {
+  background: var(--bg-secondary);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.dark-mode .top-bar {
+  background: var(--bg-primary);
+}
+
+.dark-mode .logo {
+  color: var(--text-primary);
+}
+
+.dark-mode .logo-subtitle {
+  color: var(--text-secondary);
+}
+
+.dark-mode .contact-label {
+  color: var(--text-muted);
+}
+
+.dark-mode .contact-value {
+  color: var(--text-secondary);
+}
+
+.dark-mode .categories {
+  background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+}
+
+.dark-mode .categories-title {
+  color: var(--text-primary);
+}
+
+.dark-mode .categories-subtitle {
+  color: var(--text-muted);
+}
+
+.dark-mode .category-card {
+  background: var(--bg-secondary);
+  border-color: var(--border-color);
+}
+
+.dark-mode .category-name {
+  color: var(--text-primary);
+}
+
+.dark-mode .category-description {
+  color: var(--text-muted);
+}
+
+.dark-mode .themes {
+  background: var(--bg-primary);
+}
+
+.dark-mode .themes-title {
+  color: var(--text-primary);
+}
+
+.dark-mode .themes-subtitle {
+  color: var(--text-muted);
+}
+
+.dark-mode .theme-card {
+  background: var(--bg-secondary);
+  border-color: var(--border-color);
+}
+
+.dark-mode .theme-name {
+  color: var(--text-primary);
+}
+
+.dark-mode .theme-tag {
+  background: var(--bg-tertiary);
+  color: var(--text-secondary);
+  border-color: var(--border-color);
+}
+
+.dark-mode .reviews {
+  background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+}
+
+.dark-mode .reviews-title {
+  color: var(--text-primary);
+}
+
+.dark-mode .reviews-subtitle {
+  color: var(--text-muted);
+}
+
+.dark-mode .reviews-stats {
+  background: var(--bg-secondary);
+}
+
+.dark-mode .review-card {
+  background: var(--bg-secondary);
+  border-color: var(--border-color);
+}
+
+.dark-mode .reviewer-name {
+  color: var(--text-primary);
+}
+
+.dark-mode .reviewer-company {
+  color: var(--text-muted);
+}
+
+.dark-mode .review-text {
+  color: var(--text-secondary);
+}
+
+#root {
+  min-height: 100vh;
+}

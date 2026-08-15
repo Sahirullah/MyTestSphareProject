@@ -1,0 +1,365 @@
+.highlighted-handout-page {
+  background: #ffffff;
+  min-height: 100vh;
+}
+
+.handout-hero {
+  background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+  padding: 60px 20px;
+  text-align: center;
+  color: #333;
+  margin-bottom: 40px;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero-icon {
+  font-size: 80px;
+  margin-bottom: 20px;
+}
+
+.handout-hero h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin: 0 0 15px 0;
+  letter-spacing: 1px;
+}
+
+.handout-hero p {
+  font-size: 18px;
+  margin: 0;
+  opacity: 0.9;
+}
+
+.handout-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px 60px 20px;
+}
+
+.category-filter {
+  margin-bottom: 50px;
+}
+
+.category-filter h2 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.filter-btn {
+  background: #FF741F;
+  border: 2px solid #FF741F;
+  padding: 10px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  font-size: 14px;
+  color: white;
+}
+
+.filter-btn:hover {
+  border-color: #ff8c42;
+  background: #ff8c42;
+  color: white;
+}
+
+.filter-btn.active {
+  background: #FF741F;
+  color: white;
+  border-color: #FF741F;
+}
+
+.handouts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.handout-card {
+  background: #ffffff;
+  border: 2px solid #e0e0e0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.handout-card.highlighted {
+  border-color: #ffd700;
+  box-shadow: 0 4px 15px rgba(255, 215, 0, 0.2);
+}
+
+.handout-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 25px rgba(255, 215, 0, 0.3);
+  border-color: #ffd700;
+}
+
+.card-header {
+  background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.card-icon {
+  font-size: 50px;
+}
+
+.status-badge {
+  background: rgba(255, 255, 255, 0.9);
+  color: #333;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.status-badge.highlighted-badge {
+  background: rgba(51, 51, 51, 0.9);
+  color: #ffd700;
+}
+
+.card-body {
+  padding: 20px;
+  flex-grow: 1;
+}
+
+.card-body h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffd700;
+  margin: 0 0 8px 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.card-body h4 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #333;
+  margin: 0 0 12px 0;
+  line-height: 1.4;
+}
+
+.card-body p {
+  font-size: 13px;
+  color: #666;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.card-footer {
+  padding: 20px;
+  border-top: 1px solid #e0e0e0;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.card-features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.feature-tag {
+  background: #f0f0f0;
+  color: #333;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.feature-tag.highlighted-tag {
+  background: rgba(255, 215, 0, 0.2);
+  color: #b8860b;
+}
+
+.download-btn {
+  border: 2px solid #ff9800;
+  background: transparent;
+  color: #ff9800;
+  padding: 12px 14px;
+  border-radius: 20px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+}
+
+.download-btn:hover:not(:disabled) {
+  background: rgba(255, 152, 0, 0.15);
+  transform: scale(1.05);
+  box-shadow: 0 6px 20px rgba(255, 152, 0, 0.3);
+}
+
+.download-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.no-results {
+  text-align: center;
+  padding: 60px 20px;
+  color: #999;
+}
+
+.no-results p {
+  font-size: 18px;
+  margin: 0;
+}
+
+/* Dark Mode Support */
+.highlighted-handout-page.dark-mode {
+  background: #1a1a1a;
+}
+
+.highlighted-handout-page.dark-mode .handout-hero {
+  background: linear-gradient(135deg, #b8860b 0%, #daa520 100%);
+}
+
+.highlighted-handout-page.dark-mode .category-filter h2 {
+  color: #ecf0f1;
+}
+
+.highlighted-handout-page.dark-mode .handout-card {
+  background: #2a2a2a;
+  border-color: #333;
+}
+
+.highlighted-handout-page.dark-mode .handout-card.highlighted {
+  border-color: #daa520;
+}
+
+.highlighted-handout-page.dark-mode .filter-btn {
+  background: #333;
+  color: #ecf0f1;
+}
+
+.highlighted-handout-page.dark-mode .card-body h4 {
+  color: #ecf0f1;
+}
+
+.highlighted-handout-page.dark-mode .card-body p {
+  color: #aaa;
+}
+
+.highlighted-handout-page.dark-mode .card-footer {
+  border-top: 1px solid #333;
+}
+
+.highlighted-handout-page.dark-mode .feature-tag {
+  background: #333;
+  color: #aaa;
+}
+
+.highlighted-handout-page.dark-mode .no-results p {
+  color: #777;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .handout-hero {
+    padding: 40px 15px;
+    margin-bottom: 30px;
+  }
+
+  .handout-hero h1 {
+    font-size: 36px;
+  }
+
+  .handout-hero p {
+    font-size: 16px;
+  }
+
+  .handouts-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .handout-container {
+    padding: 0 15px 40px 15px;
+  }
+
+  .filter-buttons {
+    gap: 10px;
+  }
+
+  .filter-btn {
+    padding: 8px 16px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .handout-hero {
+    padding: 30px 10px;
+  }
+
+  .handout-hero h1 {
+    font-size: 28px;
+  }
+
+  .hero-icon {
+    font-size: 60px;
+  }
+
+  .handout-container {
+    padding: 0 10px 30px 10px;
+  }
+
+  .category-filter h2 {
+    font-size: 20px;
+  }
+
+  .filter-buttons {
+    gap: 8px;
+  }
+
+  .filter-btn {
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+
+  .card-header {
+    padding: 15px;
+  }
+
+  .card-body {
+    padding: 15px;
+  }
+
+  .card-body h3 {
+    font-size: 14px;
+  }
+
+  .card-body h4 {
+    font-size: 16px;
+  }
+
+  .card-body p {
+    font-size: 12px;
+  }
+}

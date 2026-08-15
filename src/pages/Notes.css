@@ -1,0 +1,33 @@
+/* Notes Page Styles */
+.notes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 25px;
+  margin-bottom: 40px;
+}
+
+.note-card {
+  background: white;
+  border: 2px solid #e0e0e0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.note-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  border-color: #0691FC;
+}
+
+.exam-practice-page.dark-mode .note-card {
+  background: #1a1a1a;
+  border-color: #333;
+}
+
+.exam-practice-page.dark-mode .note-card:hover {
+  border-color: #0691FC;
+}

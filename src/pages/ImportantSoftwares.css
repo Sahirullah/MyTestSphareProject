@@ -1,0 +1,203 @@
+.softwares-page {
+  background: #ffffff;
+  color: #333;
+  min-height: 100vh;
+  padding: 0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.softwares-page.dark-mode {
+  background: #1a1a1a;
+  color: #ecf0f1;
+}
+
+.softwares-header {
+  text-align: center;
+  margin-bottom: 60px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 60px 30px 0 30px;
+}
+
+.softwares-header h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  color: #e53e3e;
+}
+
+.softwares-header p {
+  font-size: 18px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.softwares-page.dark-mode .softwares-header p {
+  color: #aaa;
+}
+
+.softwares-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 30px 80px 30px;
+}
+
+.softwares-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 30px;
+}
+
+.software-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.softwares-page.dark-mode .software-card {
+  background: #2a2a2a;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.software-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 30px rgba(229, 62, 62, 0.2);
+}
+
+.software-icon {
+  font-size: 70px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.software-category {
+  display: inline-block;
+  background: rgba(229, 62, 62, 0.1);
+  color: #e53e3e;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.softwares-page.dark-mode .software-category {
+  background: rgba(229, 62, 62, 0.2);
+  color: #ff6b6b;
+}
+
+.software-card h2 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: #333;
+}
+
+.softwares-page.dark-mode .software-card h2 {
+  color: #ecf0f1;
+}
+
+.software-description {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  flex-grow: 1;
+}
+
+.softwares-page.dark-mode .software-description {
+  color: #aaa;
+}
+
+.download-btn {
+  border: 2px solid #ff9800;
+  background: transparent;
+  color: #ff9800;
+  text-decoration: none;
+  padding: 12px 14px;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 14px;
+  transition: all 0.3s ease;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.download-btn:hover {
+  background: rgba(255, 152, 0, 0.15);
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(255, 152, 0, 0.3);
+  text-decoration: none;
+}
+
+.download-btn:active {
+  transform: scale(0.98);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .softwares-page {
+    padding: 30px 15px;
+  }
+
+  .softwares-header h1 {
+    font-size: 36px;
+  }
+
+  .softwares-header p {
+    font-size: 16px;
+  }
+
+  .softwares-grid {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 25px;
+  }
+
+  .software-card {
+    padding: 25px;
+  }
+
+  .software-icon {
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 480px) {
+  .softwares-page {
+    padding: 20px 10px;
+  }
+
+  .softwares-header h1 {
+    font-size: 28px;
+  }
+
+  .softwares-header {
+    margin-bottom: 40px;
+  }
+
+  .softwares-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .software-card {
+    padding: 20px;
+  }
+
+  .software-card h2 {
+    font-size: 20px;
+  }
+
+  .software-icon {
+    font-size: 50px;
+    margin-bottom: 15px;
+  }
+}

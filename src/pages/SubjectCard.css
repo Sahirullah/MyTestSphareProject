@@ -1,0 +1,197 @@
+.subject-card {
+  background: linear-gradient(135deg, #1a3a4a 0%, #0f2a38 100%);
+  border: 2px solid #2a5a7a;
+  border-radius: 16px;
+  padding: 25px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  min-height: 500px;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+.subject-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 32px rgba(6, 145, 252, 0.2);
+  border-color: #0691FC;
+}
+
+.card-top {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.icon-circle {
+  width: 100px;
+  height: 100px;
+  background: linear-gradient(135deg, #5ba3d0 0%, #3a7ea8 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  box-shadow: 0 4px 12px rgba(6, 145, 252, 0.3);
+  flex-shrink: 0;
+}
+
+.card-middle {
+  text-align: center;
+  width: 100%;
+}
+
+.subject-code {
+  font-size: 18px;
+  font-weight: 700;
+  color: #5ba3d0;
+  margin: 0 0 12px 0;
+  letter-spacing: 1px;
+}
+
+.divider {
+  width: 40%;
+  height: 1px;
+  background: repeating-linear-gradient(
+    to right,
+    #5ba3d0 0px,
+    #5ba3d0 5px,
+    transparent 5px,
+    transparent 10px
+  );
+  margin: 0 auto 12px;
+}
+
+.subject-title {
+  font-size: 14px;
+  color: #b0b0b0;
+  margin: 0;
+  line-height: 1.4;
+  min-height: 28px;
+}
+
+.card-bottom {
+  width: 100%;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 15px;
+}
+
+.download-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  width: 100%;
+  auto-rows: max-content;
+}
+
+.download-btn,
+.coming-soon {
+  padding: 10px 14px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 700;
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.3s ease;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #ff9800;
+  background: transparent;
+  color: #ff9800;
+  height: 32px;
+  white-space: nowrap;
+  cursor: pointer;
+  line-height: 1;
+  margin: 0;
+  font-family: inherit;
+  box-sizing: border-box;
+}
+
+.download-btn:hover,
+.coming-soon:hover {
+  background: rgba(255, 152, 0, 0.15);
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(255, 152, 0, 0.3);
+}
+
+.download-btn:active,
+.coming-soon:active {
+  transform: scale(0.98);
+}
+
+/* Dark mode support */
+.exam-practice-page.dark-mode .subject-card {
+  background: linear-gradient(135deg, #1a3a4a 0%, #0f2a38 100%);
+  border-color: #2a5a7a;
+}
+
+.exam-practice-page.dark-mode .subject-card:hover {
+  border-color: #0691FC;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .subject-card {
+    padding: 20px 16px;
+    gap: 20px;
+  }
+
+  .icon-circle {
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+  }
+
+  .subject-code {
+    font-size: 16px;
+  }
+
+  .subject-title {
+    font-size: 13px;
+  }
+
+  .download-btn,
+  .coming-soon {
+    padding: 8px 12px;
+    font-size: 11px;
+    height: 28px;
+  }
+}
+
+@media (max-width: 480px) {
+  .subject-card {
+    padding: 16px 12px;
+    gap: 16px;
+  }
+
+  .icon-circle {
+    width: 70px;
+    height: 70px;
+    font-size: 35px;
+  }
+
+  .subject-code {
+    font-size: 14px;
+  }
+
+  .subject-title {
+    font-size: 12px;
+    min-height: 24px;
+  }
+
+  .download-buttons {
+    gap: 8px;
+  }
+
+  .download-btn,
+  .coming-soon {
+    padding: 6px 10px;
+    font-size: 10px;
+    height: 24px;
+  }
+}

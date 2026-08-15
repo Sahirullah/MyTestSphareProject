@@ -1,0 +1,40 @@
+.app {
+  min-height: 100vh;
+  background: #ffffff;
+  overflow-x: hidden;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFFFFF;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #FF741F 0%, #ff8c42 100%);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #e5650e 0%, #e5650e 100%);
+}
+
+/* Selection styling */
+::selection {
+  background: rgba(255, 116, 31, 0.2);
+  color: #333;
+}
+
+/* Focus styles */
+*:focus {
+  outline: 2px solid rgba(255, 116, 31, 0.5);
+  outline-offset: 2px;
+}
