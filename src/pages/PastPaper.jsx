@@ -3,7 +3,8 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { allMidtermData, midtermCategories } from '../data/pastPaper';
 import { useTheme } from '../context/ThemeContext';
-import './PastPaper.css';
+import SubjectCard from './SubjectCard';
+import './ExamPractice.css';
 
 const PastPaper = () => {
   const { isDarkMode } = useTheme();
@@ -13,25 +14,23 @@ const PastPaper = () => {
     ...item
   })).sort((a, b) => a.code.localeCompare(b.code));
 
-  const categories = midtermCategories;
-
   const filteredPapers = selectedCategory === 'all'
     ? papers
     : papers.filter(paper => paper.category === selectedCategory);
 
   return (
-    <div className={`papers-page ${isDarkMode ? 'dark-mode' : ''}`}>
+    <div className={`exam-practice-page ${isDarkMode ? 'dark-mode' : ''}`}>
       <Header />
 
-      <div className="papers-hero">
+      <div className="exam-hero">
         <div className="hero-content">
-          <div className="hero-icon">📄</div>
+          <div className="hero-icon">📝</div>
           <h1>Past Papers</h1>
-          <p>Download past papers for all courses</p>
+          <p>Download authentic VU past exam papers</p>
         </div>
       </div>
 
-      <div className="papers-container">
+      <div className="exam-container">
         <div className="category-filter">
           <h2>Select Category</h2>
           <div className="filter-buttons">
@@ -47,42 +46,9 @@ const PastPaper = () => {
           </div>
         </div>
 
-        <div className="papers-grid">
+        <div className="exams-grid">
           {filteredPapers.map((paper, index) => (
-            <div key={`${paper.code}-${index}`} className="paper-card">
-              <div className="card-header">
-                <div className="card-icon">{paper.image}</div>
-                <h3>{paper.code}</h3>
-              </div>
-
-              <div className="card-body">
-                <h4>{paper.title}</h4>
-              </div>
-
-              <div className="card-footer">
-                {paper.links && paper.links.length > 0 ? (
-                  <div className="download-buttons">
-                    {paper.links.map((link, index) => (
-                      link && (
-                        <a
-                          key={index}
-                          href={link}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="download-btn"
-                        >
-                          📥 Paper {index + 1}
-                        </a>
-                      )
-                    ))}
-                  </div>
-                ) : (
-                  <div className="no-papers">
-                    <p>No papers available</p>
-                  </div>
-                )}
-              </div>
-            </div>
+            <SubjectCard key={`${paper.code}-${index}`} exam={paper} />
           ))}
         </div>
 
