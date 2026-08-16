@@ -226,7 +226,7 @@
   display: flex;
   flex-direction: column;
   gap: 6px;
-  overflow: auto;
+  overflow: hidden;
 }
 
 .card-title {
@@ -256,7 +256,8 @@
   width: 280px;
   height: 190px;
   top: 0px;
-  left: 15%;
+  left: auto;
+  right: 15%;
   transform: none;
   z-index: 3;
   animation-delay: 0s;
@@ -307,33 +308,43 @@
   }
 
   .hero-graphic {
-    width: 350px;
-    height: 350px;
+    width: 100%;
+    height: 400px;
   }
 
   .card-1 {
-    width: 220px;
-    height: 150px;
+    width: 240px;
+    height: 160px;
     top: 0px;
-    left: 12%;
+    left: auto;
+    right: 12%;
     transform: none;
     z-index: 3;
   }
 
   .card-2 {
-    width: 200px;
-    height: 140px;
-    top: 170px;
+    width: 220px;
+    height: 150px;
+    top: 180px;
     left: 0px;
     z-index: 2;
   }
 
   .card-3 {
-    width: 200px;
-    height: 140px;
-    top: 170px;
+    width: 220px;
+    height: 150px;
+    top: 180px;
     right: 0px;
     z-index: 1;
+  }
+
+  .card-title {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+
+  .card-feature {
+    font-size: 10px;
   }
 }
 
@@ -393,30 +404,43 @@
   }
 
   .hero-graphic {
-    width: 280px;
-    height: 280px;
+    width: 100%;
+    height: 380px;
   }
 
   .card-1 {
-    width: 160px;
-    height: 110px;
+    width: 200px;
+    height: 130px;
     top: 0px;
-    left: 8%;
+    left: auto;
+    right: 8%;
     transform: translateX(0);
+    z-index: 3;
   }
 
   .card-2 {
-    width: 140px;
-    height: 100px;
-    top: 100px;
+    width: 180px;
+    height: 120px;
+    top: 140px;
     left: 10px;
+    z-index: 2;
   }
 
   .card-3 {
-    width: 140px;
-    height: 100px;
-    top: 100px;
+    width: 180px;
+    height: 120px;
+    top: 140px;
     right: 10px;
+    z-index: 1;
+  }
+
+  .card-title {
+    font-size: 13px;
+    margin-bottom: 4px;
+  }
+
+  .card-feature {
+    font-size: 9px;
   }
 }
 
@@ -469,32 +493,42 @@
   }
 
   .hero-graphic {
-    width: 240px;
-    height: 240px;
+    width: 100%;
+    height: 340px;
   }
 
   .card-1 {
-    width: 180px;
-    height: 120px;
+    width: 160px;
+    height: 110px;
     top: 0px;
-    left: 10%;
+    left: auto;
+    right: 8%;
     transform: none;
     z-index: 3;
   }
 
   .card-2 {
-    width: 160px;
-    height: 110px;
-    top: 140px;
-    left: 0px;
+    width: 150px;
+    height: 100px;
+    top: 120px;
+    left: 5px;
     z-index: 2;
   }
 
   .card-3 {
-    width: 160px;
-    height: 110px;
-    top: 140px;
-    right: 0px;
+    width: 150px;
+    height: 100px;
+    top: 120px;
+    right: 5px;
     z-index: 1;
+  }
+
+  .card-title {
+    font-size: 12px;
+    margin-bottom: 3px;
+  }
+
+  .card-feature {
+    font-size: 8px;
   }
 }
