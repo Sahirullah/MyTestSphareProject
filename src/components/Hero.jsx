@@ -62,15 +62,51 @@ const Hero = () => {
         </div>
         <div className="hero-image">
           <div className="hero-graphic">
-            <div className="floating-card card-1">
-              <img src={card1} alt="E-commerce Theme Preview" className="card-image" />
-            </div>
-            <div className="floating-card card-2">
-              <img src={card2} alt="Portfolio Theme Preview" className="card-image" />
-            </div>
-            <div className="floating-card card-3">
-              <img src={card3} alt="Business Theme Preview" className="card-image" />
-            </div>
+            <button 
+              className="floating-card card-1" 
+              onClick={() => navigate('/exam-practice')}
+            >
+              <img src={card1} alt="Online Test" className="card-image" />
+              <div className="card-label">
+                <div className="card-title">Online Test</div>
+                <div className="card-features">
+                  <div className="card-feature">• Mock Exams</div>
+                  <div className="card-feature">• Past Papers</div>
+                  <div className="card-feature">• Timed Tests</div>
+                  <div className="card-feature">• Instant Results</div>
+                </div>
+              </div>
+            </button>
+            <button 
+              className="floating-card card-2" 
+              onClick={() => navigate('/past-paper')}
+            >
+              <img src={card2} alt="Past Paper" className="card-image" />
+              <div className="card-label">
+                <div className="card-title">Past Paper</div>
+                <div className="card-features">
+                  <div className="card-feature">• Previous Papers</div>
+                  <div className="card-feature">• Sample Questions</div>
+                  <div className="card-feature">• Solutions</div>
+                  <div className="card-feature">• Year-wise Papers</div>
+                </div>
+              </div>
+            </button>
+            <button 
+              className="floating-card card-3" 
+              onClick={() => navigate('/all-books')}
+            >
+              <img src={card3} alt="Books Library" className="card-image" />
+              <div className="card-label">
+                <div className="card-title">Books Library</div>
+                <div className="card-features">
+                  <div className="card-feature">• Handouts & Notes</div>
+                  <div className="card-feature">• Short Notes</div>
+                  <div className="card-feature">• Current Papers</div>
+                  <div className="card-feature">• Past Papers</div>
+                </div>
+              </div>
+            </button>
           </div>
         </div>
       </div>
