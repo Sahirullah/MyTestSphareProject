@@ -1,25 +1,13 @@
-import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import './Support.css';
 
 const Support = () => {
+  const navigate = useNavigate();
+
   const supportOptions = [
     {
       id: 1,
-      title: 'Free Study Materials',
-      description: 'Access thousands of handouts, assignments, past papers, and notes from top Pakistani universities - completely free.',
-      icon: '📚',
-      features: [
-        'Handouts & Notes',
-        'Short Notes',
-        'Current Papers',
-        'Past Papers'
-      ],
-      color: '#FF741F',
-      bgGradient: 'linear-gradient(135deg, #FF741F 0%, #ff8c42 100%)'
-    },
-    {
-      id: 2,
-      title: 'Online Exams',
+      title: 'Online Test',
       description: 'Practice with our comprehensive online exam system. Test your knowledge with past papers and mock exams.',
       icon: '📝',
       features: [
@@ -29,23 +17,44 @@ const Support = () => {
         'Instant Results'
       ],
       color: '#FF741F',
-      bgGradient: 'linear-gradient(135deg, #FF741F 0%, #ff8c42 100%)'
+      bgGradient: 'linear-gradient(135deg, #FF741F 0%, #ff8c42 100%)',
+      link: '/exam-practice'
+    },
+    {
+      id: 2,
+      title: 'Past Paper',
+      description: 'Access comprehensive past papers and previous exam questions to prepare effectively for your tests.',
+      icon: '📄',
+      features: [
+        'Previous Papers',
+        'Sample Questions',
+        'Solutions',
+        'Year-wise Papers'
+      ],
+      color: '#FF741F',
+      bgGradient: 'linear-gradient(135deg, #FF741F 0%, #ff8c42 100%)',
+      link: '/past-paper'
     },
     {
       id: 3,
-      title: 'Free Help',
-      description: 'Join our community of 5,000+ students for instant help, study tips, and peer support - all completely free.',
-      icon: '🤝',
+      title: 'Books Library',
+      description: 'Access thousands of handouts, assignments, past papers, and notes from top Pakistani universities - completely free.',
+      icon: '📚',
       features: [
-        'Community Support',
-        'Study Groups',
-        'Peer Help',
-        'Academic Guidance'
+        'Handouts & Notes',
+        'Short Notes',
+        'Current Papers',
+        'Past Papers'
       ],
       color: '#FF741F',
-      bgGradient: 'linear-gradient(135deg, #FF741F 0%, #ff8c42 100%)'
+      bgGradient: 'linear-gradient(135deg, #FF741F 0%, #ff8c42 100%)',
+      link: '/all-books'
     }
   ];
+
+  const handleCardClick = (link) => {
+    navigate(link);
+  };
 
   return (
     <section className="support">
@@ -78,8 +87,13 @@ const Support = () => {
                     </div>
                   ))}
                 </div>
-                
 
+                <button 
+                  className="support-btn" 
+                  onClick={() => handleCardClick(option.link)}
+                >
+                  Explore Now
+                </button>
               </div>
             </div>
           ))}

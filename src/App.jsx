@@ -44,6 +44,8 @@ function App() {
               <Route path="/notes" element={<Notes />} />
               <Route path="/softwares" element={<ImportantSoftwares />} />
               <Route path="/exam-practice" element={<ExamPractice />} />
+              <Route path="/all-books" element={<AllBooks />} />
+              <Route path="/past-paper" element={<PastPapers />} />
             </Routes>
           </Suspense>
         </div>
