@@ -148,6 +148,7 @@ const ExamPractice = () => {
             <h1>EXAM PRACTICE</h1>
             <p>Secure,free,fast and fully digital exam practice platform for all students around the world.</p>
             <p>Practice for any exam get results instantly.Get your selected wrongAnswers and its correct answers.</p>
+            <p>Mock test , NMDCAT test practice,ETEA test online practice,ILET test practice,SAT test practice. scroll down for more exam practice.</p>
           </div>
         </div>
 
