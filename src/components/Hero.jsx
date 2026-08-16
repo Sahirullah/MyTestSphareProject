@@ -32,7 +32,8 @@ const Hero = () => {
           </h1>
           <p className="hero-subtitle">
             Discover thousands of high-quality handouts, pastpapers, and study materials 
-            important PDF, files study meterials.We also provide free online test or practice for all types of exams..
+            important PDF, files study meterials.We also provide free online test or practice for all types of exams. 
+            
           </p>
           <div className="hero-search">
             <input 
