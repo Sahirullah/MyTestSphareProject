@@ -254,10 +254,10 @@
 
 .card-1 {
   width: 280px;
-  height: 190px;
+  height: 195px;
   top: 0px;
   left: auto;
-  right: 15%;
+  right: calc(15% - 15px);
   transform: none;
   z-index: 3;
   animation-delay: 0s;
@@ -265,7 +265,7 @@
 
 .card-2 {
   width: 260px;
-  height: 180px;
+  height: 185px;
   top: 220px;
   left: 0px;
   z-index: 2;
@@ -274,7 +274,7 @@
 
 .card-3 {
   width: 260px;
-  height: 180px;
+  height: 185px;
   top: 220px;
   right: 0px;
   z-index: 1;
@@ -314,17 +314,17 @@
 
   .card-1 {
     width: 240px;
-    height: 160px;
+    height: 165px;
     top: 0px;
     left: auto;
-    right: 12%;
+    right: calc(12% - 15px);
     transform: none;
     z-index: 3;
   }
 
   .card-2 {
     width: 220px;
-    height: 150px;
+    height: 155px;
     top: 180px;
     left: 0px;
     z-index: 2;
@@ -332,7 +332,7 @@
 
   .card-3 {
     width: 220px;
-    height: 150px;
+    height: 155px;
     top: 180px;
     right: 0px;
     z-index: 1;
@@ -410,17 +410,17 @@
 
   .card-1 {
     width: 200px;
-    height: 130px;
+    height: 135px;
     top: 0px;
     left: auto;
-    right: 8%;
+    right: calc(8% - 15px);
     transform: translateX(0);
     z-index: 3;
   }
 
   .card-2 {
     width: 180px;
-    height: 120px;
+    height: 125px;
     top: 140px;
     left: 10px;
     z-index: 2;
@@ -428,7 +428,7 @@
 
   .card-3 {
     width: 180px;
-    height: 120px;
+    height: 125px;
     top: 140px;
     right: 10px;
     z-index: 1;
@@ -499,17 +499,17 @@
 
   .card-1 {
     width: 160px;
-    height: 110px;
+    height: 115px;
     top: 0px;
     left: auto;
-    right: 8%;
+    right: calc(8% - 15px);
     transform: none;
     z-index: 3;
   }
 
   .card-2 {
     width: 150px;
-    height: 100px;
+    height: 105px;
     top: 120px;
     left: 5px;
     z-index: 2;
@@ -517,7 +517,7 @@
 
   .card-3 {
     width: 150px;
-    height: 100px;
+    height: 105px;
     top: 120px;
     right: 5px;
     z-index: 1;
