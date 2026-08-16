@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /search
+Sitemap: https://testsphare.com/sitemap.xml
