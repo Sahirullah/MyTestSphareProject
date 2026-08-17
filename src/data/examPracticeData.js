@@ -128,6 +128,9 @@ export const examPracticeData = [
   { id: 84, code: 'CS610', title: 'Computer Networks', category: 'cs', image: '💻', questions: generateCourseQuestions('Networks'), totalQuestions: 50 },
   { id: 85, code: 'CS611', title: 'Software Quality Engineering', category: 'cs', image: '💻', questions: generateCourseQuestions('QA'), totalQuestions: 50 },
   { id: 86, code: 'CS614', title: 'Data Warehousing', category: 'cs', image: '💻', questions: generateCourseQuestions('Data Warehousing'), totalQuestions: 50 },
+  
+  //Islamabad police Exam
+  { id: 86, code: 'CS614', title: 'Islamabad Police mock test', category: 'police', image: '', questions: generateCourseQuestions('Islamabad Police'), totalQuestions: 50 },
 ];
 
 export const quizCategories = [
@@ -135,4 +138,5 @@ export const quizCategories = [
   { id: 'acc', name: 'ACC - Accounting' },
   { id: 'bio', name: 'BIO - Biology' },
   { id: 'cs', name: 'CS - Computer Science' },
+  { id: 'police', name: 'Police - Islamabad Police' },
 ];
