@@ -1336,7 +1336,8 @@ export const finalTermDataPart4 = [
   ] },
 // Police Exams Preparation Books
  { id: 193, code: 'Police', title: 'physics Chp01 to Chp08', category: 'police', image: '⚛️',links:[
-       
+       'https://drive.google.com/file/d/1CxqIz9z1AlPlnGO9D5FQKG1IYEGZgdVE/view?usp=sharing',
+       ''
   ] },
 
   // PSC - Political Science
