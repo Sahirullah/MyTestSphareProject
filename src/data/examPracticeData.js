@@ -242,7 +242,7 @@ export const examPracticeData = [
 ]},
 
   //Islamabad police constable mock test
-    { id: 86, code: 'Police', title: 'Islamabad Police constable mock test', category: 'police', image: '👮', questions:[
+  { id: 86, code: 'Police', title: 'Islamabad Police constable mock test', category: 'police', image: '👮', questions:[
   {"question": "Q NO 1, airlines belongs to which country?", "options": ["Pakistan", "India", "America", "Jordan"], "correct": 3},
   {"question": "Q NO 2. Which of following is Cottage Industry?", "options": ["Cement", "Sugar", "Handicraft", "Textile"], "correct": 2},
   {"question": "Q NO 3. The agro based industry is:", "options": ["Woodwork", "Dairy farms", "Carpets", "Iron work"], "correct": 1},
