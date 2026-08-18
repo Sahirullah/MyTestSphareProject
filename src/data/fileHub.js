@@ -1356,6 +1356,11 @@ export const finalTermDataPart4 = [
 
   ]},
 
+// Police Exams Preparation LDC Books
+ { id: 193, code: 'Police', title: 'Islamabad police LDC test Preparation pdf.', category: 'police', image: '⚛️',links:[
+
+  ]},
+
   // PSC - Political Science
   { id: 194, code: 'PSC201', title: 'Political Science Course', category: 'psc', image: '🗳️' },
   { id: 195, code: 'PSC401', title: 'Political Science Course', category: 'psc', image: '🗳️' },
