@@ -306,8 +306,7 @@ export const nmdcatpastpaper = [
   //Islamabad Police 
   {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police ASI Past Papers', category: 'police', image: '👮',links:[
     'https://drive.google.com/file/d/1CxqIz9z1AlPlnGO9D5FQKG1IYEGZgdVE/view?usp=sharing',
-    
-    'https://drive.google.com/file/d/1tX9ZMZHSMyenir8fWkFHqhyW15j2kxhU/view?usp=sharing'
+    'https://drive.google.com/file/d/1pcQRclDF11v6rnO1F2PCJHUDmAk-b120/view?usp=sharing'
   ]},
 ];
 
