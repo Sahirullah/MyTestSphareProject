@@ -1352,7 +1352,7 @@ export const finalTermDataPart4 = [
   ]},
 
 // Police Exams Preparation UDC Books
- { id: 193, code: 'Police', title: 'Islamabad police UDC test Preparation pdf.', category: 'police', image: '⚛️',links:[
+ { id: 193, code: 'Islamabad Police', title: 'Islamabad police UDC test Preparation pdf.', category: 'police', image: '⚛️',links:[
 
   ]},
 
