@@ -1335,7 +1335,7 @@ export const finalTermDataPart4 = [
       'https://drive.google.com/file/d/16hA2MxZ1EEVfPVwY23fsNTGlJPyzuRY1/view?usp=sharing'
   ] },
 // Police Exams Preparation Books
- { id: 193, code: 'PHY301', title: 'physics Chp01 to Chp08', category: 'police', image: '⚛️',links:[
+ { id: 193, code: 'Police', title: 'physics Chp01 to Chp08', category: 'police', image: '⚛️',links:[
        
   ] },
 
