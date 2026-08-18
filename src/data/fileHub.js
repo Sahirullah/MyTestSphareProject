@@ -1335,15 +1335,8 @@ export const finalTermDataPart4 = [
       'https://drive.google.com/file/d/16hA2MxZ1EEVfPVwY23fsNTGlJPyzuRY1/view?usp=sharing'
   ] },
 // Police Exams Preparation Books
- { id: 193, code: 'PHY301', title: 'physics Chp01 to Chp08', category: 'phy', image: '⚛️',links:[
-      'https://drive.google.com/file/d/1EXp-Mu-H6JUwWJ_F_nPE555cqeoa7RH4/view?usp=sharing',
-      'https://drive.google.com/file/d/1K3WBeugEU72SgyjfKytr7l1PXxEErQtr/view?usp=sharing',
-      'https://drive.google.com/file/d/1LRNIXmW7CF5iS_p8ykXNMbRJ4UdTlner/view?usp=sharing',
-      'https://drive.google.com/file/d/12ScqDVPqAoLm9omijIOBL0djQbeizB_2/view?usp=sharing',
-      'https://drive.google.com/file/d/1--xbso7q4k31s0UTExoGDzXcydzNnIC0/view?usp=sharing',
-      'https://drive.google.com/file/d/15Doqp7MWvQPLSgFqOJyK15KViMy58KWW/view?usp=sharing',
-      'https://drive.google.com/file/d/1ZIcba7ull8ORWavkNTii2UtUxH7BpwZb/view?usp=sharing',
-      'https://drive.google.com/file/d/16hA2MxZ1EEVfPVwY23fsNTGlJPyzuRY1/view?usp=sharing'
+ { id: 193, code: 'PHY301', title: 'physics Chp01 to Chp08', category: 'police', image: '⚛️',links:[
+       
   ] },
 
   // PSC - Political Science
