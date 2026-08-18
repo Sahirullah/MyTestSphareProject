@@ -304,12 +304,13 @@ export const nmdcatpastpaper = [
   { id: 13, code: 'GATE', title: 'GATE Practice Tests', category: 'gate', image: '🏗️' },
 
   //Islamabad Police 
+  //Islamabad Police ASI 
   {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police ASI Past Papers', category: 'police', image: '👮',links:[
     'https://drive.google.com/file/d/1CxqIz9z1AlPlnGO9D5FQKG1IYEGZgdVE/view?usp=sharing',
     'https://drive.google.com/file/d/1pcQRclDF11v6rnO1F2PCJHUDmAk-b120/view?usp=sharing'
   ]},
 
-  //Islamabad Police 
+  //Islamabad Police constable
   {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police constable Past Papers', category: 'police', image: '👮',links:[
     'https://drive.google.com/file/d/1uzyC7M_3JoaaMS07vZanjsVukrCqwaUP/view?usp=sharing',
     'https://drive.google.com/file/d/1utciQ1kJw42kr2Bz4prwnlIxTQMwem3m/view?usp=sharing',
