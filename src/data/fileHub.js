@@ -1528,6 +1528,7 @@ export const finalTermCategories = [
   { id: 'pad', name: 'PAD - Public Administration' },
   { id: 'pak', name: 'PAK - Pakistan Studies' },
   { id: 'phy', name: 'PHY - Physics' },
+  { id: 'police', name: 'POLICE - Exams Preparation books' },
   { id: 'psc', name: 'PSC - Political Science' },
   { id: 'psy', name: 'PSY - Psychology' },
   { id: 'soc', name: 'SOC - Sociology' },
