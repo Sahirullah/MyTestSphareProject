@@ -1342,7 +1342,7 @@ export const finalTermDataPart4 = [
   ]},
 
 // Police Exams Preparation Constable Books
- { id: 193, code: 'Police', title: 'Islamabad police constable test Preparation pdf.', category: 'police', image: '⚛️',links:[
+ { id: 193, code: 'Islamabad Police', title: 'Islamabad police constable test Preparation pdf.', category: 'police', image: '⚛️',links:[
 
   ]},
 
