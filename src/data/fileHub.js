@@ -1360,9 +1360,9 @@ export const finalTermDataPart4 = [
  { id: 193, code: 'Police', title: 'Islamabad police LDC test Preparation pdf.', category: 'police', image: '⚛️',links:[
 
   ]},
-  
-// Police Exams Preparation LDC Books
- { id: 193, code: 'Police', title: 'Islamabad police LDC test Preparation pdf.', category: 'police', image: '⚛️',links:[
+
+// Police Exams Preparation Assistant Books
+ { id: 193, code: 'Police', title: 'Islamabad police Assistant test Preparation pdf.', category: 'police', image: '⚛️',links:[
 
   ]},
 
