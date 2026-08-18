@@ -1335,11 +1335,12 @@ export const finalTermDataPart4 = [
       'https://drive.google.com/file/d/16hA2MxZ1EEVfPVwY23fsNTGlJPyzuRY1/view?usp=sharing'
   ] },
 // Police Exams Preparation Books
+// Police Exams Preparation ASI Books
  { id: 193, code: 'Police', title: 'Islamabad police ASI test Preparation pdf.', category: 'police', image: '⚛️',links:[
       'https://drive.google.com/file/d/1CxqIz9z1AlPlnGO9D5FQKG1IYEGZgdVE/view?usp=sharing',
       'https://drive.google.com/file/d/1pcQRclDF11v6rnO1F2PCJHUDmAk-b120/view?usp=sharing'
   ]},
-
+// Police Exams Preparation Constable Books
  { id: 193, code: 'Police', title: 'Islamabad police constable test Preparation pdf.', category: 'police', image: '⚛️',links:[
 
   ]},
