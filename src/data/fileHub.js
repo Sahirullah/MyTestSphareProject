@@ -1347,7 +1347,7 @@ export const finalTermDataPart4 = [
   ]},
 
 // Police Exams Preparation Stenotypist Books
- { id: 193, code: 'Police', title: 'Islamabad police stenotypist test Preparation pdf.', category: 'police', image: '⚛️',links:[
+ { id: 193, code: 'Islamabad Police', title: 'Islamabad police stenotypist test Preparation pdf.', category: 'police', image: '⚛️',links:[
 
   ]},
 
