@@ -1340,8 +1340,19 @@ export const finalTermDataPart4 = [
       'https://drive.google.com/file/d/1CxqIz9z1AlPlnGO9D5FQKG1IYEGZgdVE/view?usp=sharing',
       'https://drive.google.com/file/d/1pcQRclDF11v6rnO1F2PCJHUDmAk-b120/view?usp=sharing'
   ]},
+
 // Police Exams Preparation Constable Books
  { id: 193, code: 'Police', title: 'Islamabad police constable test Preparation pdf.', category: 'police', image: '⚛️',links:[
+
+  ]},
+
+// Police Exams Preparation Stenotypist Books
+ { id: 193, code: 'Police', title: 'Islamabad police stenotypist test Preparation pdf.', category: 'police', image: '⚛️',links:[
+
+  ]},
+
+// Police Exams Preparation UDC Books
+ { id: 193, code: 'Police', title: 'Islamabad police UDC test Preparation pdf.', category: 'police', image: '⚛️',links:[
 
   ]},
 
