@@ -1360,6 +1360,11 @@ export const finalTermDataPart4 = [
  { id: 193, code: 'Police', title: 'Islamabad police LDC test Preparation pdf.', category: 'police', image: '⚛️',links:[
 
   ]},
+  
+// Police Exams Preparation LDC Books
+ { id: 193, code: 'Police', title: 'Islamabad police LDC test Preparation pdf.', category: 'police', image: '⚛️',links:[
+
+  ]},
 
   // PSC - Political Science
   { id: 194, code: 'PSC201', title: 'Political Science Course', category: 'psc', image: '🗳️' },
