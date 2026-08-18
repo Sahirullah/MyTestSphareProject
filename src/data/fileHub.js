@@ -1343,7 +1343,10 @@ export const finalTermDataPart4 = [
 
 // Police Exams Preparation Constable Books
  { id: 193, code: 'Islamabad Police', title: 'Islamabad police constable test Preparation pdf.', category: 'police', image: '⚛️',links:[
-
+   'https://drive.google.com/file/d/1uzyC7M_3JoaaMS07vZanjsVukrCqwaUP/view?usp=sharing',
+   'https://drive.google.com/file/d/1utciQ1kJw42kr2Bz4prwnlIxTQMwem3m/view?usp=sharing',
+   'https://drive.google.com/file/d/1b4I5OeJ8Mi33nLgHWcpUCdzt7I0jhWmu/view?usp=sharing',
+   'https://drive.google.com/file/d/1zDyJjnCn2ZXWmh2kALJ4ensZdSswxXf4/view?usp=sharing'
   ]},
 
 // Police Exams Preparation Stenotypist Books
