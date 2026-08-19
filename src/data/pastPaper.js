@@ -317,6 +317,16 @@ export const nmdcatpastpaper = [
     'https://drive.google.com/file/d/1b4I5OeJ8Mi33nLgHWcpUCdzt7I0jhWmu/view?usp=sharing',
     'https://drive.google.com/file/d/1zDyJjnCn2ZXWmh2kALJ4ensZdSswxXf4/view?usp=sharing'
   ]},
+
+  //Islamabad Police LDC
+  {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police LDC Past Papers', category: 'police', image: '👮',links:[
+    'https://drive.google.com/file/d/15KJU4-9ByLVRa6-zy8MP6KATtH68L9Ch/view?usp=sharing'
+  ]},
+
+  //Islamabad Police UDC
+  {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police LDC Past Papers', category: 'police', image: '👮',links:[
+    'https://drive.google.com/file/d/15KJU4-9ByLVRa6-zy8MP6KATtH68L9Ch/view?usp=sharing'
+  ]},
 ];
 
 export const allMidtermData = [
