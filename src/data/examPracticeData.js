@@ -345,6 +345,39 @@ export const examPracticeData = [
   {"question": "Q NO 100. The “Berber” tribes were resident of", "options": ["South Korea", "North Africa", "Andulus", "China"], "correct": 1}
 ]},
 
+  { id: 87, code: 'Police', title: 'Islamabad Police LDC mock test', category: 'police', image: '👮', questions:[
+  {"question": "Q.1: Pakistan is located in the ____ part of South Asia.", "options": ["Western", "Southern", "Eastern", "None of these"], "correct": 0},
+  {"question": "Q.2: A worksheet in Excel is divided into _____?", "options": ["Lines & Spaces", "Columns & Rows", "Layers & Planes", "None of these"], "correct": 1},
+  {"question": "Q.3: There has been a complete break ______ of law and order.", "options": ["Down", "Off", "On", "None of these"], "correct": 0},
+  {"question": "Q.4: Which short cut key is used to SAVE a documents or workbook?", "options": ["Ctrl + A", "Ctrl + S", "Ctrl + Z", "None of these"], "correct": 1},
+  {"question": "Q.5: Shortcut Key for justifying the text in MS Word is?", "options": ["Crtl + J", "Crtl + S", "Crtl + Z", "None of these"], "correct": 0},
+  {"question": "Q.6: What is the purpose of the VLOOUK function in Excel?", "options": ["To find a value in a table based on a matching value in the first column", "To sort data", "To create a chart", "None of these"], "correct": 0},
+  {"question": "Q.7: The idiom: \"Pull's someone's leg\" means?", "options": ["To physically drag someone", "To take someone up", "To deceive or tease some", "None of these"], "correct": 2},
+  {"question": "Q.8: The Synonym of GENEROUS is?", "options": ["Frugal", "Willing to give and share", "Charitable", "Both B and C"], "correct": 3},
+  {"question": "Q.9: The idiom: \"Let the cat out of bag.\" means?", "options": ["To reveal secret / Give away a secret / Secret is revealed carelessly", "To adopt measures", "To save cat", "None of these"], "correct": 0},
+  {"question": "Q.10: They arrived _____ the airport just in time for their flight.", "options": ["at", "by", "on", "in"], "correct": 0},
+  {"question": "Q.11: He is responsible _____ the project's success.", "options": ["with", "for", "on", "in"], "correct": 1},
+  {"question": "Q.12: Although he eats a lot, _______?", "options": ["He is gaining weight", "He is losing weight", "He is putting on weight", "None of these"], "correct": 1},
+  {"question": "Q.13: We _____ friends since we were children.", "options": ["have been", "has been", "was", "were"], "correct": 0},
+  {"question": "Q.14: The Antonym of Sparse is?", "options": ["Abundant", "Beautiful", "Scare", "None of these"], "correct": 0},
+  {"question": "Q.15: I have been accused _____ many things in my life, but never of cowardice.", "options": ["in", "of", "with", "for"], "correct": 1},
+  {"question": "Q.16: 8 : ? :: 1 : 4", "options": ["16", "32", "23", "33"], "correct": 1},
+  {"question": "Q.17: In Access, which data type is used for \"quantity\"?", "options": ["Number", "Currency", "Text", "None of these"], "correct": 0},
+  {"question": "Q.18: Change 4 2/3 to an improper fraction?", "options": ["14/3", "11/3", "24/3", "None of these"], "correct": 0},
+  {"question": "Q.19: If the ratios of apples to oranges is 3:2, How many oranges are there if there are 12 apples?", "options": ["3", "5", "7", "8"], "correct": 3},
+  {"question": "Q.20: What is percentage of 150 is 30?", "options": ["15%", "20%", "25%", "None of these"], "correct": 1},
+  {"question": "Q.21: The distance between two cities is 1800 miles. How many litres of petrol will a motorist use with an automobile that used (on) average 1 litre of petrol for each 12 miles?", "options": ["180", "150", "160", "170"], "correct": 1},
+  {"question": "Q.22: A man saves Rs.500 which is 15% of his annual income. How much does he earn in one year?", "options": ["3132.30", "3542.50", "3075.75", "3333.33"], "correct": 3},
+  {"question": "Q.23: A store offers a 20% discount on a jacket original price at 1500. What is the sale price of the jacket?", "options": ["1100", "1200", "1300", "1400"], "correct": 1},
+  {"question": "Q.24: Change the 27/7 to a mixed number?", "options": ["2 2/7", "4 1/7", "3 6/7", "None of these"], "correct": 2},
+  {"question": "Q.25: 10 men can complete a job in 14 days. How long will it take 4 men to finish the same job if the same at the same rate?", "options": ["30 days", "35 days", "40 days", "None of these"], "correct": 1},
+  {"question": "Q.26: If A + B = 15 and A - B = 3, what is the value of 4AB?", "options": ["216", "154", "234", "456"], "correct": 0},
+  {"question": "Q.27: Pakistan successfully conducted its nuclear tests on 28 May of which year?", "options": ["1997", "1998", "1999", "None of these"], "correct": 1},
+  {"question": "Q.28: Harappa is an archeological site belonging to which civilization?", "options": ["Mesopotamian Civilization", "Indus Valley Civilization", "Egyptian Civilization", "None of these"], "correct": 1},
+  {"question": "Q.29: GDP stands for _____?", "options": ["Gross Domestic Product", "Global Demand for Production", "Global Petroleum Corporation", "None of these"], "correct": 0},
+  {"question": "Q.30: Which international body is responsible for monitoring and combating terrorist financing?", "options": ["FATF", "IMF", "UNO", "None of these"], "correct": 0}
+]},
+
 //PAKISTAN AIR FORECE EXAM MOCK TEST
 //Pakistan Air Force GDP free mock test
   { id: 88, code: 'PAF', title: 'Pakistan Air Force GDP free mock test', category: 'paf', image: '👮', questions: [
