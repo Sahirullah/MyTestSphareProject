@@ -1361,7 +1361,7 @@ export const finalTermDataPart4 = [
 
 // Police Exams Preparation LDC Books
  { id: 193, code: 'Islamabad Police', title: 'Islamabad police LDC test Preparation pdf.', category: 'police', image: '⚛️',links:[
-
+'https://drive.google.com/file/d/15KJU4-9ByLVRa6-zy8MP6KATtH68L9Ch/view?usp=sharing'
   ]},
 
 // Police Exams Preparation Assistant Books
