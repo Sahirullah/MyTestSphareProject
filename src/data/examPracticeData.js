@@ -345,12 +345,15 @@ export const examPracticeData = [
   {"question": "Q NO 100. The “Berber” tribes were resident of", "options": ["South Korea", "North Africa", "Andulus", "China"], "correct": 1}
 ]},
 
+
+
 ];
 
 export const quizCategories = [
   { id: 'all', name: 'All Courses' },
   { id: 'acc', name: 'ACC - Accounting' },
   { id: 'bio', name: 'BIO - Biology' },
-  { id: 'cs', name: 'CS - Computer Science' },
+  { id: 'cs',  name: 'CS - Computer Science' },
   { id: 'police', name: 'Police - Islamabad Police' },
+  { id: 'pdf', name: 'PAF - Pakistan Air Force'},
 ];
