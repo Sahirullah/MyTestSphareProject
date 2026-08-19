@@ -325,7 +325,7 @@ export const nmdcatpastpaper = [
 
   //Islamabad Police UDC
   {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police LDC Past Papers', category: 'police', image: '👮',links:[
-    'https://drive.google.com/file/d/15KJU4-9ByLVRa6-zy8MP6KATtH68L9Ch/view?usp=sharing'
+    'https://drive.google.com/file/d/1zdlFuDe_bNqd5EggrnHgP69541E-SCht/view?usp=sharing'
   ]},
 ];
 
