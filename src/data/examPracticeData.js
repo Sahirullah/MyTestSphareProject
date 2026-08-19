@@ -381,8 +381,37 @@ export const examPracticeData = [
 
 // Islamabad police UDC mock test
   { id: 87, code: 'Police', title: 'Islamabad Police UDC mock test', category: 'police', image: '👮', questions:[
-    
-  ]},
+  {"question": "Q.1: In MS Excel formula and function start with ____?", "options": ["=", "+", "_", ")"], "correct": 0},
+  {"question": "Q.2: What is the shortcut key for a double line spacing?", "options": ["Ctrl + 2", "Ctrl + 3", "Ctrl + 4", "None of these"], "correct": 0},
+  {"question": "Q.3: The shortcut key used to go for the first slide in PowerPoint?", "options": ["Home", "Ctrl + Home", "Ctrl + S", "None of these"], "correct": 0},
+  {"question": "Q.4: You can edit existing Excel data by pressing the _____?", "options": ["F2 Key", "F3 Key", "F1 Key", "None of these"], "correct": 0},
+  {"question": "Q.5: What is the name of the form used to input chart values?", "options": ["Microsoft graph", "Microsoft Excel", "Datesheet", "None of these"], "correct": 2},
+  {"question": "Q.6: Cntrl+S shortcut key is used for:", "options": ["Save", "Redo", "Undo", "None of these"], "correct": 0},
+  {"question": "Q.7: A young officer was charged _____ the task of taking 200 prisoners to the rear.", "options": ["for", "with", "on", "at"], "correct": 1},
+  {"question": "Q.8: Which of the following sentence is in the passive voice?", "options": ["The cat was chasing the mouse.", "The cat has chased the mouse.", "The mouse is chased by the cat.", "None of these"], "correct": 2},
+  {"question": "Q.9: Choose the correct sentence out of four sentences given below?", "options": ["She does not come here every week", "She do not come here every week", "She does not comes here every week", "She does not came here every week"], "correct": 0},
+  {"question": "Q.10: His knowledge of the subject is _____?", "options": ["Expensive", "Extensive", "Specious", "None of these"], "correct": 1},
+  {"question": "Q.11: Whatever he does is always country ____ my wishes.", "options": ["against", "for", "at", "in"], "correct": 0},
+  {"question": "Q.12: She _____ the report before the meeting started.", "options": ["Completing", "Has completed", "Had completed", "None of these"], "correct": 2},
+  {"question": "Q.13: The Idiom: To beat around the bush means?", "options": ["To complete a task efficiently", "To avoid discussing a topic directly", "To physically strike something", "None of these"], "correct": 1},
+  {"question": "Q.14: The Antonym of Arduous is?", "options": ["Challenging", "Difficult", "Easy", "None of these"], "correct": 2},
+  {"question": "Q.15: The Synonym of Repeat is?", "options": ["Change", "Improve", "Recall", "None of these"], "correct": 2},
+  {"question": "Q.16: It takes 2 minutes to boil a single egg. How many minutes will it take to boil 5 eggs together?", "options": ["2", "3", "4", "5"], "correct": 0},
+  {"question": "Q.17: Find the volume of a book whose length 19cm, width is 12cm and thickness is 3cm.", "options": ["684cm^3", "34cm^3", "285cm^3", "None of these"], "correct": 0},
+  {"question": "Q.18: Complete the series: 1, 4, 9, 16, 7, 36, _____?", "options": ["20", "25", "30", "40"], "correct": 1},
+  {"question": "Q.19: A number is divided by 8 and then increased 5, If the result is 20, what is the original number?", "options": ["130", "120", "140", "150"], "correct": 1},
+  {"question": "Q.20: Ali bought watch from a wholesaler for Rs. 250. In addition, he paid a sales tax of 15% on the cost price. He then sold the watch for Rs. 315. How much profit is made by Ali.", "options": ["Rs. 22.50", "Rs. 27.50", "Rs. 25", "None of these"], "correct": 1},
+  {"question": "Q.21: In a bag 60 candies, the ratio of chocolate candies to gummy candies is 3:2. How many gummy candies are there?", "options": ["24", "25", "26", "27"], "correct": 0},
+  {"question": "Q.22: Subtract 43(1)/(21)-27(5)/(14)", "options": ["15 4/21", "15 16/21", "15 8/21", "15 29/42"], "correct": 3},
+  {"question": "Q.23: Calculate the simple interest on Rs. 5640 invested for 7 months at 6% per annum.", "options": ["197.70", "199.60", "200.70", "None of these"], "correct": 0},
+  {"question": "Q.24: After spending 88% of his income, a man had Rs. 2160 left. Find his income?", "options": ["Rs. 19000", "Rs. 20000", "Rs. 18000", "None of these"], "correct": 2},
+  {"question": "Q.25: Machine A can complete a job in 8 hours, and Machine B can complete the same job in 12 hours. If both machines work together, how many hours will they take to complete the job?", "options": ["4.8 hours", "5.6 hours", "6 hours", "None of these"], "correct": 0},
+  {"question": "Q.26: What is name of Government Organization responsible for major major tax revenue collection in Pakistan?", "options": ["FBR", "ANF", "FIA", "None of these"], "correct": 0},
+  {"question": "Q.27: Under what amendment to the constitution of Pakistan, maximums provincial autonomy is ensured?", "options": ["17th", "18th", "19th", "20th"], "correct": 1},
+  {"question": "Q.28: What form of Government is in place in Pakistan presently?", "options": ["Presidential democracy", "Parliamentary democracy", "Monarchy", "None of these"], "correct": 1},
+  {"question": "Q.29: Name the organization deals with cybercrime in Pakistan?", "options": ["ANF", "FIA", "IMF", "None of these"], "correct": 1},
+  {"question": "Q.30: IMF stands for _____?", "options": ["International Monetary Fund", "Iran Monetary Fund", "Indonesia Monetary Fund", "None of these"], "correct": 0}
+]},
 
 //PAKISTAN AIR FORECE EXAM MOCK TEST
 //Pakistan Air Force GDP free mock test
