@@ -379,6 +379,11 @@ export const examPracticeData = [
   {"question": "Q.30: Which international body is responsible for monitoring and combating terrorist financing?", "options": ["FATF", "IMF", "UNO", "None of these"], "correct": 0}
 ]},
 
+// Islamabad police UDC mock test
+  { id: 87, code: 'Police', title: 'Islamabad Police UDC mock test', category: 'police', image: '👮', questions:[
+    
+  ]},
+
 //PAKISTAN AIR FORECE EXAM MOCK TEST
 //Pakistan Air Force GDP free mock test
   { id: 88, code: 'PAF', title: 'Pakistan Air Force GDP free mock test', category: 'paf', image: '👮', questions: [
