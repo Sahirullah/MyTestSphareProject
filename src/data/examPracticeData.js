@@ -347,11 +347,17 @@ export const examPracticeData = [
 
 //PAKISTAN AIR FORECE EXAM MOCK TEST
 //Pakistan Air Force GDP free mock test
-  { id: 87, code: 'PAF', title: 'Pakistan Air Force GDP free mock test', category: 'paf', image: '👮', questions: [
+  { id: 88, code: 'PAF', title: 'Pakistan Air Force GDP free mock test', category: 'paf', image: '👮', questions: [
 
   ]},
+
 //Pakistan Air Force Arotrades free mock test
-  { id: 87, code: 'PAF', title: 'Pakistan Air Force Arotrades free mock test', category: 'paf', image: '👮', questions: [
+  { id: 89, code: 'PAF', title: 'Pakistan Air Force Arotrades free mock test', category: 'paf', image: '👮', questions: [
+
+  ]},
+
+//Pakistan Air Force Airman free mock test
+  { id: 87, code: 'PAF', title: 'Pakistan Air Force Airman free mock test', category: 'paf', image: '👮', questions: [
 
   ]},
 
