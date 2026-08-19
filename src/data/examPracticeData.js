@@ -345,7 +345,9 @@ export const examPracticeData = [
   {"question": "Q NO 100. The “Berber” tribes were resident of", "options": ["South Korea", "North Africa", "Andulus", "China"], "correct": 1}
 ]},
 
+  { id: 87, code: 'PAF', title: 'Pakistan Air Force', category: 'paf', image: '👮', questions: [
 
+  ]},
 
 ];
 
@@ -355,5 +357,5 @@ export const quizCategories = [
   { id: 'bio', name: 'BIO - Biology' },
   { id: 'cs',  name: 'CS - Computer Science' },
   { id: 'police', name: 'Police - Islamabad Police' },
-  { id: 'pdf', name: 'PAF - Pakistan Air Force'},
+  { id: 'paf', name: 'PAF - Pakistan Air Force'},
 ];
