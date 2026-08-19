@@ -350,8 +350,8 @@ export const examPracticeData = [
   { id: 87, code: 'PAF', title: 'Pakistan Air Force GDP free mock test', category: 'paf', image: '👮', questions: [
 
   ]},
-
-  { id: 87, code: 'PAF', title: 'Pakistan Air Force GDP free mock test', category: 'paf', image: '👮', questions: [
+//Pakistan Air Force Arotrades free mock test
+  { id: 87, code: 'PAF', title: 'Pakistan Air Force Arotrades free mock test', category: 'paf', image: '👮', questions: [
 
   ]},
 
