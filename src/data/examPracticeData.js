@@ -357,7 +357,7 @@ export const examPracticeData = [
   ]},
 
 //Pakistan Air Force Airman free mock test
-  { id: 87, code: 'PAF', title: 'Pakistan Air Force Airman free mock test', category: 'paf', image: '👮', questions: [
+  { id: 90, code: 'PAF', title: 'Pakistan Air Force Airman free mock test', category: 'paf', image: '👮', questions: [
 
   ]},
 
