@@ -345,6 +345,7 @@ export const examPracticeData = [
   {"question": "Q NO 100. The “Berber” tribes were resident of", "options": ["South Korea", "North Africa", "Andulus", "China"], "correct": 1}
 ]},
 
+// Islamabad police LDC mock test
   { id: 87, code: 'Police', title: 'Islamabad Police LDC mock test', category: 'police', image: '👮', questions:[
   {"question": "Q.1: Pakistan is located in the ____ part of South Asia.", "options": ["Western", "Southern", "Eastern", "None of these"], "correct": 0},
   {"question": "Q.2: A worksheet in Excel is divided into _____?", "options": ["Lines & Spaces", "Columns & Rows", "Layers & Planes", "None of these"], "correct": 1},
