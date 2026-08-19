@@ -361,6 +361,11 @@ export const examPracticeData = [
 
   ]},
 
+//Pakistan Air Force Air defence free mock test
+  { id: 91, code: 'PAF', title: 'Pakistan Air Force Air defence free mock test', category: 'paf', image: '👮', questions: [
+
+  ]},
+
 ];
 
 export const quizCategories = [
