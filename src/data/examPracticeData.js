@@ -527,27 +527,32 @@ export const examPracticeData = [
 
 //PAKISTAN AIR FORECE EXAM MOCK TEST
 //Pakistan Air Force GDP free mock test
-  { id: 88, code: 'PAF', title: 'Pakistan Air Force GDP free mock test', category: 'paf', image: '👮', questions: [
+  { id: 88, code: 'PAF', title: 'Pakistan Air Force GDP free mock test', category: 'airforce', image: '👮', questions: [
 
   ]},
 
 //Pakistan Air Force Arotrades free mock test
-  { id: 89, code: 'PAF', title: 'Pakistan Air Force Arotrades free mock test', category: 'paf', image: '👮', questions: [
+  { id: 89, code: 'PAF', title: 'Pakistan Air Force Arotrades free mock test', category: 'airforce', image: '👮', questions: [
 
   ]},
 
 //Pakistan Air Force Airman free mock test
-  { id: 90, code: 'PAF', title: 'Pakistan Army free mock test', category: 'paf', image: '👮', questions: [
+  { id: 90, code: 'PAF', title: 'Pakistan Army free mock test', category: 'airforce', image: '👮', questions: [
 
   ]},
 
 //Pakistan Air Force Air defence free mock test
-  { id: 91, code: 'PAF', title: 'Pakistan Air Force Air defence free mock test', category: 'paf', image: '👮', questions: [
+  { id: 91, code: 'PAF', title: 'Pakistan Air Force Air defence free mock test', category: 'airforce', image: '👮', questions: [
 
   ]},
 //Pakistan Army Mock Test
 //Pakistan army free mock test
-  { id: 91, code: 'pkarmy', title: 'Pakistan Air Force Air defence free mock test', category: 'pkarmy', image: '👮', questions: [
+  { id: 92, code: 'ARMY', title: 'Pakistan Army free mock test', category: 'army', image: '👮', questions: [
+
+  ]},
+  
+//Pakistan army free mock test
+  { id: 92, code: 'ARMY', title: 'Pakistan Army free mock test', category: 'army', image: '👮', questions: [
 
   ]},
 
@@ -559,6 +564,6 @@ export const quizCategories = [
   { id: 'bio', name: 'BIO - Biology' },
   { id: 'cs',  name: 'CS - Computer Science' },
   { id: 'police', name: 'Police - Islamabad Police' },
-  { id: 'paf', name: 'PAF - Pakistan Air Force'},
-  { id: 'pkarmy', name: 'PAk - army'},
+  { id: 'airforce', name: 'AIR FORCE - Air Force'},
+  { id: 'army', name: 'ARMY - army'},
 ];
