@@ -537,12 +537,17 @@ export const examPracticeData = [
   ]},
 
 //Pakistan Air Force Airman free mock test
-  { id: 90, code: 'PAF', title: 'Pakistan Air Force Airman free mock test', category: 'paf', image: '👮', questions: [
+  { id: 90, code: 'PAF', title: 'Pakistan Army free mock test', category: 'paf', image: '👮', questions: [
 
   ]},
 
 //Pakistan Air Force Air defence free mock test
   { id: 91, code: 'PAF', title: 'Pakistan Air Force Air defence free mock test', category: 'paf', image: '👮', questions: [
+
+  ]},
+//Pakistan Army Mock Test
+//Pakistan army free mock test
+  { id: 91, code: 'pkarmy', title: 'Pakistan Air Force Air defence free mock test', category: 'pkarmy', image: '👮', questions: [
 
   ]},
 
@@ -555,4 +560,5 @@ export const quizCategories = [
   { id: 'cs',  name: 'CS - Computer Science' },
   { id: 'police', name: 'Police - Islamabad Police' },
   { id: 'paf', name: 'PAF - Pakistan Air Force'},
+  { id: 'pkarmy', name: 'PAk - army'},
 ];
