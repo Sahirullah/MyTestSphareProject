@@ -130,7 +130,7 @@ export const examPracticeData = [
   { id: 86, code: 'CS614', title: 'Data Warehousing', category: 'cs', image: '💻', questions: generateCourseQuestions('Data Warehousing'), totalQuestions: 50 },
   
 
-  //POLICE
+  //POLICE Mock Exam
   //Islamabad police ASI Exam
   { id: 86, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
   {"question": "Which of the following is generally organized by direct approach and receives a favorable reaction?", "options": ["Business message", "Bad news message", "Good news message", "Routine message"], "correct": 2},
