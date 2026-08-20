@@ -238,7 +238,8 @@ export const examPracticeData = [
   {"question": "If Y = 3x + 12 and Y = 5 then what is X equal to?", "options": ["3/7", "7/3", "-7/3", "None of these"], "correct": 2},
   {"question": "When the State Bank wants to decrease money supply in the country, it?", "options": ["Buys government in stock market", "Lowers discount rate", "Sells government securities", "None of these"], "correct": 2},
   {"question": "Which is the largest landlocked country in the world?", "options": ["Uzbekistan", "Kazakhstan", "China", "Bhutan"], "correct": 1},
-  {"question": "All of the following countries are permanent members of the Security Council except?", "options": ["France", "Germany", "Italy", "None of these"], "correct": 1}
+  {"question": "All of the following countries are permanent members of the Security Council except?", "options": ["France", "Germany", "Italy", "None of these"], "correct": 1},
+  
 ]},
 
   //Islamabad police constable mock test
