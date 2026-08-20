@@ -402,7 +402,7 @@ export const examPracticeData = [
 ]},
 
 // Islamabad police LDC mock test
-  { id: 87, code: 'Police', title: 'Islamabad Police LDC mock test', category: 'police', image: '👮', questions:[
+  { id: 88, code: 'Police', title: 'Islamabad Police LDC mock test', category: 'police', image: '👮', questions:[
   {"question": "Q.1: Pakistan is located in the ____ part of South Asia.", "options": ["Western", "Southern", "Eastern", "None of these"], "correct": 0},
   {"question": "Q.2: A worksheet in Excel is divided into _____?", "options": ["Lines & Spaces", "Columns & Rows", "Layers & Planes", "None of these"], "correct": 1},
   {"question": "Q.3: There has been a complete break ______ of law and order.", "options": ["Down", "Off", "On", "None of these"], "correct": 0},
@@ -464,7 +464,7 @@ export const examPracticeData = [
 ]},
 
 // Islamabad police UDC mock test
-  { id: 87, code: 'Police', title: 'Islamabad Police UDC mock test', category: 'police', image: '👮', questions:[
+  { id: 89, code: 'Police', title: 'Islamabad Police UDC mock test', category: 'police', image: '👮', questions:[
   {"question": "Q.1: In MS Excel formula and function start with ____?", "options": ["=", "+", "_", ")"], "correct": 0},
   {"question": "Q.2: What is the shortcut key for a double line spacing?", "options": ["Ctrl + 2", "Ctrl + 3", "Ctrl + 4", "None of these"], "correct": 0},
   {"question": "Q.3: The shortcut key used to go for the first slide in PowerPoint?", "options": ["Home", "Ctrl + Home", "Ctrl + S", "None of these"], "correct": 0},
@@ -527,34 +527,42 @@ export const examPracticeData = [
 
 //PAKISTAN AIR FORECE EXAM MOCK TEST
 //Pakistan Air Force GDP free mock test
-  { id: 88, code: 'PAF', title: 'Pakistan Air Force GDP free mock test', category: 'airforce', image: '👮', questions: [
+  { id: 90, code: 'PAF', title: 'Pakistan Air Force GDP free mock test', category: 'airforce', image: '👮', questions: [
 
   ]},
 
 //Pakistan Air Force Arotrades free mock test
-  { id: 89, code: 'PAF', title: 'Pakistan Air Force Arotrades free mock test', category: 'airforce', image: '👮', questions: [
+  { id: 91, code: 'PAF', title: 'Pakistan Air Force Arotrades free mock test', category: 'airforce', image: '👮', questions: [
 
   ]},
 
 //Pakistan Air Force Airman free mock test
-  { id: 90, code: 'PAF', title: 'Pakistan Army free mock test', category: 'airforce', image: '👮', questions: [
+  { id: 92, code: 'PAF', title: 'Pakistan Air Force Airman free mock test', category: 'airforce', image: '👮', questions: [
 
   ]},
 
 //Pakistan Air Force Air defence free mock test
-  { id: 91, code: 'PAF', title: 'Pakistan Air Force Air defence free mock test', category: 'airforce', image: '👮', questions: [
+  { id: 93, code: 'PAF', title: 'Pakistan Air Force Air defence free mock test', category: 'airforce', image: '👮', questions: [
 
   ]},
   
 //Pakistan Army Mock Test
 //Pakistan army free mock test
-  { id: 92, code: 'Pak army', title: 'GD in Pakistan army free mock test', category: 'army', image: '👮', questions: [
-
+  { id: 94, code: 'Pak army', title: 'GD in Pakistan army free mock test', category: 'army', image: '👮', questions: [
+    {"question": "Pakistan Army was established in which year?", "options": ["1947", "1950", "1956", "1965"], "correct": 0},
+    {"question": "What is the motto of Pakistan Army?", "options": ["Service Before Self", "Faith, Fatherland, Honour", "Iqbal Se Ilhaam", "None"], "correct": 1},
+    {"question": "Who is the current Chief of Army Staff?", "options": ["General Officer", "Field Marshal", "Senior Officer", "Military Commander"], "correct": 0},
+    {"question": "What are the ranks in Pakistan Army enlisted personnel?", "options": ["Havildar, Sepoy, Jemadar", "Sepoy, Naib Subedar, Subedar", "Lance Naik, Naib Subedar, Subedar Major", "All of the above"], "correct": 3},
+    {"question": "Which battle was the Pakistan Army's first major engagement?", "options": ["Kargil War", "Partition", "1948 War", "1965 War"], "correct": 2},
   ]},
 
 //Pakistan PMA free mock test
-  { id: 93, code: 'Pak Army', title: 'PMA in Pakistan army free mock test', category: 'army', image: '👮', questions: [
-
+  { id: 95, code: 'Pak Army', title: 'PMA in Pakistan army free mock test', category: 'army', image: '👮', questions: [
+    {"question": "PMA stands for?", "options": ["Pakistan Military Academy", "Public Military Authority", "Pakistan Armed Movement", "Personnel Military Affairs"], "correct": 0},
+    {"question": "Where is Pakistan Military Academy located?", "options": ["Rawalpindi", "Abbottabad", "Islamabad", "Peshawar"], "correct": 1},
+    {"question": "What is the duration of PMA Long Course?", "options": ["1 year", "2 years", "3 years", "4 years"], "correct": 2},
+    {"question": "Which university is PMA affiliated with?", "options": ["FAST", "AJK", "Punjab University", "Quaid-e-Azam University"], "correct": 3},
+    {"question": "What is the main objective of PMA?", "options": ["Military training", "Officer commission", "Research", "Engineering"], "correct": 1},
   ]},
 
 ];
