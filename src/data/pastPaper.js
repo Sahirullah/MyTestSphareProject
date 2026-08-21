@@ -328,10 +328,13 @@ export const nmdcatpastpaper = [
     'https://drive.google.com/file/d/1zdlFuDe_bNqd5EggrnHgP69541E-SCht/view?usp=sharing'
   ]},
 
-  
-  //Islamabad Police UDC
-  {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police LDC Past Papers', category: 'police', image: '👮',links:[
-    'https://drive.google.com/file/d/1zdlFuDe_bNqd5EggrnHgP69541E-SCht/view?usp=sharing'
+
+  //PPSC Punjab public service commission
+  {id: 14, code: 'PPSC', title: 'PPSC Punjab public service commissionPast Papers', category: 'police', image: '👮',links:[
+    'https://drive.google.com/file/d/1OAXH7PMGxlyam-rrVjHVepcXMIj3v6n-/view?usp=sharing',
+    'https://drive.google.com/file/d/1cojR8tPjRuLqL1oZNtlQiPwJ-i-jI44C/view?usp=sharing',
+    'https://drive.google.com/file/d/1OAXH7PMGxlyam-rrVjHVepcXMIj3v6n-/view?usp=sharing',
+    ''
   ]},
 ];
 
