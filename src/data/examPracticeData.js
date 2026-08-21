@@ -567,6 +567,7 @@ export const examPracticeData = [
 
 ];
 
+//Getagory buttons
 export const quizCategories = [
   { id: 'all', name: 'All Courses' },
   { id: 'acc', name: 'ACC - Accounting' },
