@@ -397,6 +397,7 @@ export const midtermCategories = [
   { id: 'police', name: 'POLICE - Islamabad police past papers'},
   { id: 'psc', name: 'PSC - Political Science' },
   { id: 'psy', name: 'PSY - Psychology' },
+  { id: 'ppsc', name: 'PPSC - Punjab Public Service Commission' },
   { id: 'soc', name: 'SOC - Sociology' },
   { id: 'sta', name: 'STA - Statistics' },
   { id: 'toefl', name: 'TOEFL - Test of English as a Foreign Language' },
