@@ -1401,9 +1401,10 @@ export const finalTermDataPart4 = [
   
  // PPSC - Punjab Public Service Commission 01
   { id: 196, code: 'PPSC', title: 'Psychology Course', category: 'ppsc', image: '🧠',links:[
-    'https://drive.google.com/file/d/1ppkZ0nTbR7ROfDgX6RecqJRfJ0PHk4YH/view?usp=sharing',
-    'https://drive.google.com/file/d/1jvFO5xYnDdzWFlkElMFExIkcJuzGQCvU/view?usp=sharing',
-    'https://drive.google.com/file/d/1u3d-k0_00ND_tJ7k26jEC2Qo_bUoFI_G/view?usp=sharing'
+    'https://drive.google.com/file/d/1wUWyAD1IlKDJhRWsd9EGEjI_oMNJyCgs/view?usp=sharing',
+    'https://drive.google.com/file/d/1mF9Z0MyeyrR0V_rAQXpDx0IOSdrPZK1f/view?usp=sharing',
+    'https://drive.google.com/file/d/16qHX7flzQX6KYoPyIe33QlqOdVtMZIEL/view?usp=sharing',
+    
   ] },
 
  // PPSC - Punjab Public Service Commission 02
