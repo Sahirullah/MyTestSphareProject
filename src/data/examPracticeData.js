@@ -586,5 +586,5 @@ export const quizCategories = [
   { id: 'police', name: 'Police - Islamabad Police' },
   { id: 'airforce', name: 'AIR FORCE - Air Force'},
   { id: 'army', name: 'ARMY - army'},
-  
+  { id: 'ielts', name: 'IELTS - English Language Test'},
 ];
