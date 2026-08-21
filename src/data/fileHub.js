@@ -1404,7 +1404,11 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1wUWyAD1IlKDJhRWsd9EGEjI_oMNJyCgs/view?usp=sharing',
     'https://drive.google.com/file/d/1mF9Z0MyeyrR0V_rAQXpDx0IOSdrPZK1f/view?usp=sharing',
     'https://drive.google.com/file/d/16qHX7flzQX6KYoPyIe33QlqOdVtMZIEL/view?usp=sharing',
-    
+    'https://drive.google.com/file/d/1sc_UvScApHUc7RLfEc2WgAUsJxA9ZYQ9/view?usp=sharing',
+    'https://drive.google.com/file/d/1SQtZOyQdUGuY6CV1wksE3x4PUeFE56Pi/view?usp=sharing',
+    'https://drive.google.com/file/d/1ClvOoXpmvNG0ZvT0FuIGaA7WTlxrANR0/view?usp=sharing',
+    'https://drive.google.com/file/d/108og-d83MeYEetIpXk5XgI1qHcp_LQHg/view?usp=sharing',
+    'https://drive.google.com/file/d/1gjcqrhn1VYudyFOih7FFn4G7Auvesc64/view?usp=sharing'
   ] },
 
  // PPSC - Punjab Public Service Commission 02
