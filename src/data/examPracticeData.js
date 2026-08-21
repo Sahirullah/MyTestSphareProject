@@ -589,4 +589,5 @@ export const quizCategories = [
   { id: 'airforce', name: 'AIR FORCE - Air Force'},
   { id: 'army', name: 'ARMY - army'},
   { id: 'ielts', name: 'IELTS - English Language Test'},
+  { id: 'ppsc', name: 'PPSC - Punjab Public Service Commission'},
 ];
