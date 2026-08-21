@@ -568,7 +568,6 @@ export const examPracticeData = [
 //IELTS free mock test
   { id: 95, code: 'IELTS', title: 'IELTS free mock test', category: 'ielts', image: '👮', questions: [
     {"question": "PMA stands for?", "options": ["Pakistan Military Academy", "Public Military Authority", "Pakistan Armed Movement", "Personnel Military Affairs"], "correct": 0},
-
     {"question": "What is the duration of PMA Long Course?", "options": ["1 year", "2 years", "3 years", "4 years"], "correct": 2},
     {"question": "Which university is PMA affiliated with?", "options": ["FAST", "AJK", "Punjab University", "Quaid-e-Azam University"], "correct": 3},
     {"question": "What is the main objective of PMA?", "options": ["Military training", "Officer commission", "Research", "Engineering"], "correct": 1},
