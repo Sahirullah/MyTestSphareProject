@@ -1413,9 +1413,10 @@ export const finalTermDataPart4 = [
 
  // PPSC - Punjab Public Service Commission 02
   { id: 196, code: 'PPSC', title: 'Psychology Course', category: 'ppsc', image: '🧠',links:[
-    'https://drive.google.com/file/d/1ppkZ0nTbR7ROfDgX6RecqJRfJ0PHk4YH/view?usp=sharing',
-    'https://drive.google.com/file/d/1jvFO5xYnDdzWFlkElMFExIkcJuzGQCvU/view?usp=sharing',
-    'https://drive.google.com/file/d/1u3d-k0_00ND_tJ7k26jEC2Qo_bUoFI_G/view?usp=sharing'
+    'https://drive.google.com/file/d/18ABMk2VqfMmzk03Im0fU02_wxzWQ16RO/view?usp=sharing',
+    'https://drive.google.com/file/d/1Mjx4FeG-yOtVLTHlO60sh7TlM6ZKoWRq/view?usp=sharing',
+    'https://drive.google.com/file/d/1cojR8tPjRuLqL1oZNtlQiPwJ-i-jI44C/view?usp=sharing',
+    'https://drive.google.com/file/d/1OAXH7PMGxlyam-rrVjHVepcXMIj3v6n-/view?usp=sharing'
   ] },
 
   // SOC - Sociology
