@@ -339,7 +339,6 @@ export const nmdcatpastpaper = [
     'https://drive.google.com/file/d/108og-d83MeYEetIpXk5XgI1qHcp_LQHg/view?usp=sharing',
     'https://drive.google.com/file/d/1gjcqrhn1VYudyFOih7FFn4G7Auvesc64/view?usp=sharing',
     'https://drive.google.com/file/d/18ABMk2VqfMmzk03Im0fU02_wxzWQ16RO/view?usp=sharing'
-    ''
   ]},
 ];
 
