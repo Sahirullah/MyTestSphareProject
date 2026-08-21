@@ -327,6 +327,12 @@ export const nmdcatpastpaper = [
   {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police LDC Past Papers', category: 'police', image: '👮',links:[
     'https://drive.google.com/file/d/1zdlFuDe_bNqd5EggrnHgP69541E-SCht/view?usp=sharing'
   ]},
+
+  
+  //Islamabad Police UDC
+  {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police LDC Past Papers', category: 'police', image: '👮',links:[
+    'https://drive.google.com/file/d/1zdlFuDe_bNqd5EggrnHgP69541E-SCht/view?usp=sharing'
+  ]},
 ];
 
 export const allMidtermData = [
