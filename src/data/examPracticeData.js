@@ -571,7 +571,7 @@ export const examPracticeData = [
     {"question": "What is the main objective of PMA?", "options": ["Military training", "Officer commission", "Research", "Engineering"], "correct": 1},
   ]},
 //PPSC free mock test
-  { id: 95, code: 'IELTS', title: 'IELTS free mock test', category: 'ielts', image: '👮', questions: [
+  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission free mock test', category: 'ppsc', image: '👮', questions: [
     {"question": "PMA stands for?", "options": ["Pakistan Military Academy", "Public Military Authority", "Pakistan Armed Movement", "Personnel Military Affairs"], "correct": 0},
     {"question": "What is the main objective of PMA?", "options": ["Military training", "Officer commission", "Research", "Engineering"], "correct": 1},
   ]},
