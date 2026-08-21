@@ -329,7 +329,7 @@ export const nmdcatpastpaper = [
   ]},
 
 
-  //PPSC Punjab public service commission
+  //PPSC Punjab public service commission 01
   {id: 14, code: 'PPSC', title: 'PPSC Punjab public service commissionPast Papers', category: 'police', image: '👮',links:[
     'https://drive.google.com/file/d/1OAXH7PMGxlyam-rrVjHVepcXMIj3v6n-/view?usp=sharing',
     'https://drive.google.com/file/d/1cojR8tPjRuLqL1oZNtlQiPwJ-i-jI44C/view?usp=sharing',
@@ -339,6 +339,11 @@ export const nmdcatpastpaper = [
     'https://drive.google.com/file/d/108og-d83MeYEetIpXk5XgI1qHcp_LQHg/view?usp=sharing',
     'https://drive.google.com/file/d/1gjcqrhn1VYudyFOih7FFn4G7Auvesc64/view?usp=sharing',
     'https://drive.google.com/file/d/18ABMk2VqfMmzk03Im0fU02_wxzWQ16RO/view?usp=sharing'
+  ]},
+
+  //PPSC Punjab public service commission 02
+  {id: 14, code: 'PPSC', title: 'PPSC Punjab public service commissionPast Papers', category: 'police', image: '👮',links:[
+    ''
   ]},
 ];
 
