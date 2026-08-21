@@ -1399,6 +1399,13 @@ export const finalTermDataPart4 = [
   { id: 208, code: 'PSY631', title: 'Psychology Course', category: 'psy', image: '🧠' },
   { id: 209, code: 'PSY632', title: 'Psychology Course', category: 'psy', image: '🧠' },
   
+ // PPSC - Punjab Public Service Commission
+  { id: 196, code: 'PPSC', title: 'Psychology Course', category: 'ppsc', image: '🧠',links:[
+    'https://drive.google.com/file/d/1ppkZ0nTbR7ROfDgX6RecqJRfJ0PHk4YH/view?usp=sharing',
+    'https://drive.google.com/file/d/1jvFO5xYnDdzWFlkElMFExIkcJuzGQCvU/view?usp=sharing',
+    'https://drive.google.com/file/d/1u3d-k0_00ND_tJ7k26jEC2Qo_bUoFI_G/view?usp=sharing'
+  ] },
+
   // SOC - Sociology
   { id: 210, code: 'SOC101', title: 'Sociology Course', category: 'soc', image: '👥', links: [
     'https://drive.google.com/file/d/1kHRdJgtZJiI66CkXcbtxhnQMovsVpcLv/view?usp=sharing',
@@ -1565,6 +1572,7 @@ export const finalTermCategories = [
   { id: 'police', name: 'POLICE - Exams Preparation books' },
   { id: 'psc', name: 'PSC - Political Science' },
   { id: 'psy', name: 'PSY - Psychology' },
+  { id: 'ppsc', name: 'PPSC - Punjab Public Service Commission' },
   { id: 'soc', name: 'SOC - Sociology' },
   { id: 'sta', name: 'STA - Statistics' },
   { id: 'toefl', name: 'TOEFL - Test of English as a Foreign Language' },
