@@ -570,7 +570,7 @@ export const examPracticeData = [
     {"question": "PMA stands for?", "options": ["Pakistan Military Academy", "Public Military Authority", "Pakistan Armed Movement", "Personnel Military Affairs"], "correct": 0},
     {"question": "What is the main objective of PMA?", "options": ["Military training", "Officer commission", "Research", "Engineering"], "correct": 1},
   ]},
-//PPSC deputy accountant free mock test 01
+//PPSC deputy accountant free mock test 01 
   { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 01', category: 'ppsc', image: '👮', questions: [
   {"question": "Q.1: A fjord refers to?", "options": ["Storm in ocean", "long, narrow sea inlet characterized by steep cliffs or mountains", "Whirl in sand dune", "Rock in river"], "correct": 1},
   {"question": "Q.2: Pakistan total area is?", "options": ["796096 Sq.km", "696096 Sq.km", "896096 Sq.km", "996096 Sq.km"], "correct": 0},
