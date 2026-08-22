@@ -772,7 +772,7 @@ export const examPracticeData = [
   {"question": "Q.97: Hollywood is famous for which type of work?", "options": ["Statue Making", "Paintings", "Film Making", "Trade and Development"], "correct": 2}
 ]},
 
-//PPSC Assistant free mock test 02 
+//PPSC Assistant free mock test 01 
   { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 02', category: 'ppsc', image: '👮', questions: [
 
   ]},
