@@ -671,8 +671,8 @@ export const examPracticeData = [
   {"question": "Q.97: Hollywood is famous for which type of work?", "options": ["Statue Making", "Paintings", "Film Making", "Trade and Development"], "correct": 2}
 ]},
 
-//PPSC free mock test 02
-  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission free mock test 02', category: 'ppsc', image: '👮', questions: [
+//PPSC deputy accountant free mock test 02
+  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 02', category: 'ppsc', image: '👮', questions: [
   {"question": "Q.1: A fjord refers to?", "options": ["Storm in ocean", "long, narrow sea inlet characterized by steep cliffs or mountains", "Whirl in sand dune", "Rock in river"], "correct": 1},
   {"question": "Q.2: Pakistan total area is?", "options": ["796096 Sq.km", "696096 Sq.km", "896096 Sq.km", "996096 Sq.km"], "correct": 0},
   {"question": "Q.3: Internal Digital phenomena include Volcanism, tech tonic plates and ____?", "options": ["Convergent", "Civergent", "Diastrophism", "Denudation"], "correct": 2},
