@@ -776,7 +776,7 @@ export const examPracticeData = [
   { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 03', category: 'ppsc', image: '👮', questions: [
 
   ]},
-//PPSC deputy accountant free mock test 03 
+//PPSC deputy accountant free mock test 04
   { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 03', category: 'ppsc', image: '👮', questions: [
 
   ]},
