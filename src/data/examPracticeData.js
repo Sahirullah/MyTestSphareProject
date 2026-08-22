@@ -789,6 +789,10 @@ export const examPracticeData = [
   { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission Assistant free mock test 04', category: 'ppsc', image: '👮', questions: [
 
   ]},
+//PPSC Assistant free mock test 05
+  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission Assistant free mock test 04', category: 'ppsc', image: '👮', questions: [
+
+  ]},
 
 ];
 
