@@ -670,7 +670,7 @@ export const examPracticeData = [
   {"question": "Q.96: Which company has developed the world's first pilotless, fighter-like jet prototype?", "options": ["Tesla", "SpaceX", "CENTCOM", "Boeing"], "correct": 3},
   {"question": "Q.97: Hollywood is famous for which type of work?", "options": ["Statue Making", "Paintings", "Film Making", "Trade and Development"], "correct": 2}
 ]},
-
+ 
 //PPSC deputy accountant free mock test 02 
   { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 02', category: 'ppsc', image: '👮', questions: [
   {"question": "Q.1: A fjord refers to?", "options": ["Storm in ocean", "long, narrow sea inlet characterized by steep cliffs or mountains", "Whirl in sand dune", "Rock in river"], "correct": 1},
