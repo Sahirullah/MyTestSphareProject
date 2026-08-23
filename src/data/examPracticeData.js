@@ -103,7 +103,7 @@ export const examPracticeData = [
   { id: 55, code: 'CS205', title: 'Information Security', category: 'cs', image: '💻', questions: generateCourseQuestions('Security'), totalQuestions: 50 },
   { id: 56, code: 'CS206', title: 'Introduction to Network Design & Analysis', category: 'cs', image: '💻', questions: generateCourseQuestions('Network Design'), totalQuestions: 50 },
   { id: 57, code: 'CS301', title: 'Data Structures', category: 'cs', image: '💻', questions: generateCourseQuestions('Data Structures'), totalQuestions: 50 },
-//  { id: 58, code: 'CS302', title
+  { id: 58, code: 'CS302', title: 'Introduction to Database Management System', category: 'cs', image: '💻', questions: generateCourseQuestions('DBMS'), totalQuestions: 50 },
   { id: 59, code: 'CS304', title: 'Object Oriented Programming', category: 'cs', image: '💻', questions: generateCourseQuestions('OOP'), totalQuestions: 50 },
   { id: 60, code: 'CS310', title: 'Open Source Web Application Development', category: 'cs', image: '💻', questions: generateCourseQuestions('Web Development'), totalQuestions: 50 },
   { id: 61, code: 'CS311', title: 'Introduction to Web Services Development', category: 'cs', image: '💻', questions: generateCourseQuestions('Web Services'), totalQuestions: 50 },
