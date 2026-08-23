@@ -91,7 +91,7 @@ export const examPracticeData = [
   { id: 26, code: 'BIO734', title: 'Advance Cell Biology', category: 'bio', image: '🧬', questions: generateCourseQuestions('Cell Biology'), totalQuestions: 50 },
   
   // CS - Computer Science
-  //cs101 introduction to computing
+  //cs101 introduction to computing mock test
   { id: 50, code: 'CS001', title: 'Computer Proficiency License', category: 'cs', image: '💻', questions: generateCS001Questions(), totalQuestions: 50 },
   //cs201 introduction to C and C++ 
   { id: 51, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', questions: generateCourseQuestions('Computing'), totalQuestions: 50 },
