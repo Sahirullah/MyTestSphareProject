@@ -97,13 +97,13 @@ export const examPracticeData = [
   { id: 51, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', questions: generateCourseQuestions('Computing'), totalQuestions: 50 },
   //CS201p Introduction to C and C++ practical mock test
   { id: 52, code: 'CS201p', title: 'Introduction to Programming', category: 'cs', image: '💻', questions: generateCourseQuestions('Programming'), totalQuestions: 50 },
-  //CS202 Introduction to
+  //CS202 Introduction to Frontend Development
   { id: 53, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻', questions: generateCourseQuestions('Front End'), totalQuestions: 50 },
   { id: 54, code: 'CS204', title: 'Cyber Law', category: 'cs', image: '💻', questions: generateCourseQuestions('Cyber Law'), totalQuestions: 50 },
   { id: 55, code: 'CS205', title: 'Information Security', category: 'cs', image: '💻', questions: generateCourseQuestions('Security'), totalQuestions: 50 },
   { id: 56, code: 'CS206', title: 'Introduction to Network Design & Analysis', category: 'cs', image: '💻', questions: generateCourseQuestions('Network Design'), totalQuestions: 50 },
   { id: 57, code: 'CS301', title: 'Data Structures', category: 'cs', image: '💻', questions: generateCourseQuestions('Data Structures'), totalQuestions: 50 },
-  { id: 58, code: 'CS302', title: 'Digital Logic and Design', category: 'cs', image: '💻', questions: generateCourseQuestions('Digital Logic'), totalQuestions: 50 },
+//  { id: 58, code: 'CS302', title
   { id: 59, code: 'CS304', title: 'Object Oriented Programming', category: 'cs', image: '💻', questions: generateCourseQuestions('OOP'), totalQuestions: 50 },
   { id: 60, code: 'CS310', title: 'Open Source Web Application Development', category: 'cs', image: '💻', questions: generateCourseQuestions('Web Development'), totalQuestions: 50 },
   { id: 61, code: 'CS311', title: 'Introduction to Web Services Development', category: 'cs', image: '💻', questions: generateCourseQuestions('Web Services'), totalQuestions: 50 },
