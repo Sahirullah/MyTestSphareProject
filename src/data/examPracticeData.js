@@ -93,6 +93,7 @@ export const examPracticeData = [
   // CS - Computer Science
   //cs101
   { id: 50, code: 'CS001', title: 'Computer Proficiency License', category: 'cs', image: '💻', questions: generateCS001Questions(), totalQuestions: 50 },
+  //cs201
   { id: 51, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', questions: generateCourseQuestions('Computing'), totalQuestions: 50 },
   { id: 52, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻', questions: generateCourseQuestions('Programming'), totalQuestions: 50 },
   { id: 53, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻', questions: generateCourseQuestions('Front End'), totalQuestions: 50 },
