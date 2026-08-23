@@ -97,6 +97,7 @@ export const examPracticeData = [
   { id: 51, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', questions: generateCourseQuestions('Computing'), totalQuestions: 50 },
   //CS201p Introduction to C and C++ practical mock test
   { id: 52, code: 'CS201p', title: 'Introduction to Programming', category: 'cs', image: '💻', questions: generateCourseQuestions('Programming'), totalQuestions: 50 },
+  //CS202
   { id: 53, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻', questions: generateCourseQuestions('Front End'), totalQuestions: 50 },
   { id: 54, code: 'CS204', title: 'Cyber Law', category: 'cs', image: '💻', questions: generateCourseQuestions('Cyber Law'), totalQuestions: 50 },
   { id: 55, code: 'CS205', title: 'Information Security', category: 'cs', image: '💻', questions: generateCourseQuestions('Security'), totalQuestions: 50 },
