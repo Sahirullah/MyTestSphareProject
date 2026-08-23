@@ -269,7 +269,7 @@ export const examPracticeData = [
   {"question": "Q.28: Area of Federally Administered Tribal Areas (FATA) is______________ Square kilo meter?", "options": ["18925 km²", "22123 km²", "24532 km²", "27220 km²"], "correct": 3}
 ]},
 
-  //Islamabad police constable mock test
+  //Islamabad police constable mock test   
   { id: 87, code: 'Police', title: 'Islamabad Police constable mock test', category: 'police', image: '👮', questions:[
   {"question": "Q NO 1, airlines belongs to which country?", "options": ["Pakistan", "India", "America", "Jordan"], "correct": 3},
   {"question": "Q NO 2. Which of following is Cottage Industry?", "options": ["Cement", "Sugar", "Handicraft", "Textile"], "correct": 2},
@@ -401,7 +401,7 @@ export const examPracticeData = [
   {"question": "Q.28: Area of Federally Administered Tribal Areas (FATA) is______________ Square kilo meter?", "options": ["18925 km²", "22123 km²", "24532 km²", "27220 km²"], "correct": 3}
 ]},
 
-// Islamabad police LDC mock test
+// Islamabad police LDC mock test 
   { id: 88, code: 'Police', title: 'Islamabad Police LDC mock test', category: 'police', image: '👮', questions:[
   {"question": "Q.1: Pakistan is located in the ____ part of South Asia.", "options": ["Western", "Southern", "Eastern", "None of these"], "correct": 0},
   {"question": "Q.2: A worksheet in Excel is divided into _____?", "options": ["Lines & Spaces", "Columns & Rows", "Layers & Planes", "None of these"], "correct": 1},
@@ -570,7 +570,7 @@ export const examPracticeData = [
     {"question": "PMA stands for?", "options": ["Pakistan Military Academy", "Public Military Authority", "Pakistan Armed Movement", "Personnel Military Affairs"], "correct": 0},
     {"question": "What is the main objective of PMA?", "options": ["Military training", "Officer commission", "Research", "Engineering"], "correct": 1},
   ]},
-//PPSC deputy accountant free mock test 01 
+//PPSC deputy accountant free mock test 01  
   { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 01', category: 'ppsc', image: '👮', questions: [
   {"question": "Q.1: A fjord refers to?", "options": ["Storm in ocean", "long, narrow sea inlet characterized by steep cliffs or mountains", "Whirl in sand dune", "Rock in river"], "correct": 1},
   {"question": "Q.2: Pakistan total area is?", "options": ["796096 Sq.km", "696096 Sq.km", "896096 Sq.km", "996096 Sq.km"], "correct": 0},
