@@ -1117,7 +1117,17 @@ export const examPracticeData = [
   {"question": "Q.37: He insisted -------------seeing the documents.", "options": ["for", "to", "at", "on"], "correct": 3},
   {"question": "Q.38: she made a point in coming late so that everyone would look --------------her.", "options": ["at", "for", "to", "after"], "correct": 0},
   {"question": "Q.39: How are you getting------------at school?", "options": ["on", "up", "off", "over"], "correct": 0},
-  {"question": "Q.40: In spite of the heat he refused to take--------------his coat.", "options": ["of", "off", "out", "away"], "correct": 1}
+  {"question": "Q.40: In spite of the heat he refused to take--------------his coat.", "options": ["of", "off", "out", "away"], "correct": 1},
+  {"question": "Q.1: Tarbela Dam is located in which district of KPK ?", "options": ["Hazra", "Haripur", "Murre", "None of these"], "correct": 1},
+  {"question": "Q.2: Khilafat Movement was launched by Ali brothers and it continued from 1919-----------.", "options": ["1922", "1923", "1924", "1925"], "correct": 2},
+  {"question": "Q.3: The South Asian Association for regional cooperation SAARC was established in 1985 in ?", "options": ["Dhaka", "Jakarta", "London", "None of these"], "correct": 0},
+  {"question": "Q.4: The Punjab Irrigation System is a part of the Indus Basin System with ------------ main canals commands taking off from 14 barrages over the Indus and its tributaries.", "options": ["23", "24", "25", "26"], "correct": 1},
+  {"question": "Q.5: The famous August Officer was made by the viceroy ----------------in the year of 1940.", "options": ["Wavell", "Linlithgow", "Minto", "None of these"], "correct": 1},
+  {"question": "Q.6: The second Islamic Summit Conference was held in the year -------------- and it was hosted by Pakistan.", "options": ["1972", "1973", "1974", "1975"], "correct": 2},
+  {"question": "Q.7: In July 1972, Prime Minister of Pakistan ---------------and the Prime minister of India Indira Ghandhi signed an accord in Shimla .", "options": ["Nawaz Shareef", "Hussain Shaheed", "Z.A Bhutto", "None of these"], "correct": 2},
+  {"question": "Q.8: Sir Syed Ahmad Khan Established ---------------------to counter political hegemony of Hindus.", "options": ["MAO College", "Islamia College", "Graduate College", "None of these"], "correct": 0},
+  {"question": "Q.9: Great personalities like Allama Iqbal are born in centuries. His first public appearance was in -------------- at the annual session of Anjumane Himayat Islam.", "options": ["1888", "1889", "1890", "1891"], "correct": 1},
+  {"question": "Q.10: The --------------Award was announced on 17 August 1947 which established boundaries between India & Pakistan.", "options": ["Redcliff", "Communal", "Cross", "None of these"], "correct": 0}
 ]},
 
 //PPSC Assistant free mock test 02
