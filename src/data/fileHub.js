@@ -1401,12 +1401,9 @@ export const finalTermDataPart4 = [
   
  // PPSC - Punjab Public Service Commission Accountant
   { id: 196, code: 'PPSC', title: 'PPSC Punjab Public Service Commission Accountant past papers', category: 'ppsc', image: '🧠',links:[
-    'https://drive.google.com/file/d/1wUWyAD1IlKDJhRWsd9EGEjI_oMNJyCgs/view?usp=sharing',
-    'https://drive.google.com/file/d/1mF9Z0MyeyrR0V_rAQXpDx0IOSdrPZK1f/view?usp=sharing',
-    'https://drive.google.com/file/d/16qHX7flzQX6KYoPyIe33QlqOdVtMZIEL/view?usp=sharing',
-    'https://drive.google.com/file/d/1sc_UvScApHUc7RLfEc2WgAUsJxA9ZYQ9/view?usp=sharing',
-    'https://drive.google.com/file/d/1SQtZOyQdUGuY6CV1wksE3x4PUeFE56Pi/view?usp=sharing',
-    'https://drive.google.com/file/d/1ClvOoXpmvNG0ZvT0FuIGaA7WTlxrANR0/view?usp=sharing',
+    'https://drive.google.com/file/d/1LdPPHVi8Omg-dCG5XOTx7Kldn8QU5r3G/view?usp=sharing',
+    'https://drive.google.com/file/d/1ropVv9wOUTqJbGB1YSZwrLqibwi-Qw_o/view?usp=sharing',
+    'https://drive.google.com/file/d/1q_MaMAjhqjg8VPue8b8vXQWJSIt-Ok1k/view?usp=sharing',
     'https://drive.google.com/file/d/108og-d83MeYEetIpXk5XgI1qHcp_LQHg/view?usp=sharing',
     'https://drive.google.com/file/d/1gjcqrhn1VYudyFOih7FFn4G7Auvesc64/view?usp=sharing'
   ] },
