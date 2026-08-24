@@ -1405,7 +1405,7 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1ropVv9wOUTqJbGB1YSZwrLqibwi-Qw_o/view?usp=sharing',
     'https://drive.google.com/file/d/1q_MaMAjhqjg8VPue8b8vXQWJSIt-Ok1k/view?usp=sharing',
 
-    'https://drive.google.com/file/d/1gjcqrhn1VYudyFOih7FFn4G7Auvesc64/view?usp=sharing'
+
   ] },
 
  // PPSC - Punjab Public Service Commission Assistant
