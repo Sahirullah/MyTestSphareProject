@@ -1400,7 +1400,7 @@ export const finalTermDataPart4 = [
   { id: 209, code: 'PSY632', title: 'Psychology Course', category: 'psy', image: '🧠' },
   
  // PPSC - Punjab Public Service Commission 01
-  { id: 196, code: 'PPSC', title: 'Psychology Course', category: 'ppsc', image: '🧠',links:[
+  { id: 196, code: 'PPSC', title: 'PPSC - Punjab Public Service Commission Accountant past papers', category: 'ppsc', image: '🧠',links:[
     'https://drive.google.com/file/d/1wUWyAD1IlKDJhRWsd9EGEjI_oMNJyCgs/view?usp=sharing',
     'https://drive.google.com/file/d/1mF9Z0MyeyrR0V_rAQXpDx0IOSdrPZK1f/view?usp=sharing',
     'https://drive.google.com/file/d/16qHX7flzQX6KYoPyIe33QlqOdVtMZIEL/view?usp=sharing',
