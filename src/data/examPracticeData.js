@@ -973,7 +973,7 @@ export const examPracticeData = [
 ]},
 
 //PPSC deputy accountant free mock test 06
-  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 05', category: 'ppsc', image: '📝', questions:[
+  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 06', category: 'ppsc', image: '📝', questions:[
   {"question": "Q.1: When Volleyball added in Olympic ?", "options": ["1964", "1965", "1966", "1967"], "correct": 0},
   {"question": "Q.2: How many players in Netball?", "options": ["5", "6", "7", "8"], "correct": 2},
   {"question": "Q.3: 2008 Olympic were held in ?", "options": ["India", "China", "Japan", "None of these"], "correct": 1},
