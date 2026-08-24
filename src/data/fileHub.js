@@ -1404,15 +1404,21 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1LdPPHVi8Omg-dCG5XOTx7Kldn8QU5r3G/view?usp=sharing',
     'https://drive.google.com/file/d/1ropVv9wOUTqJbGB1YSZwrLqibwi-Qw_o/view?usp=sharing',
     'https://drive.google.com/file/d/1q_MaMAjhqjg8VPue8b8vXQWJSIt-Ok1k/view?usp=sharing',
-    'https://drive.google.com/file/d/11bIEFgcS41X4DeXHn2k2T-KBO0GfoDOx/view?usp=sharing'
+    'https://drive.google.com/file/d/11bIEFgcS41X4DeXHn2k2T-KBO0GfoDOx/view?usp=sharing',
+    'https://drive.google.com/file/d/1GOclBSB8YqDKka2vl3C2ulFWHgUqCSh3/view?usp=sharing',
+    'https://drive.google.com/file/d/1aAqzHAi_3w8rTRw5dlVrqyXE1gsV379n/view?usp=sharing'
   ] },
 
  // PPSC - Punjab Public Service Commission Assistant
   { id: 196, code: 'PPSC', title: 'PPSC - Punjab Public Service Commission Assistant past papers', category: 'ppsc', image: '🧠',links:[
-    'https://drive.google.com/file/d/18ABMk2VqfMmzk03Im0fU02_wxzWQ16RO/view?usp=sharing',
-    'https://drive.google.com/file/d/1Mjx4FeG-yOtVLTHlO60sh7TlM6ZKoWRq/view?usp=sharing',
-    'https://drive.google.com/file/d/1cojR8tPjRuLqL1oZNtlQiPwJ-i-jI44C/view?usp=sharing',
-    'https://drive.google.com/file/d/1OAXH7PMGxlyam-rrVjHVepcXMIj3v6n-/view?usp=sharing'
+    'https://drive.google.com/file/d/1jYkfAjFWPw_edshU_wCAPupgAVXAoGx8/view?usp=sharing',
+    'https://drive.google.com/file/d/1JZhGur7NpYtK6-ucMzfNeVeMJYJvtRNV/view?usp=sharing',
+    'https://drive.google.com/file/d/1BgtzjQBITsZgdNrmu5BSsSlpfwwbo_r1/view?usp=sharing',
+    'https://drive.google.com/file/d/1y3vcm_Qf3NDODnrcTmFoCp1lmsdX09iP/view?usp=sharing',
+    'https://drive.google.com/file/d/1W_OxEFNO2OPU8q_lJwmPlqlHqNav8FYr/view?usp=sharing',
+    'https://drive.google.com/file/d/1aAqzHAi_3w8rTRw5dlVrqyXE1gsV379n/view?usp=sharing',
+    'https://drive.google.com/file/d/1GOclBSB8YqDKka2vl3C2ulFWHgUqCSh3/view?usp=sharing',
+    'https://drive.google.com/file/d/1GOclBSB8YqDKka2vl3C2ulFWHgUqCSh3/view?usp=sharing'
   ] },
 
   // SOC - Sociology
