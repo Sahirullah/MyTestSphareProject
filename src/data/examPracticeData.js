@@ -811,7 +811,7 @@ export const examPracticeData = [
 
   ]},
 
-//Class 9t free mock test 05
+//Class 9th free mock test 05
   { id: 95, code: '9th10th', title: 'Class 9th free mock physics test practice', category: 'ppsc', image: '👮', questions: [
 
   ]},
