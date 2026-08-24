@@ -69,7 +69,7 @@ const Hero = () => {
             >
               <img src={card1} alt="Online Test" className="card-image" />
               <div className="card-label">
-                <div className="card-title">Online Test</div>
+                <div className="card-title">Free Mock Exams</div>
                 <div className="card-features">
                   <div className="card-feature">• Mock Exams</div>
                   <div className="card-feature">• Past Papers</div>

@@ -136,7 +136,7 @@ export const examPracticeData = [
 
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
-  { id: 86, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
+  { id: 87, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
   {"question": "Which of the following is generally organized by direct approach and receives a favorable reaction?", "options": ["Business message", "Bad news message", "Good news message", "Routine message"], "correct": 2},
   {"question": "Which of the followings are real but unnamed readers?", "options": ["Phantom Readers", "Future Readers", "Complex Readers", "Technical Readers"], "correct": 0},
   {"question": "Choose the correct sentence.", "options": ["You may not enter Mr. Harris office without his permission.", "You may not enter Mr. Harrises office without his permission.", "You may not enter Mr. Harrises' office without his permission.", "You may not enter Mr. Harris's office without his permission."], "correct": 3},
@@ -274,7 +274,7 @@ export const examPracticeData = [
 ]},
 
   //Islamabad police constable mock test   
-  { id: 87, code: 'Police', title: 'Islamabad Police constable mock test', category: 'police', image: '👮', questions:[
+  { id: 88, code: 'Police', title: 'Islamabad Police constable mock test', category: 'police', image: '👮', questions:[
   {"question": "Q NO 1, airlines belongs to which country?", "options": ["Pakistan", "India", "America", "Jordan"], "correct": 3},
   {"question": "Q NO 2. Which of following is Cottage Industry?", "options": ["Cement", "Sugar", "Handicraft", "Textile"], "correct": 2},
   {"question": "Q NO 3. The agro based industry is:", "options": ["Woodwork", "Dairy farms", "Carpets", "Iron work"], "correct": 1},
@@ -406,7 +406,7 @@ export const examPracticeData = [
 ]},
 
 // Islamabad police LDC mock test 
-  { id: 88, code: 'Police', title: 'Islamabad Police LDC mock test', category: 'police', image: '👮', questions:[
+  { id: 89, code: 'Police', title: 'Islamabad Police LDC mock test', category: 'police', image: '👮', questions:[
   {"question": "Q.1: Pakistan is located in the ____ part of South Asia.", "options": ["Western", "Southern", "Eastern", "None of these"], "correct": 0},
   {"question": "Q.2: A worksheet in Excel is divided into _____?", "options": ["Lines & Spaces", "Columns & Rows", "Layers & Planes", "None of these"], "correct": 1},
   {"question": "Q.3: There has been a complete break ______ of law and order.", "options": ["Down", "Off", "On", "None of these"], "correct": 0},
@@ -468,7 +468,7 @@ export const examPracticeData = [
 ]},
 
 // Islamabad police UDC mock test
-  { id: 89, code: 'Police', title: 'Islamabad Police UDC mock test', category: 'police', image: '👮', questions:[
+  { id: 90, code: 'Police', title: 'Islamabad Police UDC mock test', category: 'police', image: '👮', questions:[
   {"question": "Q.1: In MS Excel formula and function start with ____?", "options": ["=", "+", "_", ")"], "correct": 0},
   {"question": "Q.2: What is the shortcut key for a double line spacing?", "options": ["Ctrl + 2", "Ctrl + 3", "Ctrl + 4", "None of these"], "correct": 0},
   {"question": "Q.3: The shortcut key used to go for the first slide in PowerPoint?", "options": ["Home", "Ctrl + Home", "Ctrl + S", "None of these"], "correct": 0},
@@ -676,7 +676,7 @@ export const examPracticeData = [
 ]},
  
 //PPSC deputy accountant free mock test 02 
-  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 02', category: 'ppsc', image: '📝', questions: [
+  { id: 96, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 02', category: 'ppsc', image: '📝', questions: [
   {"question": "Q.1: A fjord refers to?", "options": ["Storm in ocean", "long, narrow sea inlet characterized by steep cliffs or mountains", "Whirl in sand dune", "Rock in river"], "correct": 1},
   {"question": "Q.2: Pakistan total area is?", "options": ["796096 Sq.km", "696096 Sq.km", "896096 Sq.km", "996096 Sq.km"], "correct": 0},
   {"question": "Q.3: Internal Digital phenomena include Volcanism, tech tonic plates and ____?", "options": ["Convergent", "Civergent", "Diastrophism", "Denudation"], "correct": 2},
@@ -777,7 +777,7 @@ export const examPracticeData = [
 ]},
 
 //PPSC deputy accountant free mock test 03 
-  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 03', category: 'ppsc', image: '📝', questions: [
+  { id: 97, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 03', category: 'ppsc', image: '📝', questions: [
   {"question": "Q.1: Barking up the wrong tree means:", "options": ["Training dogs to climb trees", "Accusing the wrong person", "making loud noise", "looking for wood in a forest"], "correct": 1},
   {"question": "Q.2: To pony up means :", "options": ["To ride a horse", "To dress up nicely", "To pay money, often unwillingly", "To show off"], "correct": 2},
   {"question": "Q.3: To up the ante means :", "options": ["To go to your aunt's house", "To increase the stakes of demands", "To start a card game", "To raise a child"], "correct": 1},
@@ -830,7 +830,7 @@ export const examPracticeData = [
   {"question": "Q.10: The --------------Award was announced on 17 August 1947 which established boundaries between India & Pakistan.", "options": ["Redcliff", "Communal", "Cross", "None of these"], "correct": 0}
 ]},
 //PPSC deputy accountant free mock test 04
-  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 04', category: 'ppsc', image: '📝', questions: [
+  { id: 98, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 04', category: 'ppsc', image: '📝', questions: [
   {"question": "Q.1: Barking up the wrong tree means:", "options": ["Training dogs to climb trees", "Accusing the wrong person", "making loud noise", "looking for wood in a forest"], "correct": 1},
   {"question": "Q.2: To pony up means :", "options": ["To ride a horse", "To dress up nicely", "To pay money, often unwillingly", "To show off"], "correct": 2},
   {"question": "Q.3: To up the ante means :", "options": ["To go to your aunt's house", "To increase the stakes of demands", "To start a card game", "To raise a child"], "correct": 1},
@@ -884,7 +884,7 @@ export const examPracticeData = [
 ]},
 
 //PPSC deputy accountant free mock test 05
-  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 05', category: 'ppsc', image: '📝', questions:[
+  { id: 99, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 05', category: 'ppsc', image: '📝', questions:[
   {"question": "Q.15: Viruses are:", "options": ["Parasites", "Bacteria", "Non Parasite", "None of these"], "correct": 0},
   {"question": "Q.16: Which of the following cannot prepare its own food?", "options": ["Animals", "Plants", "Mushrooms", "None of these"], "correct": 0},
   {"question": "Q.17: Which of the following is not the Crystalline?", "options": ["Plastic", "Table Salt", "Diamond", "Quartz"], "correct": 0},
@@ -973,7 +973,7 @@ export const examPracticeData = [
 ]},
 
 //PPSC deputy accountant free mock test 06
-  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 06', category: 'ppsc', image: '📝', questions:[
+  { id: 100, code: 'PPSC', title: 'PPSC punjab public service commission deputy accountant free mock test 06', category: 'ppsc', image: '📝', questions:[
   {"question": "Q.1: When Volleyball added in Olympic ?", "options": ["1964", "1965", "1966", "1967"], "correct": 0},
   {"question": "Q.2: How many players in Netball?", "options": ["5", "6", "7", "8"], "correct": 2},
   {"question": "Q.3: 2008 Olympic were held in ?", "options": ["India", "China", "Japan", "None of these"], "correct": 1},
@@ -1077,7 +1077,7 @@ export const examPracticeData = [
 ]},
 
 //PPSC Assistant free mock test 01 
-  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission Assistant free mock test 01', category: 'ppsc', image: '📝', questions: [
+  { id: 101, code: 'PPSC', title: 'PPSC punjab public service commission Assistant free mock test 01', category: 'ppsc', image: '📝', questions: [
   {"question": "Q.1: Barking up the wrong tree means:", "options": ["Training dogs to climb trees", "Accusing the wrong person", "making loud noise", "looking for wood in a forest"], "correct": 1},
   {"question": "Q.2: To pony up means :", "options": ["To ride a horse", "To dress up nicely", "To pay money, often unwillingly", "To show off"], "correct": 2},
   {"question": "Q.3: To up the ante means :", "options": ["To go to your aunt's house", "To increase the stakes of demands", "To start a card game", "To raise a child"], "correct": 1},
@@ -1131,7 +1131,7 @@ export const examPracticeData = [
 ]},
 
 //PPSC Assistant free mock test 02
-  { id: 95, code: 'PPSC', title: 'PPSC punjab public service commission Assistant free mock test 02', category: 'ppsc', image: '📝', questions: [
+  { id: 102, code: 'PPSC', title: 'PPSC punjab public service commission Assistant free mock test 02', category: 'ppsc', image: '📝', questions: [
   { "question": "Q.1: Trimmu Barrage is built on which river?", "options": ["Indus", "Jhelum", "Chenab", "Ravi"], "correct": 2 },
   { "question": "Q.2: Which type of volatile RAM is faster?", "options": ["DRAM (Dynamic RAM)", "SRAM (Static RAM)", "EPRAM", "None of these"], "correct": 1 },
   { "question": "Q.3: Which is used to give IP Address to devices?", "options": ["ISP", "ICANN", "DNS", "DHCP"], "correct": 3 },
@@ -1527,6 +1527,5 @@ export const quizCategories = [
   { id: 'airforce', name: 'AIR FORCE - Air Force'},
   { id: 'army', name: 'ARMY - army'},
   { id: 'ielts', name: 'IELTS - English Language Test'},
-  { id: 'ppsc', name: 'PPSC - Punjab Public Service Commission'},
   { id: '9th10th', name: 'CLASS 9th & 10th - free mock tests'},
 ];
