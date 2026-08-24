@@ -1411,7 +1411,7 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1gjcqrhn1VYudyFOih7FFn4G7Auvesc64/view?usp=sharing'
   ] },
 
- // PPSC - Punjab Public Service Commission 02
+ // PPSC - Punjab Public Service Commission Assistant
   { id: 196, code: 'PPSC', title: 'PPSC - Punjab Public Service Commission Assistant past papers', category: 'ppsc', image: '🧠',links:[
     'https://drive.google.com/file/d/18ABMk2VqfMmzk03Im0fU02_wxzWQ16RO/view?usp=sharing',
     'https://drive.google.com/file/d/1Mjx4FeG-yOtVLTHlO60sh7TlM6ZKoWRq/view?usp=sharing',
