@@ -825,5 +825,5 @@ export const quizCategories = [
   { id: 'army', name: 'ARMY - army'},
   { id: 'ielts', name: 'IELTS - English Language Test'},
   { id: 'ppsc', name: 'PPSC - Punjab Public Service Commission'},
-  { id: '9th10th', name: 'CLASS 9th & 10th - free'},
+  { id: '9th10th', name: 'CLASS 9th & 10th - free mock tests'},
 ];
