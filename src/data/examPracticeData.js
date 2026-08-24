@@ -552,7 +552,7 @@ export const examPracticeData = [
   
 //Pakistan Army Mock Test
 //Pakistan army free mock test
-  { id: 94, code: 'Pak army', title: 'GD in Pakistan army free mock test', category: 'army', image: '👮', questions: [
+  { id: 94, code: 'Pak army', title: 'GD in Pakistan army free mock test', category: 'army', image: '🎖️', questions: [
     {"question": "Pakistan Army was established in which year?", "options": ["1947", "1950", "1956", "1965"], "correct": 0},
     {"question": "What is the motto of Pakistan Army?", "options": ["Service Before Self", "Faith, Fatherland, Honour", "Iqbal Se Ilhaam", "None"], "correct": 1},
     {"question": "Who is the current Chief of Army Staff?", "options": ["General Officer", "Field Marshal", "Senior Officer", "Military Commander"], "correct": 0},
@@ -561,7 +561,7 @@ export const examPracticeData = [
   ]},
 
 //Pakistan PMA free mock test
-  { id: 95, code: 'Pak Army', title: 'PMA in Pakistan army free mock test', category: 'army', image: '👮', questions: [
+  { id: 95, code: 'Pak Army', title: 'PMA in Pakistan army free mock test', category: 'army', image: '🎖️', questions: [
     {"question": "PMA stands for?", "options": ["Pakistan Military Academy", "Public Military Authority", "Pakistan Armed Movement", "Personnel Military Affairs"], "correct": 0},
     {"question": "Where is Pakistan Military Academy located?", "options": ["Rawalpindi", "Abbottabad", "Islamabad", "Peshawar"], "correct": 1},
     {"question": "What is the duration of PMA Long Course?", "options": ["1 year", "2 years", "3 years", "4 years"], "correct": 2},
@@ -570,7 +570,7 @@ export const examPracticeData = [
   ]},
   
 //IELTS free mock test
-  { id: 95, code: 'IELTS', title: 'IELTS free mock test', category: 'ielts', image: '👮', questions: [
+  { id: 95, code: 'IELTS', title: 'IELTS free mock test', category: 'ielts', image: '📝', questions: [
     {"question": "PMA stands for?", "options": ["Pakistan Military Academy", "Public Military Authority", "Pakistan Armed Movement", "Personnel Military Affairs"], "correct": 0},
     {"question": "What is the main objective of PMA?", "options": ["Military training", "Officer commission", "Research", "Engineering"], "correct": 1},
   ]},
