@@ -1404,7 +1404,7 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1LdPPHVi8Omg-dCG5XOTx7Kldn8QU5r3G/view?usp=sharing',
     'https://drive.google.com/file/d/1ropVv9wOUTqJbGB1YSZwrLqibwi-Qw_o/view?usp=sharing',
     'https://drive.google.com/file/d/1q_MaMAjhqjg8VPue8b8vXQWJSIt-Ok1k/view?usp=sharing',
-    'https://drive.google.com/file/d/108og-d83MeYEetIpXk5XgI1qHcp_LQHg/view?usp=sharing',
+
     'https://drive.google.com/file/d/1gjcqrhn1VYudyFOih7FFn4G7Auvesc64/view?usp=sharing'
   ] },
 
