@@ -783,6 +783,10 @@ export const finalTermDataPart3 = [
   { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
     'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing'
   ]},
+  // FIA - ASI
+  { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
+    'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing'
+  ]},
 
     // FIN - Finance
   { id: 120, code: 'FIN611', title: 'Finance Course', category: 'fin', image: '💰',links:[
@@ -792,7 +796,7 @@ export const finalTermDataPart3 = [
     'https://drive.google.com/file/d/1m4phhEWUcaygDKXfEMLpUhn5YAXy7-1j/view?usp=sharing',
     'https://drive.google.com/file/d/1ZzZqrO4kMinSg_E3MHdqD5jWW83ZNsLr/view?usp=sharing'
   ]},
-  
+
   //FIN - finance 
   { id: 121, code: 'FIN621', title: 'Finance Course', category: 'fin', image: '💰', links:[
     'https://drive.google.com/file/d/1tBjbP1P0rLsd-oPn6_b5OWADvuyKym8h/view?usp=sharing',
