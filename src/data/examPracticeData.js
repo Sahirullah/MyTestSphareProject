@@ -557,6 +557,29 @@ export const examPracticeData = [
   {"question": "Q.28: Area of Federally Administered Tribal Areas (FATA) is______________ Square kilo meter?", "options": ["18925 km²", "22123 km²", "24532 km²", "27220 km²"], "correct": 3}
 ]},
 
+//FIA - Assistant free mock test 03
+{ id: 89, code: 'FIA', title: 'FIA - Assistant free mock test 03', category: 'fia', image: '🕵️‍♂️', questions:[
+  { "question": "Q.1: Social networks are organized primarily around __________.", "options": ["discussions", "people", "organizations", "None of these"], "correct": 1 },
+  { "question": "Q.2: SSI stand for", "options": ["small-scale integration", "small-scale internet", "small-school integration", "None of these"], "correct": 0 },
+  { "question": "Q.3: Who is known as father of Email ?", "options": ["Ray Tomlinson", "Thomas", "David Ricardo Malthus", "None of these"], "correct": 0 },
+  { "question": "Q.4: Snapchat is owned by", "options": ["Sanp Inc", "Facebook", "Google", "None of these"], "correct": 0 },
+  { "question": "Q.5: Which menu in MSWord can be used to change character size and typeface ?", "options": ["Tools", "View", "Format", "None of these"], "correct": 2 },
+  { "question": "Q.6: Normal human body temperature 98.6°F corresponds to _______?", "options": ["37°C", "42°C", "55°C", "None of these"], "correct": 0 },
+  { "question": "Q.7: Sun spots was discovered by___?", "options": ["Galileo", "Chadwick", "Newron", "None of these"], "correct": 0 },
+  { "question": "Q.8: Antonym of ERRATIC", "options": ["Common", "Calm", "Normal", "All of the above"], "correct": 3 },
+  { "question": "Q.9: Synonym of itinerary", "options": ["Plan", "Logbook", "Blog", "All of the above"], "correct": 0 },
+  { "question": "Q.10: Idiom cake and pie", "options": ["Thought Task", "Very Thought", "very easy to eat", "None of these"], "correct": 3 },
+  { "question": "Q.11: Who was the first ameer e Hajj in 9th Hijri?", "options": ["Hazrat Abubakar RA", "Hazrat Ali RA", "Hazrat Umar RA", "None of these"], "correct": 0 },
+  { "question": "Q.12: Which one of the following is included amongst the Ashra Mubashra?", "options": ["Hazrat Saad Bin Abi Waqas", "Hazrat Saad Bin Abada", "Hazrat Saad Bin Zubair", "None of these"], "correct": 0 },
+  { "question": "Q.13: Nisab of zakat for gold is _____?", "options": ["7.5 Tola", "6 Tola", "5 Tola", "None of these"], "correct": 0 },
+  { "question": "Q.14: Language of Holy Quran_____", "options": ["Old", "New", "Mixture", "None of these"], "correct": 3 },
+  { "question": "Q.15: Lowest military operation award of Pakistan", "options": ["Tamgha-e-Raisialat", "Nishan e haider", "Tamgha-e-Basalat", "None of these"], "correct": 2 },
+  { "question": "Q.16: How many peaks in Pakistan are Higher than 8000 meters?", "options": ["5", "6", "7", "8"], "correct": 0 },
+  { "question": "Q.17: In which year Urdu Hindi controversy?", "options": ["1867", "1868", "1869", "1870"], "correct": 0 },
+  { "question": "Q.18: The Quaid-e-Azam passed his Bar-at-law examination from ______?", "options": ["Cambridge", "Harvard", "Lincoln’s Inn", "None of these"], "correct": 2 },
+  { "question": "Q.19: AJK stands for", "options": ["Azad Jammu and kashmir", "Azad Kashmir", "Both A and B", "None of these"], "correct": 0 },
+  { "question": "Q.20: Dhaka formaly called ______", "options": ["Dacca", "Dakan", "Both", "None of these"], "correct": 0 }
+]},
   //Islamabad police constable mock test   
   { id: 88, code: 'Police', title: 'Islamabad Police constable mock test', category: 'police', image: '👮', questions:[
   {"question": "Q NO 1, airlines belongs to which country?", "options": ["Pakistan", "India", "America", "Jordan"], "correct": 3},
