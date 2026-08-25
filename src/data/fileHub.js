@@ -789,6 +789,11 @@ export const finalTermDataPart3 = [
     'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing'
   ]},
 
+  // FIA - LDC
+  { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
+    'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing'
+  ]},
+
     // FIN - Finance
   { id: 120, code: 'FIN611', title: 'Finance Course', category: 'fin', image: '💰',links:[
     'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing',
