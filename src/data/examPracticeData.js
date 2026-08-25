@@ -580,6 +580,7 @@ export const examPracticeData = [
   { "question": "Q.19: AJK stands for", "options": ["Azad Jammu and kashmir", "Azad Kashmir", "Both A and B", "None of these"], "correct": 0 },
   { "question": "Q.20: Dhaka formaly called ______", "options": ["Dacca", "Dakan", "Both", "None of these"], "correct": 0 }
 ]},
+
   //Islamabad police constable mock test   
   { id: 88, code: 'Police', title: 'Islamabad Police constable mock test', category: 'police', image: '👮', questions:[
   {"question": "Q NO 1, airlines belongs to which country?", "options": ["Pakistan", "India", "America", "Jordan"], "correct": 3},
