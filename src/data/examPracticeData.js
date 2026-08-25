@@ -312,7 +312,7 @@ export const examPracticeData = [
 ]},
 
 //FIA - Assistant free mock test 01
-
+{id: 90, code: 'FIA', title: 'FIA Assistant free mock test 01', category: 'fia', image: '🕵️‍♂️', questions:[] },
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
   { id: 87, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
