@@ -406,17 +406,7 @@ export const examPracticeData = [
   { "question": "Q.47: .The central section of the Sindh Sāgar Doāb is located in which desert?", "options": ["Thar", "Thal", "Cholistan", "None of these"], "correct": 1 },
   { "question": "Q.48: \"Myanmar\" is the new/old name of _____ ?", "options": ["Burma", "Niger", "Tibet", "None of these"], "correct": 0 },
   { "question": "Q.49: The highest waterfall of the world is?", "options": ["Victoria falls", "Angel falls", "Great fall", "None of these"], "correct": 1 },
-  { "question": "Q.50: Ankara is the capital of which country?", "options": ["Turkey", "China", "India", "None of these"], "correct": 0 },
-  { "question": "Q.51: SCO stands for _____?", "options": ["Shanghai Corporate Organisation", "Shanghai Cooperation Organize", "Shanghai Cooperation Organisation", "None of these"], "correct": 2 },
-  { "question": "Q.52: In which country summer monsoon does not cause rain ?", "options": ["England", "China", "India", "None of these"], "correct": 0 },
-  { "question": "Q.53: The Continent Antarctica covers the total area of world ?", "options": ["2.75 %", "1.9 %", "3.5 %", "None of these"], "correct": 3 },
-  { "question": "Q.54: What was the old name of Sri Lanka_______?", "options": ["Ceylon", "Montgomery", "Sri Nagar", "None of these"], "correct": 0 },
-  { "question": "Q.55: Greenland is discovered by", "options": ["Icelandic Vikings", "Ibn e Batuta", "Both A and B", "None of these"], "correct": 0 },
-  { "question": "Q.56: Which of the following countries are covered by the Amazon rainforest?", "options": ["Canada, Mexico, USA", "Brazil, Colombia, Bolivia", "South Africa, Zambia, South Sudan", "None of these"], "correct": 1 },
-  { "question": "Q.57: Mayanmar is the changed name of", "options": ["Maldives", "Burma", "Mexico", "Niger"], "correct": 1 },
-  { "question": "Q.58: The largest country in the world by area is?", "options": ["Russia", "China", "India", "None of these"], "correct": 0 },
-  { "question": "Q.59: Name the largest/longest mountain range in the world?", "options": ["Andes", "Karakuram", "Himalya", "None of these"], "correct": 0 },
-  { "question": "Q.60: Which continent has no desert?", "options": ["Asia", "Africa", "Europe", "None of these"], "correct": 2 }
+  { "question": "Q.50: Ankara is the capital of which country?", "options": ["Turkey", "China", "India", "None of these"], "correct": 0 }
 ]},
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
