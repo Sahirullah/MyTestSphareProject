@@ -790,7 +790,6 @@ export const finalTermDataPart3 = [
   // FIA - Fedral Investigatoin Agency
   { id: 128, code: 'FIA101', title: 'FIA Course', category: 'fia', image: '🕵️‍♂️', links: [
     'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing'
-  
   ]},
   { id: 121, code: 'FIN621', title: 'Finance Course', category: 'fin', image: '💰', links:[
     'https://drive.google.com/file/d/1tBjbP1P0rLsd-oPn6_b5OWADvuyKym8h/view?usp=sharing',
