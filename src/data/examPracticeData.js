@@ -417,7 +417,7 @@ export const examPracticeData = [
   { "question": "Q.48: \"Myanmar\" is the new/old name of _____ ?", "options": ["Burma", "Niger", "Tibet", "None of these"], "correct": 0 },
   { "question": "Q.49: The highest waterfall of the world is?", "options": ["Victoria falls", "Angel falls", "Great fall", "None of these"], "correct": 1 },
   { "question": "Q.50: Ankara is the capital of which country?", "options": ["Turkey", "China", "India", "None of these"], "correct": 0 },
-    { "question": "Q.1: Social networks are organized primarily around __________.", "options": ["discussions", "people", "organizations", "None of these"], "correct": 1 },
+  { "question": "Q.1: Social networks are organized primarily around __________.", "options": ["discussions", "people", "organizations", "None of these"], "correct": 1 },
   { "question": "Q.2: SSI stand for", "options": ["small-scale integration", "small-scale internet", "small-school integration", "None of these"], "correct": 0 },
   { "question": "Q.3: Who is known as father of Email ?", "options": ["Ray Tomlinson", "Thomas", "David Ricardo Malthus", "None of these"], "correct": 0 },
   { "question": "Q.4: Snapchat is owned by", "options": ["Sanp Inc", "Facebook", "Google", "None of these"], "correct": 0 },
