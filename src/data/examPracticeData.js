@@ -514,6 +514,7 @@ export const examPracticeData = [
 ]},
 
 //FIN - finance mock test
+{ id: 88, code: 'FIN', title: 'Finance mock test', category: 'finance', image: '💰', questions:[]},
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
   { id: 87, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
