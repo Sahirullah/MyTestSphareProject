@@ -134,7 +134,8 @@ export const examPracticeData = [
   { id: 86, code: 'CS614', title: 'Data Warehousing', category: 'cs', image: '💻', questions: generateCourseQuestions('Data Warehousing'), totalQuestions: 50 },
   
 //FIA
-{id: 87, code: 'FIA', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', questions:[
+
+{id: 87, code: 'FIA', title: 'FIA ASI free mock test 01', category: 'fia', image: '🕵️‍♂️', questions:[
   { "question": "Q.1: Which edition of ICC Men's T20 World Cup held in 2021?", "options": ["6th", "7th", "8th", "9th"], "correct": 1 },
   { "question": "Q.2: Facebook was launched in the year ?", "options": ["2003", "2004", "2005", "2006"], "correct": 1 },
   { "question": "Q.3: HTML is an abbreviation for _____?", "options": ["Hi Tech Meaningful Language", "Hypertext Markup Language", "Hypertext Mark Language", "None of these"], "correct": 1 },
@@ -208,7 +209,7 @@ export const examPracticeData = [
 ]},
 
 // FIA - ASI mock test 02
-{ id: 88, code: 'FIA', title: 'FIA ASI mock test 02', category: 'fia', image: '🕵️‍♂️', questions: [
+{ id: 88, code: 'FIA', title: 'FIA ASI free mock test 02', category: 'fia', image: '🕵️‍♂️', questions: [
   { "question": "Q.1: Ctrl + Y is used for ____?", "options": ["Redo", "Undo", "Paste", "Copy"], "correct": 0 },
   { "question": "Q.2: Facebook was launched in the year ?", "options": ["2002", "2003", "2004", "2005"], "correct": 2 },
   { "question": "Q.3: IBM stands for what?", "options": ["International Business Model", "Information Business Machines", "Integrated Business Machine", "International Business Machine"], "correct": 3 },
