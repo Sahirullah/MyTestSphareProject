@@ -490,7 +490,27 @@ export const examPracticeData = [
   { "question": "Q.22: “Colorado river” is located in ______ ?", "options": ["USA", "Canada", "UK", "None of these"], "correct": 0 },
   { "question": "Q.23: Who was the First Secretary General of UNO?", "options": ["Trygve Lie", "Dag Hammarskjold", "Kurt Waldheim", "None of these"], "correct": 0 },
   { "question": "Q.24: Barack Obama was _____ President of USA?", "options": ["43rd", "44th", "45th", "46th"], "correct": 1 },
-  { "question": "Q.25: What did Barack Obama win the Nobel Peace Prize for?", "options": ["2009", "2008", "2007", "2006"], "correct": 0 }
+  { "question": "Q.25: What did Barack Obama win the Nobel Peace Prize for?", "options": ["2009", "2008", "2007", "2006"], "correct": 0 },
+  { "question": "Q.1: Who was the Captain of Pakistan Cricket team during World Cup 2015?", "options": ["Shoaib Malik", "Shahid Afridi", "Misbah-ul-Haq", "None of these"], "correct": 2 },
+  { "question": "Q.2: CNN stands for ____?", "options": ["Common News Network", "Commercial News Network", "Cable News Network", "None of these"], "correct": 2 },
+  { "question": "Q.3: “Ctrl + Down Arrow” Shortcut key is used in Ms Word to ____?", "options": ["Moves the cursor one screen down", "Moves the cursor one page down", "Moves the cursor one paragraph down", "None of these"], "correct": 2 },
+  { "question": "Q.4: A person who has loud voice is called:", "options": ["Stentorian", "Atheist", "Guilty", "None of these"], "correct": 0 },
+  { "question": "Q.5: What is the synonym of “Awkward”", "options": ["Happiness", "Clumsy", "Beautiful", "None of these"], "correct": 1 },
+  { "question": "Q.6: There are _______________ obligatory prayers in a day.", "options": ["Two", "Three", "Four", "Five"], "correct": 3 },
+  { "question": "Q.7: According to Hadith, a person _____ is the best person among all.", "options": ["Having knowledge Namaz", "Having knowledge of Angels", "Having knowledge of Quran", "None of these"], "correct": 2 },
+  { "question": "Q.8: Gazwa e badar occurred in which hijri?", "options": ["2 Hijri", "3 Hijri", "4 Hijri", "None of these"], "correct": 0 },
+  { "question": "Q.9: How many sons did Holy Prophet SAW had?", "options": ["2", "3", "4", "5"], "correct": 1 },
+  { "question": "Q.10: How many basic pillars of Islam?", "options": ["3", "4", "5", "6"], "correct": 2 },
+  { "question": "Q.11: Population Wise Largest Province of Pakistan is?", "options": ["Sindh", "Punjab", "Balochistan", "None of these"], "correct": 1 },
+  { "question": "Q.12: The Karakoram Highway was constructed with the help of?", "options": ["India", "China", "Bhuttan", "None of these"], "correct": 1 },
+  { "question": "Q.13: CIA stands for:", "options": ["The Central Intelligence Agency", "The Centr Intelligence Agency", "The Central Intelligent Agency", "None of these"], "correct": 0 },
+  { "question": "Q.14: Lake Jackson is located in which country?", "options": ["USA", "UK", "UAE", "None of these"], "correct": 0 },
+  { "question": "Q.15: ASCII stands for:", "options": ["American Standard Code for Information Interchange", "Armenia Standard Code for Information Interchange", "American Standard Conduct for Information Interchange", "None of these"], "correct": 0 },
+  { "question": "Q.16: BIN is the intelligence agency of which country?", "options": ["China", "Bhuttan", "Indonesia", "None of these"], "correct": 2 },
+  { "question": "Q.17: RAW stands for what?", "options": ["Research and Analysis Wing", "Research and Analysis Watch", "Research and Action Warfare", "None of these"], "correct": 0 },
+  { "question": "Q.18: NASA is the space agency of which country?", "options": ["Russia", "America", "China", "None of these"], "correct": 1 },
+  { "question": "Q.19: MI-5 is the intelligence agency of which country?", "options": ["UK", "USA", "UAE", "None of these"], "correct": 0 },
+  { "question": "Q.20: IRC stands for:", "options": ["Intelligence Regulatory Cooperation", "Indus Regulatory system Authority", "Indus Relation system Authority", "None of these"], "correct": 3 }
 ]},
 
   //POLICE Mock Exam.
