@@ -245,10 +245,10 @@ export const examPracticeData = [
   { "question": "Q.34: What is the length of border between Pakistan and China?", "options": ["599 km", "900 km", "800 km", "None of these"], "correct": 0 },
   { "question": "Q.35: Which Muslim leader had died at the time of second round table conference ?", "options": ["Muhammad Ali Johar", "Allam Iqbal", "Rehmat Ali", "None of these"], "correct": 0 },
   { "question": "Q.36: The National Anthem of Pakistan for the first time was played on?", "options": ["13th August 1954", "14th August 1954", "15th August 1954", "None of these"], "correct": 0 },
-  { "question": "Q.17: Pakistan Aeronautical Complex at Kamra is located in ?", "options": ["Attock", "Sahiwal", "Karachi", "None of these"], "correct": 0 },
-  { "question": "Q.18: Which country is the largest trading partner of Pakistan ?", "options": ["USA", "China", "Japan", "None of these"], "correct": 1 },
-  { "question": "Q.19: What is the capital of Norway?", "options": ["London", "Oslo", "Madrid", "None of these"], "correct": 1 },
-  { "question": "Q.20: Dasht-e-Lut desert is located in?", "options": ["Iraq", "Iran", "India", "None of these"], "correct": 1 }
+  { "question": "Q.37: Pakistan Aeronautical Complex at Kamra is located in ?", "options": ["Attock", "Sahiwal", "Karachi", "None of these"], "correct": 0 },
+  { "question": "Q.38: Which country is the largest trading partner of Pakistan ?", "options": ["USA", "China", "Japan", "None of these"], "correct": 1 },
+  { "question": "Q.39: What is the capital of Norway?", "options": ["London", "Oslo", "Madrid", "None of these"], "correct": 1 },
+  { "question": "Q.40: Dasht-e-Lut desert is located in?", "options": ["Iraq", "Iran", "India", "None of these"], "correct": 1 }
 ]},
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
