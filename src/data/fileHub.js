@@ -783,6 +783,7 @@ export const finalTermDataPart3 = [
   { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
     'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing'
   ]},
+  
   // FIA - ASI
   { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
     'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing'
