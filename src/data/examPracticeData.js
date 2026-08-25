@@ -363,7 +363,7 @@ export const examPracticeData = [
   { "question": "Q.58: The largest country in the world by area is?", "options": ["Russia", "China", "India", "None of these"], "correct": 0 },
   { "question": "Q.59: Name the largest/longest mountain range in the world?", "options": ["Andes", "Karakuram", "Himalya", "None of these"], "correct": 0 },
   { "question": "Q.60: Which continent has no desert?", "options": ["Asia", "Africa", "Europe", "None of these"], "correct": 2 },
-    { "question": "Q.1: Social networks are organized primarily around __________.", "options": ["discussions", "people", "organizations", "None of these"], "correct": 1 },
+  { "question": "Q.1: Social networks are organized primarily around __________.", "options": ["discussions", "people", "organizations", "None of these"], "correct": 1 },
   { "question": "Q.2: SSI stand for", "options": ["small-scale integration", "small-scale internet", "small-school integration", "None of these"], "correct": 0 },
   { "question": "Q.3: Who is known as father of Email ?", "options": ["Ray Tomlinson", "Thomas", "David Ricardo Malthus", "None of these"], "correct": 0 },
   { "question": "Q.4: Snapchat is owned by", "options": ["Sanp Inc", "Facebook", "Google", "None of these"], "correct": 0 },
@@ -513,6 +513,7 @@ export const examPracticeData = [
   { "question": "Q.20: IRC stands for:", "options": ["Intelligence Regulatory Cooperation", "Indus Regulatory system Authority", "Indus Relation system Authority", "None of these"], "correct": 3 }
 ]},
 
+//FIN - financial information and 
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
   { id: 87, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
