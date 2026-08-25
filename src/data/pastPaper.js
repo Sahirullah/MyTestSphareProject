@@ -273,6 +273,27 @@ export const nmdcatpastpaper = [
   // ETEA - Entry Test Engineering & Technology
   { id: 3, code: 'ETEA', title: 'ETEA Past Papers', category: 'etea', image: '⚙️' },
   
+    // FIA - Fedral Investigatoin Agency
+  // FIA - ASI
+  { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
+    'https://drive.google.com/file/d/1FQeLJRFZRbAHDzT9PmConrBDtvg_KPgj/view?usp=sharing',
+    'https://drive.google.com/file/d/1ErTN-8r8zs2ym8TrI9ioXbDHaU39lMl7/view?usp=sharing',
+    'https://drive.google.com/file/d/1LMDCa-IMolTEP13O1uyBR9JeDSR9xuJS/view?usp=sharing'
+  ]},
+
+  // FIA - Assistant sub inspector
+  { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
+    'https://drive.google.com/file/d/1XF558pwLryrm0WVLQhgPtocQbbubVEO-/view?usp=sharing',
+    'https://drive.google.com/file/d/1Ae3b9aslI_pWnPFMkVl1FlrEi3XCrkOm/view?usp=sharing',
+    'https://drive.google.com/file/d/1RTCIMserPWWH_eki5Kn7ptwsgKMEmxD6/view?usp=sharing'
+  ]},
+
+  // FIA - LDC
+  { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
+    'https://drive.google.com/file/d/1RHkklaJcQ4J4hZQQYHysWT-RNt6fRy9T/view?usp=sharing',
+    'https://drive.google.com/file/d/1RHkklaJcQ4J4hZQQYHysWT-RNt6fRy9T/view?usp=sharing'
+  ]},
+
   // IELTS - International English Language Testing System
   { id: 4, code: 'IELTS', title: 'IELTS Practice Tests', category: 'ielts', image: '🌍' },
   
