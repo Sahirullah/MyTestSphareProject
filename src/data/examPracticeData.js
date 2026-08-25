@@ -352,7 +352,17 @@ export const examPracticeData = [
   { "question": "Q.37: Which of the following women scientist twice won the Nobel Prize:", "options": ["Barbara Maclintock", "Marie Curie", "Dorothy Hodgkis", "None of these"], "correct": 1 },
   { "question": "Q.38: CBR stands for __________?", "options": ["Central Bank of The Russia", "California bearing Ratio", "Control Board of Revenue", "Central Board of Revenue"], "correct": 3 },
   { "question": "Q.39: Population of Christians in the world", "options": ["41.11%", "21.11%", "31.11%", "None of these"], "correct": 2 },
-  { "question": "Q.40: When Persia become Iran?", "options": ["1935", "1936", "1937", "1938"], "correct": 0 }
+  { "question": "Q.40: When Persia become Iran?", "options": ["1935", "1936", "1937", "1938"], "correct": 0 },
+  { "question": "Q.51: SCO stands for _____?", "options": ["Shanghai Corporate Organisation", "Shanghai Cooperation Organize", "Shanghai Cooperation Organisation", "None of these"], "correct": 2 },
+  { "question": "Q.52: In which country summer monsoon does not cause rain ?", "options": ["England", "China", "India", "None of these"], "correct": 0 },
+  { "question": "Q.53: The Continent Antarctica covers the total area of world ?", "options": ["2.75 %", "1.9 %", "3.5 %", "None of these"], "correct": 3 },
+  { "question": "Q.54: What was the old name of Sri Lanka_______?", "options": ["Ceylon", "Montgomery", "Sri Nagar", "None of these"], "correct": 0 },
+  { "question": "Q.55: Greenland is discovered by", "options": ["Icelandic Vikings", "Ibn e Batuta", "Both A and B", "None of these"], "correct": 0 },
+  { "question": "Q.56: Which of the following countries are covered by the Amazon rainforest?", "options": ["Canada, Mexico, USA", "Brazil, Colombia, Bolivia", "South Africa, Zambia, South Sudan", "None of these"], "correct": 1 },
+  { "question": "Q.57: Mayanmar is the changed name of", "options": ["Maldives", "Burma", "Mexico", "Niger"], "correct": 1 },
+  { "question": "Q.58: The largest country in the world by area is?", "options": ["Russia", "China", "India", "None of these"], "correct": 0 },
+  { "question": "Q.59: Name the largest/longest mountain range in the world?", "options": ["Andes", "Karakuram", "Himalya", "None of these"], "correct": 0 },
+  { "question": "Q.60: Which continent has no desert?", "options": ["Asia", "Africa", "Europe", "None of these"], "correct": 2 }
 ]},
 
 //FIA - Assistant free mock test 02
