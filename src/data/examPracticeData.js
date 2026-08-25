@@ -310,6 +310,9 @@ export const examPracticeData = [
   { "question": "Q.54: Which country complete covid-19 vaccine first?", "options": ["UK", "USA", "UAE", "None of these"], "correct": 3 },
   { "question": "Q.55: Han dynasty was founded after the collapse of Chin dynasty who was the founder of the Han dynasty", "options": ["Liu Bon", "Liu Han", "Liu Bang", "None of these"], "correct": 2 }
 ]},
+
+//FIA - Assistant free mock test 01
+
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
   { id: 87, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
