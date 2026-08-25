@@ -289,7 +289,7 @@ export const nmdcatpastpaper = [
   ]},
 
   // FIA - LDC
-  { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
+  { id: 128, code: 'FIA', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
     'https://drive.google.com/file/d/1RHkklaJcQ4J4hZQQYHysWT-RNt6fRy9T/view?usp=sharing',
     'https://drive.google.com/file/d/1RHkklaJcQ4J4hZQQYHysWT-RNt6fRy9T/view?usp=sharing'
   ]},
