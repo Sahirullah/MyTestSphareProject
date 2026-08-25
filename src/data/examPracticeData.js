@@ -464,6 +464,35 @@ export const examPracticeData = [
 //{ id: 89, code: 'FIA', title: 'FIA - Assistant free mock test 03', category: 'fia', image: '🕵️‍♂️', questions:[
 //]},
 
+//FIA - LDC free mock test 01
+{ id: 90, code: 'FIA', title: 'FIA - LDC free mock test 01', category: 'fia', image: '🕵️‍♂️', questions:[
+  { "question": "Q.1: Bhasha Dam has a storage capacity of ____ MAF.", "options": ["3.2 MAF", "8.1 MAF", "6.2 MAF", "None of these"], "correct": 2 },
+  { "question": "Q.2: How can you access the font size tool on formatting toolbar", "options": ["Ctrl+ Shift +P", "Ctrl+ Shift +S", "Ctrl+ S", "None of these"], "correct": 0 },
+  { "question": "Q.3: CSS stands for _________", "options": ["cascading style sheet", "cascade style sheet", "cascading stylish sheet", "None of these"], "correct": 0 },
+  { "question": "Q.4: Which one is used to divide Email into two parts?", "options": ["@", "#", "$", ":"], "correct": 0 },
+  { "question": "Q.5: Ms office provides help in many ways, which of these is one of them ?", "options": ["Help menu", "Office assistant", "What is this?", "All of them"], "correct": 3 },
+  { "question": "Q.6: قلعہ اٹک کو کس مغل بادشاہ نے تعمیر کروایا تھا؟", "options": ["اکبر", "بابر", "شاہ جہاں", "جہانگیر"], "correct": 0 },
+  { "question": "Q.7: The word opposite of: embezzle", "options": ["misappropiate", "compensate", "Clear", "None of these"], "correct": 1 },
+  { "question": "Q.8: What is the meaning of the word \"Quran\"?", "options": ["Frequently Recited", "Rarely Recited", "Recited Once", "None of these"], "correct": 0 },
+  { "question": "Q.9: Name of the camel on which Prophet travel", "options": ["Shabba", "Khums", "Qaswa", "None of these"], "correct": 2 },
+  { "question": "Q.10: Al-Muwatta is written by?", "options": ["Imam Malik", "Imam Hambal", "Imam Abu Hanifa", "None of these"], "correct": 0 },
+  { "question": "Q.11: Which Muslim scientist is considered to be the founder of chemistry___?", "options": ["Yaqoob Alkandi", "Al Beroni", "Jabir bin Hayan", "None of these"], "correct": 2 },
+  { "question": "Q.12: What is opposite to Toheed", "options": ["Shirk", "Kalma", "Both", "None of these"], "correct": 0 },
+  { "question": "Q.13: Which outcome best reflects the Quran as a source of moral clarity rather than ritual identity?", "options": ["Ethical decisions guided by Quranic values", "Increased recitation with unchangedbehavior", "Memorization for recognition", "None of these"], "correct": 0 },
+  { "question": "Q.14: Islam is based on?", "options": ["Political laws", "Customs and traditions", "Quran and Sunnah", "None of these"], "correct": 2 },
+  { "question": "Q.15: How many basic pillars of Islam are there?", "options": ["4", "5", "6", "7"], "correct": 1 },
+  { "question": "Q.16: Who was the first Prime Minister of Azad Kashmir?", "options": ["Moulana Muhammad Yousaf", "Sardar Sikandar Hayat Khan", "Khan Abdul Hameed Khan", "None of these"], "correct": 2 },
+  { "question": "Q.17: According to the 1973 constitution, what is the term of the office of President?", "options": ["3 years", "4 years", "5 years", "6 years"], "correct": 2 },
+  { "question": "Q.18: In which desert is the Derawar fort is located?", "options": ["Cholistan", "Thar", "Thal", "None of these"], "correct": 0 },
+  { "question": "Q.19: Which is the highest peak of salt range?", "options": ["K-2", "Nanga parbat", "Soan Sakaser", "None of these"], "correct": 2 },
+  { "question": "Q.20: Hub Dam is located on ____ River.", "options": ["Indus", "Hub", "Ravi", "None of these"], "correct": 1 },
+  { "question": "Q.21: On which date the AntiTerrorism (Amendment) Bill, 2020 was passed by the National Assembly?", "options": ["July 29, 2020", "July 28, 2020", "July 27, 2020", "None of these"], "correct": 0 },
+  { "question": "Q.22: “Colorado river” is located in ______ ?", "options": ["USA", "Canada", "UK", "None of these"], "correct": 0 },
+  { "question": "Q.23: Who was the First Secretary General of UNO?", "options": ["Trygve Lie", "Dag Hammarskjold", "Kurt Waldheim", "None of these"], "correct": 0 },
+  { "question": "Q.24: Barack Obama was _____ President of USA?", "options": ["43rd", "44th", "45th", "46th"], "correct": 1 },
+  { "question": "Q.25: What did Barack Obama win the Nobel Peace Prize for?", "options": ["2009", "2008", "2007", "2006"], "correct": 0 }
+]},
+
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
   { id: 87, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
