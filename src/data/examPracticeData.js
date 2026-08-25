@@ -251,6 +251,8 @@ export const examPracticeData = [
   { "question": "Q.39: What is the capital of Norway?", "options": ["London", "Oslo", "Madrid", "None of these"], "correct": 1 },
   { "question": "Q.40: Dasht-e-Lut desert is located in?", "options": ["Iraq", "Iran", "India", "None of these"], "correct": 1 }
 ]},
+
+// FIA - ASI free mock test 03
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
   { id: 87, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
