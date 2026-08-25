@@ -786,7 +786,9 @@ export const finalTermDataPart3 = [
 
   // FIA - Assistant sub inspector
   { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
-    'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing'
+    'https://drive.google.com/file/d/1XF558pwLryrm0WVLQhgPtocQbbubVEO-/view?usp=sharing',
+    'https://drive.google.com/file/d/1Ae3b9aslI_pWnPFMkVl1FlrEi3XCrkOm/view?usp=sharing',
+    'https://drive.google.com/file/d/1RTCIMserPWWH_eki5Kn7ptwsgKMEmxD6/view?usp=sharing'
   ]},
 
   // FIA - LDC
