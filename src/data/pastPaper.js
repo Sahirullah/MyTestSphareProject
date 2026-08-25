@@ -395,6 +395,7 @@ export const midtermCategories = [
   { id: 'etea', name: 'ETEA - Entry Test Engineering & Technology' },
   { id: 'eth', name: 'ETH - Ethics' },
   { id: 'fin', name: 'FIN - Finance' },
+  { id: 'fia', name: 'FIA - Financial Information Analysis' },
   { id: 'gate', name: 'GATE - Graduate Aptitude Test in Engineering' },
   { id: 'gmat', name: 'GMAT - Graduate Management Admission Test' },
   { id: 'gre', name: 'GRE - Graduate Record Examination' },
