@@ -513,7 +513,7 @@ export const examPracticeData = [
   { "question": "Q.20: IRC stands for:", "options": ["Intelligence Regulatory Cooperation", "Indus Regulatory system Authority", "Indus Relation system Authority", "None of these"], "correct": 3 }
 ]},
 
-//FIN - financial information and 
+//FIN - finance mock test
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
   { id: 87, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
