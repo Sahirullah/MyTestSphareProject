@@ -275,7 +275,7 @@ export const nmdcatpastpaper = [
   
     // FIA - Fedral Investigatoin Agency
   // FIA - ASI
-  { id: 128, code: 'ASI', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
+  { id: 128, code: 'FIA', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
     'https://drive.google.com/file/d/1FQeLJRFZRbAHDzT9PmConrBDtvg_KPgj/view?usp=sharing',
     'https://drive.google.com/file/d/1ErTN-8r8zs2ym8TrI9ioXbDHaU39lMl7/view?usp=sharing',
     'https://drive.google.com/file/d/1LMDCa-IMolTEP13O1uyBR9JeDSR9xuJS/view?usp=sharing'
