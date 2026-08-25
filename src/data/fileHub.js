@@ -785,7 +785,16 @@ export const finalTermDataPart3 = [
     'https://drive.google.com/file/d/1kr5JbalTrJXnzaur7S7-_MFT2qmgZhqw/view?usp=sharing',
     'https://drive.google.com/file/d/1m4phhEWUcaygDKXfEMLpUhn5YAXy7-1j/view?usp=sharing',
     'https://drive.google.com/file/d/1ZzZqrO4kMinSg_E3MHdqD5jWW83ZNsLr/view?usp=sharing'
-  ] },
+  ]},
+  
+  // FIN - Finance
+  { id: 120, code: 'FIN611', title: 'Finance Course', category: 'fin', image: '💰',links:[
+    'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing',
+    'https://drive.google.com/file/d/1fe6dgGcPDqvE6tUfxfPMLJrKWwo33xwV/view?usp=sharing',
+    'https://drive.google.com/file/d/1kr5JbalTrJXnzaur7S7-_MFT2qmgZhqw/view?usp=sharing',
+    'https://drive.google.com/file/d/1m4phhEWUcaygDKXfEMLpUhn5YAXy7-1j/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZzZqrO4kMinSg_E3MHdqD5jWW83ZNsLr/view?usp=sharing'
+  ]},
   { id: 121, code: 'FIN621', title: 'Finance Course', category: 'fin', image: '💰', links:[
     'https://drive.google.com/file/d/1tBjbP1P0rLsd-oPn6_b5OWADvuyKym8h/view?usp=sharing',
     'https://drive.google.com/file/d/1HdfJ0FfTYzfece3cYN5cgjv8go7mWtir/view?usp=sharing',
@@ -1564,6 +1573,7 @@ export const finalTermCategories = [
   { id: 'etea', name: 'ETEA - Entry Test Engineering & Technology' },
   { id: 'eth', name: 'ETH - Ethics' },
   { id: 'fin', name: 'FIN - Finance' },
+  { id: 'fia', name: 'FIA - Financial Information Analysis' },
   { id: 'gate', name: 'GATE - Graduate Aptitude Test in Engineering' },
   { id: 'gmat', name: 'GMAT - Graduate Management Admission Test' },
   { id: 'gre', name: 'GRE - Graduate Record Examination' },
