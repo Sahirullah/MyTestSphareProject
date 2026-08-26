@@ -119,6 +119,18 @@ export const midtermDataPart2 = [
   { id: 100, code: 'CS718', title: 'Wireless Networks', category: 'cs', image: '💻' },
   { id: 101, code: 'CS724', title: 'Software Process Improvement', category: 'cs', image: '💻' },
   { id: 102, code: 'CS726', title: 'Information Retrieval Techniques', category: 'cs', image: '💻' },
+
+    //CSS - Central Superior Services
+  { id: 103, code: 'CSS', title: 'CSS pdf files. international law book in pdf', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1OFi1K1cm8IdZgKjZN-MNlN4jVAUN1LeA/view?usp=sharing',
+    'https://drive.google.com/file/d/1ROXp5QdGo2r7JOmt2sZbi_OPw2merhLQ/view?usp=sharing',
+    'https://drive.google.com/file/d/1nlfP65OIlDKNE-zSZNM9Fo8ekw8re8oc/view?usp=sharing',
+    'https://drive.google.com/file/d/1J2JObDHttrJVh67NQuOFe5p4HrrwRW72/view?usp=sharing',
+    'https://drive.google.com/file/d/1xE5rEosKiAXe0Q1UuzAqWxXoVd97m_qS/view?usp=sharing',
+    'https://drive.google.com/file/d/19OeAtv2rBIEQFNRkHbuvPkvR4K938Eov/view?usp=sharing',
+    'https://drive.google.com/file/d/1HrWOZ4EBIG067afbDnOuKcdpOX0H7Z6F/view?usp=sharing',
+    'https://drive.google.com/file/d/1e6fzmOAIkbwk4Ajg0ErWtT9ci2RIf5z_/view?usp=sharing'
+  ]},
 ];
 
 export const midtermDataPart3 = [
@@ -389,6 +401,7 @@ export const midtermCategories = [
   { id: 'bt', name: 'BT - Biotechnology' },
   { id: 'che', name: 'CHE - Chemistry' },
   { id: 'cs', name: 'CS - Computer Science' },
+  { id: 'css', name: 'CSS - Central Superior Services' },
   { id: 'eco', name: 'ECO - Economics' },
   { id: 'edu', name: 'EDU - Education' },
   { id: 'eng', name: 'ENG - English' },
