@@ -24,7 +24,10 @@ const ExamPractice = () => {
 
   const filteredExams = selectedCategory === 'all'
     ? allExamData
-    : allExamData.filter(exam => exam.category === selectedCategory);
+    : allExamData.filter(exam => {
+        const matches = exam.category === selectedCategory;
+        return matches;
+      });
 
   // Timer effect
   useEffect(() => {

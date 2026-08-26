@@ -514,7 +514,18 @@ export const examPracticeData = [
 ]},
 
 //FIN - finance mock test
-{ id: 88, code: 'FIN', title: 'Finance mock test', category: 'fin', image: '💰', questions:[]},
+{ id: 88, code: 'FIN', title: 'Finance mock test', category: 'fin', image: '💰', questions:[
+  { question: "What is the primary role of a central bank?", options: ["To provide banking services to individuals", "To regulate money supply and maintain financial stability", "To manage retail banking operations", "To collect taxes"], correct: 1 },
+  { question: "Define inflation.", options: ["Decrease in price of goods", "Sustained increase in the general price level of goods and services", "Increase in employment", "Decrease in interest rates"], correct: 1 },
+  { question: "What is GDP?", options: ["Gross Deficit Product", "Gross Domestic Product", "General Development Program", "Global Demand Price"], correct: 1 },
+  { question: "Which is a capital market instrument?", options: ["Savings account", "Stock", "Fixed deposit", "Checking account"], correct: 1 },
+  { question: "What does ROI stand for?", options: ["Rate of Income", "Return on Investment", "Revenue on Inventory", "Rate on Interest"], correct: 1 },
+  { question: "Define liquidity in finance.", options: ["The ability to quickly convert assets to cash", "The amount of money in circulation", "The interest paid on loans", "The value of investments"], correct: 0 },
+  { question: "What is a mutual fund?", options: ["A bank account", "A pooled investment vehicle managed by professionals", "A government bond", "A savings scheme"], correct: 1 },
+  { question: "What does NPV stand for?", options: ["Net Present Value", "National Product Value", "Net Profit Valuation", "New Payment Verification"], correct: 0 },
+  { question: "What is credit rating?", options: ["The age of a credit card", "An assessment of creditworthiness", "The balance in a bank account", "The interest rate charged"], correct: 1 },
+  { question: "Define depreciation.", options: ["Increase in asset value", "Decrease in asset value over time", "Change in currency value", "Reduction in loans"], correct: 1 }
+]},
   //POLICE Mock Exam.
   //Islamabad police ASI Exam
   { id: 87, code: 'Police', title: 'Islamabad Police ASI mock test', category: 'police', image: '👮', questions: [
@@ -1891,8 +1902,17 @@ export const examPracticeData = [
 ]},
 
 //Class 9th free mock test 05
-  { id: 95, code: '9th10th', title: 'Class 9th free mock physics test practice', category: '9th10th', image: '🎓', questions: [
-
+  { id: 100, code: '9th10th', title: 'Class 9th free mock physics test practice', category: '9th10th', image: '🎓', questions: [
+    { question: "What is the SI unit of force?", options: ["Newton", "Joule", "Pascal", "Watt"], correct: 0 },
+    { question: "Define velocity.", options: ["Speed in a direction", "Rate of change of distance", "Rate of change of speed", "All of above"], correct: 0 },
+    { question: "What is the formula for kinetic energy?", options: ["KE = mgh", "KE = 1/2 mv²", "KE = F×d", "KE = P×t"], correct: 1 },
+    { question: "Which law states that for every action, there is an equal and opposite reaction?", options: ["First Law", "Second Law", "Third Law", "Fourth Law"], correct: 2 },
+    { question: "What is acceleration?", options: ["Rate of change of velocity", "Rate of change of distance", "Speed of an object", "Force on an object"], correct: 0 },
+    { question: "The SI unit of work is?", options: ["Watt", "Newton", "Joule", "Pascal"], correct: 2 },
+    { question: "What is power in physics?", options: ["Energy per unit time", "Force per unit area", "Mass times acceleration", "Velocity times time"], correct: 0 },
+    { question: "Define potential energy.", options: ["Energy due to motion", "Energy due to position", "Total mechanical energy", "Thermal energy"], correct: 1 },
+    { question: "What does Ohm's law state?", options: ["V = I×R", "F = ma", "E = mc²", "P = VI"], correct: 0 },
+    { question: "What is the SI unit of current?", options: ["Volt", "Ampere", "Ohm", "Watt"], correct: 1 }
   ]},
 
 ];
