@@ -596,7 +596,7 @@ export const finalTermDataPart2 = [
    'https://drive.google.com/file/d/1SCPXZb25kmpakmF0atTQ_7VWPeE3KyUH/view?usp=sharing'
   ]},
 //Current Affaire
-  { id: 103, code: 'CSS', title: 'CSS pdf files. international law book in pdf', category: 'css', image: '📊',links:[
+  { id: 103, code: 'CSS', title: 'CSS pdf files. Current affairs download free pdf', category: 'css', image: '📊',links:[
    'https://drive.google.com/file/d/1Lb_X2_YF5xIfOELpJ-xWUy0yWI-HdY1X/view?usp=sharing',
    'https://drive.google.com/file/d/1CzVzyI3i8-_ShnDisf3lXyVUP_99OOMj/view?usp=sharing'
   ]},
