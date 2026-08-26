@@ -571,7 +571,11 @@ export const finalTermDataPart2 = [
   { id: 100, code: 'CS718', title: 'Wireless Networks', category: 'cs', image: '💻',Link:'' },
   { id: 101, code: 'CS724', title: 'Software Process Improvement', category: 'cs', image: '💻',Link:'' },
   { id: 102, code: 'CS726', title: 'Information Retrieval Techniques', category: 'cs', image: '💻',Link:'' },
+ //CSS - Central Superior Services
+  { id: 103, code: 'CSS', title: 'CSS international law', category: 'css', image: '📊',links:[
+  ]},
 ];
+
 
 export const finalTermDataPart3 = [
   // ECO - Economics
@@ -1581,6 +1585,7 @@ export const finalTermCategories = [
   { id: 'bt', name: 'BT - Biotechnology' },
   { id: 'che', name: 'CHE - Chemistry' },
   { id: 'cs', name: 'CS - Computer Science' },
+  { id: 'css', name: 'CSS - Central Superior Services' },
   { id: 'eco', name: 'ECO - Economics' },
   { id: 'edu', name: 'EDU - Education' },
   { id: 'eng', name: 'ENG - English' },

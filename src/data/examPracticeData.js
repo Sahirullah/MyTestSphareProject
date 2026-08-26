@@ -59,7 +59,7 @@ export const examPracticeData = [
   // ARMY - Pakistan Army
   { id: 6, code: 'Army', title: 'GD in Pakistan army free mock test', category: 'army', image: '🎖️', questions: generateCourseQuestions('Army'), totalQuestions: 50 },
   { id: 7, code: 'Army', title: 'PMA in Pakistan army free mock test', category: 'army', image: '🎖️', questions: generateCourseQuestions('Army'), totalQuestions: 50 },
-
+  
   // FIA - Federal Investigation Agency
   { id: 8, code: 'FIA', title: 'FIA ASI free mock test 01', category: 'fia', image: '🕵️‍♂️', questions: generateCourseQuestions('FIA'), totalQuestions: 50 },
   { id: 9, code: 'FIA', title: 'FIA ASI free mock test 02', category: 'fia', image: '🕵️‍♂️', questions: generateCourseQuestions('FIA'), totalQuestions: 50 },
@@ -87,11 +87,17 @@ export const examPracticeData = [
 
   // Class 9th & 10th
   { id: 25, code: '9th10th', title: 'Class 9th free mock physics test practice', category: '9th10th', image: '🎓', questions: generateCourseQuestions('Physics'), totalQuestions: 50 },
+
+  //International law
+  { id: 26, code: 'intlaw', title: 'International law free mock test practice', category: 'intlaw', image: '🎓', questions: generateCourseQuestions('Physics'), totalQuestions: 50 },
+
+
 ];
 
 export const quizCategories = [
   { id: 'all', name: 'All Courses' },
   { id: 'army', name: 'ARMY - Pakistan Army' },
+  { id: 'intlaw', name: 'INTLAW - International Law' },
   { id: 'fin', name: 'FIN - Finance' },
   { id: 'police', name: 'Police - Islamabad Police' },
   { id: 'fia', name: 'FIA - Federal Investigation Agency' },
