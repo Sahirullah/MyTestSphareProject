@@ -145,14 +145,8 @@ export const midtermDataPart2 = [
   ]},
 //Current Affaire
   { id: 103, code: 'CSS', title: 'CSS pdf files. international law book in pdf', category: 'css', image: '📊',links:[
-   'https://drive.google.com/file/d/11emcl2IqYxkQvazJebaIumZClL4RI_Rb/view?usp=sharing',
-   'https://drive.google.com/file/d/1sjYGocculINrRPujcw-kxnTaEnN9Nj4Q/view?usp=sharing',
-   'https://drive.google.com/file/d/1fZ838Q5nx26JfILDjabHMz3xblZLi86y/view?usp=sharing',
-   'https://drive.google.com/file/d/1nQOJ6uB3iCnMFZcNnKRJwHHf_gNF-lLF/view?usp=sharing',
-   'https://drive.google.com/file/d/1_oziXzz6JTA3ACcYuulEtlmc2prn_ZQt/view?usp=sharing',
-   'https://drive.google.com/file/d/1ajmujv42DCchURTMOOVIaKX4naYj9Y3A/view?usp=sharing',
-   'https://drive.google.com/file/d/1WsJPXX95eBB0LDa5_nXkR-pqpiyUSf4b/view?usp=sharing',
-   'https://drive.google.com/file/d/1SCPXZb25kmpakmF0atTQ_7VWPeE3KyUH/view?usp=sharing'
+   'https://drive.google.com/file/d/1Lb_X2_YF5xIfOELpJ-xWUy0yWI-HdY1X/view?usp=sharing',
+   'https://drive.google.com/file/d/1CzVzyI3i8-_ShnDisf3lXyVUP_99OOMj/view?usp=sharing'
   ]},
 ];
 
