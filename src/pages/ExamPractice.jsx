@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { examPracticeData, quizCategories, getQuestionSet } from '../data/examPracticeData';
@@ -22,12 +22,12 @@ const ExamPractice = () => {
   const allExamData = examPracticeData;
   const currentCategories = quizCategories;
 
-  const filteredExams = selectedCategory === 'all'
-    ? allExamData
-    : allExamData.filter(exam => {
-        const matches = exam.category === selectedCategory;
-        return matches;
-      });
+  const filteredExams = useMemo(() => {
+    if (selectedCategory === 'all') {
+      return allExamData;
+    }
+    return allExamData.filter(exam => exam.category === selectedCategory);
+  }, [selectedCategory, allExamData]);
 
   // Timer effect
   useEffect(() => {
@@ -176,8 +176,8 @@ const ExamPractice = () => {
           </div>
 
           <div className="exams-grid">
-            {filteredExams.sort((a, b) => a.code.localeCompare(b.code)).map(exam => (
-              <div key={`${exam.id}-${exam.code}`} className="exam-card">
+            {filteredExams.sort((a, b) => a.code.localeCompare(b.code)).map((exam, index) => (
+              <div key={exam.id} className="exam-card">
                 <div className="card-header">
                   <div className="card-icon">{exam.image}</div>
                   <span className="status-badge">Exam Practice</span>
