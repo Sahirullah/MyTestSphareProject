@@ -571,9 +571,15 @@ export const finalTermDataPart2 = [
   { id: 100, code: 'CS718', title: 'Wireless Networks', category: 'cs', image: '💻',Link:'' },
   { id: 101, code: 'CS724', title: 'Software Process Improvement', category: 'cs', image: '💻',Link:'' },
   { id: 102, code: 'CS726', title: 'Information Retrieval Techniques', category: 'cs', image: '💻',Link:'' },
- //CSS - Central Superior Services
+ 
+ 
+  //CSS - Central Superior Services
   { id: 103, code: 'CSS', title: 'CSS international law', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1OFi1K1cm8IdZgKjZN-MNlN4jVAUN1LeA/view?usp=sharing',
+    'https://drive.google.com/file/d/1ROXp5QdGo2r7JOmt2sZbi_OPw2merhLQ/view?usp=sharing',
+    'https://drive.google.com/file/d/1nlfP65OIlDKNE-zSZNM9Fo8ekw8re8oc/view?usp=sharing'
   ]},
+
 ];
 
 
