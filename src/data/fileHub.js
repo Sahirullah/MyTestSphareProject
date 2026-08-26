@@ -585,7 +585,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1e6fzmOAIkbwk4Ajg0ErWtT9ci2RIf5z_/view?usp=sharing'
   ]},
 //Current Affaire
-  { id: 103, code: 'CSS', title: 'CSS pdf files. Current affairs download free pdf', category: 'css', image: '📊',links:[
+  { id: 103, code: 'CSS', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
    'https://drive.google.com/file/d/11emcl2IqYxkQvazJebaIumZClL4RI_Rb/view?usp=sharing',
    'https://drive.google.com/file/d/1sjYGocculINrRPujcw-kxnTaEnN9Nj4Q/view?usp=sharing',
    'https://drive.google.com/file/d/1fZ838Q5nx26JfILDjabHMz3xblZLi86y/view?usp=sharing',
@@ -596,7 +596,7 @@ export const finalTermDataPart2 = [
    'https://drive.google.com/file/d/1SCPXZb25kmpakmF0atTQ_7VWPeE3KyUH/view?usp=sharing'
   ]},
 //Current Affaire
-  { id: 103, code: 'CSS', title: 'CSS pdf files. Current affairs download free pdf', category: 'css', image: '📊',links:[
+  { id: 103, code: 'CSS', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
    'https://drive.google.com/file/d/1Lb_X2_YF5xIfOELpJ-xWUy0yWI-HdY1X/view?usp=sharing',
    'https://drive.google.com/file/d/1CzVzyI3i8-_ShnDisf3lXyVUP_99OOMj/view?usp=sharing'
   ]},
