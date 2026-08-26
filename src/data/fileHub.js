@@ -577,7 +577,12 @@ export const finalTermDataPart2 = [
   { id: 103, code: 'CSS', title: 'CSS international law', category: 'css', image: '📊',links:[
     'https://drive.google.com/file/d/1OFi1K1cm8IdZgKjZN-MNlN4jVAUN1LeA/view?usp=sharing',
     'https://drive.google.com/file/d/1ROXp5QdGo2r7JOmt2sZbi_OPw2merhLQ/view?usp=sharing',
-    'https://drive.google.com/file/d/1nlfP65OIlDKNE-zSZNM9Fo8ekw8re8oc/view?usp=sharing'
+    'https://drive.google.com/file/d/1nlfP65OIlDKNE-zSZNM9Fo8ekw8re8oc/view?usp=sharing',
+    'https://drive.google.com/file/d/1J2JObDHttrJVh67NQuOFe5p4HrrwRW72/view?usp=sharing',
+    'https://drive.google.com/file/d/1xE5rEosKiAXe0Q1UuzAqWxXoVd97m_qS/view?usp=sharing',
+    'https://drive.google.com/file/d/19OeAtv2rBIEQFNRkHbuvPkvR4K938Eov/view?usp=sharing',
+    'https://drive.google.com/file/d/1HrWOZ4EBIG067afbDnOuKcdpOX0H7Z6F/view?usp=sharing',
+    'https://drive.google.com/file/d/1e6fzmOAIkbwk4Ajg0ErWtT9ci2RIf5z_/view?usp=sharing'
   ]},
 
 ];
