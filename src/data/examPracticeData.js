@@ -91,9 +91,9 @@ export const examPracticeData = [
 
 export const quizCategories = [
   { id: 'all', name: 'All Courses' },
+  { id: 'army', name: 'ARMY - Pakistan Army' },
   { id: 'fin', name: 'FIN - Finance' },
   { id: 'police', name: 'Police - Islamabad Police' },
-  { id: 'army', name: 'ARMY - Pakistan Army' },
   { id: 'fia', name: 'FIA - Federal Investigation Agency' },
   { id: 'ppsc', name: 'PPSC - Punjab Public Service Commission' },
   { id: 'airforce', name: 'AIR FORCE - Pakistan Air Force' },
