@@ -136,7 +136,10 @@ export const midtermDataPart2 = [
   { id: 103, code: 'CSS', title: 'CSS pdf files. international law book in pdf', category: 'css', image: '📊',links:[
    'https://drive.google.com/file/d/11emcl2IqYxkQvazJebaIumZClL4RI_Rb/view?usp=sharing',
    'https://drive.google.com/file/d/1sjYGocculINrRPujcw-kxnTaEnN9Nj4Q/view?usp=sharing',
-   'https://drive.google.com/file/d/1fZ838Q5nx26JfILDjabHMz3xblZLi86y/view?usp=sharing'
+   'https://drive.google.com/file/d/1fZ838Q5nx26JfILDjabHMz3xblZLi86y/view?usp=sharing',
+   'https://drive.google.com/file/d/1nQOJ6uB3iCnMFZcNnKRJwHHf_gNF-lLF/view?usp=sharing',
+   'https://drive.google.com/file/d/1_oziXzz6JTA3ACcYuulEtlmc2prn_ZQt/view?usp=sharing',
+   ''
   ]},
 ];
 
