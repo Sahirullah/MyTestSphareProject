@@ -575,6 +575,7 @@ export const finalTermDataPart2 = [
   { id: 97, code: 'CS710', title: 'Mobile & Pervasive Computing', category: 'cs', image: '💻',Link:'' },
   //CS711
   { id: 98, code: 'CS711', title: 'Software Design', category: 'cs', image: '💻',Link:'' },
+  
   { id: 99, code: 'CS712', title: 'Distributed DBMS', category: 'cs', image: '💻',Link:'' },
   { id: 100, code: 'CS718', title: 'Wireless Networks', category: 'cs', image: '💻',Link:'' },
   { id: 101, code: 'CS724', title: 'Software Process Improvement', category: 'cs', image: '💻',Link:'' },
