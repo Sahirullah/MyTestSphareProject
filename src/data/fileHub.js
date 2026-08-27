@@ -561,6 +561,7 @@ export const finalTermDataPart2 = [
   ] },
   //CS702
   { id: 91, code: 'CS702', title: 'Advanced Algorithms Analysis & Design', category: 'cs', image: '💻',Link:'' },
+  //CS703
   { id: 92, code: 'CS703', title: 'Advanced Operating Systems', category: 'cs', image: '💻',Link:'' },
   { id: 93, code: 'CS704', title: 'Advanced Computer Architecture II', category: 'cs', image: '💻',Link:'' },
   { id: 94, code: 'CS706', title: 'Software Quality Assurance', category: 'cs', image: '💻',Link:'' },
