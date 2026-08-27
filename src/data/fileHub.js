@@ -567,7 +567,9 @@ export const finalTermDataPart2 = [
   { id: 93, code: 'CS704', title: 'Advanced Computer Architecture II', category: 'cs', image: '💻',Link:'' },
   //CS706
   { id: 94, code: 'CS706', title: 'Software Quality Assurance', category: 'cs', image: '💻',Link:'' },
+  //CS707
   { id: 95, code: 'CS707', title: 'Network Security', category: 'cs', image: '💻',Link:'' },
+  
   { id: 96, code: 'CS708', title: 'Software Requirement Engineering', category: 'cs', image: '💻',Link:'' },
   { id: 97, code: 'CS710', title: 'Mobile & Pervasive Computing', category: 'cs', image: '💻',Link:'' },
   { id: 98, code: 'CS711', title: 'Software Design', category: 'cs', image: '💻',Link:'' },
