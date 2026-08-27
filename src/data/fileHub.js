@@ -559,6 +559,7 @@ export const finalTermDataPart2 = [
   { id: 90, code: 'CS701', title: 'Theory of Computation', category: 'cs', image: '💻',links:[
     'https://docs.google.com/document/d/1qSAffsjclAd59ikvNeeAxXY-7sI4_z9K/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ] },
+  //CS702
   { id: 91, code: 'CS702', title: 'Advanced Algorithms Analysis & Design', category: 'cs', image: '💻',Link:'' },
   { id: 92, code: 'CS703', title: 'Advanced Operating Systems', category: 'cs', image: '💻',Link:'' },
   { id: 93, code: 'CS704', title: 'Advanced Computer Architecture II', category: 'cs', image: '💻',Link:'' },
