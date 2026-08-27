@@ -571,9 +571,9 @@ export const finalTermDataPart2 = [
   { id: 95, code: 'CS707', title: 'Network Security', category: 'cs', image: '💻',Link:'' },
   //CS708
   { id: 96, code: 'CS708', title: 'Software Requirement Engineering', category: 'cs', image: '💻',Link:'' },
-  //CS702
+  //CS710
   { id: 97, code: 'CS710', title: 'Mobile & Pervasive Computing', category: 'cs', image: '💻',Link:'' },
-  
+  //CS711
   { id: 98, code: 'CS711', title: 'Software Design', category: 'cs', image: '💻',Link:'' },
   { id: 99, code: 'CS712', title: 'Distributed DBMS', category: 'cs', image: '💻',Link:'' },
   { id: 100, code: 'CS718', title: 'Wireless Networks', category: 'cs', image: '💻',Link:'' },
