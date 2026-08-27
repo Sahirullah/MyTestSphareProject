@@ -555,6 +555,7 @@ export const finalTermDataPart2 = [
   ] },
   //619
   { id: 88, code: 'CS619', title: 'Final Project (Helping Material)', category: 'cs', image: '💻',links:[] },
+  //
   { id: 88, code: 'CS620', title: '-------------------------------', category: 'cs', image: '💻',links:[] },
   { id: 89, code: 'CS625', title: 'Professional Practices', category: 'cs', image: '💻',Link:'' },
   { id: 90, code: 'CS701', title: 'Theory of Computation', category: 'cs', image: '💻',links:[
