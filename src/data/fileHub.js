@@ -553,7 +553,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/171E6n2GhxuXO6Ufif6AjaRgXcQgLrxIX/view?usp=sharing',
     'https://drive.google.com/file/d/1gAC80Q2qIlcR8gMX0JUb3bW7ScnsDf3O/view?usp=sharing'
   ] },
-  //6
+  //619
   { id: 88, code: 'CS619', title: 'Final Project (Helping Material)', category: 'cs', image: '💻',links:[] },
   { id: 88, code: 'CS620', title: '-------------------------------', category: 'cs', image: '💻',links:[] },
   { id: 89, code: 'CS625', title: 'Professional Practices', category: 'cs', image: '💻',Link:'' },
