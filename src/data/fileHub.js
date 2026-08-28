@@ -557,6 +557,7 @@ export const finalTermDataPart2 = [
   { id: 88, code: 'CS619', title: 'Final Project (Helping Material)', category: 'cs', image: '💻',links:[] },
   //620
   { id: 88, code: 'CS620', title: '-------------------------------', category: 'cs', image: '💻',links:[] },
+  //625
   { id: 89, code: 'CS625', title: 'Professional Practices', category: 'cs', image: '💻',Link:'' },
   { id: 90, code: 'CS701', title: 'Theory of Computation', category: 'cs', image: '💻',links:[
     'https://docs.google.com/document/d/1qSAffsjclAd59ikvNeeAxXY-7sI4_z9K/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
@@ -583,7 +584,7 @@ export const finalTermDataPart2 = [
   { id: 100, code: 'CS718', title: 'Wireless Networks', category: 'cs', image: '💻',Link:'' },
   //CS724
   { id: 101, code: 'CS724', title: 'Software Process Improvement', category: 'cs', image: '💻',Link:'' },
-  
+  //cs726
   { id: 102, code: 'CS726', title: 'Information Retrieval Techniques', category: 'cs', image: '💻',Link:'' },
  
   //CSS - Central Superior Services
