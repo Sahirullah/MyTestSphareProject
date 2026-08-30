@@ -645,6 +645,7 @@ export const finalTermDataPart3 = [
     'https://drive.google.com/file/d/1d0wLqy0_V-TBRyJQtzgcbXHwP6LM8y65/view?usp=sharing',
     'https://drive.google.com/file/d/13PbXB_kjFM9VJZUxd9EQzhUS5nrHKdkK/view?usp=sharing'
   ] },
+  
   { id: 105, code: 'ECO403', title: 'Macroeconomics', category: 'eco', image: '📊',links:[
     'https://drive.google.com/file/d/17fabzfaKqx7gc6pvT3yCZmnAG0tnhdOc/view?usp=sharing',
     'https://drive.google.com/file/d/1ZbLQhnC38tXLP9aj_o-EtoIuieQZ2WGH/view?usp=sharing',
