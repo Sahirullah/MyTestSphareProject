@@ -600,7 +600,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1HrWOZ4EBIG067afbDnOuKcdpOX0H7Z6F/view?usp=sharing',
     'https://drive.google.com/file/d/1e6fzmOAIkbwk4Ajg0ErWtT9ci2RIf5z_/view?usp=sharing'
   ]},
-  
+
 //Current Affaire
   { id: 103, code: 'CSS', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
    'https://drive.google.com/file/d/11emcl2IqYxkQvazJebaIumZClL4RI_Rb/view?usp=sharing',
@@ -633,6 +633,7 @@ export const finalTermDataPart3 = [
     'https://drive.google.com/file/d/1PPWu0D7A22qUBguKkzkM9979H5ofC3Fl/view?usp=sharing',
     'https://drive.google.com/file/d/1k4vV8PnXyNdx1Kh80ZeeZd0mrERK5iNp/view?usp=sharing'
   ] },
+  //
   { id: 104, code: 'ECO402', title: 'Microeconomics', category: 'eco', image: '📊',links:[
     'https://drive.google.com/file/d/16x6cmxhVlDY0T9xOihef-4Fc9gsa4atd/view?usp=sharing',
     'https://drive.google.com/file/d/1ZXQk5eQnIzX4xQzhoCopUnQd67YNUgjT/view?usp=sharing',
