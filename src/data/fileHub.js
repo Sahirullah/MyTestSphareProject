@@ -633,7 +633,7 @@ export const finalTermDataPart3 = [
     'https://drive.google.com/file/d/1PPWu0D7A22qUBguKkzkM9979H5ofC3Fl/view?usp=sharing',
     'https://drive.google.com/file/d/1k4vV8PnXyNdx1Kh80ZeeZd0mrERK5iNp/view?usp=sharing'
   ] },
-  //ECO
+  //ECO files
   { id: 104, code: 'ECO402', title: 'Microeconomics', category: 'eco', image: '📊',links:[
     'https://drive.google.com/file/d/16x6cmxhVlDY0T9xOihef-4Fc9gsa4atd/view?usp=sharing',
     'https://drive.google.com/file/d/1ZXQk5eQnIzX4xQzhoCopUnQd67YNUgjT/view?usp=sharing',
