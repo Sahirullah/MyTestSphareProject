@@ -654,6 +654,7 @@ export const finalTermDataPart3 = [
     'https://drive.google.com/file/d/1-MGEcKYOd62cjiGBFP192Mj9rHnH6AGq/view?usp=sharing',
     'https://drive.google.com/file/d/1x_pIZZjNsx20omDahE9nP84OrxX088WG/view?usp=sharing'
   ] },
+  //
   { id: 106, code: 'ECO404', title: 'Managerial Economics', category: 'eco', image: '📊',links:[
     'https://drive.google.com/file/d/1KP5X6AGkkNL1BtIb5O_JwMMWljobZTLD/view?usp=sharing',
     'https://drive.google.com/file/d/1pR6fqdZDb3bJSyfDRAIPXoiIoNbY8T3R/view?usp=sharing',
