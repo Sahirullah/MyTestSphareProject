@@ -665,7 +665,7 @@ export const finalTermDataPart3 = [
   { id: 107, code: 'ECO406', title: '------------------', category: 'eco', image: '📊',links:[
     'https://docs.google.com/document/d/1u-6ytUdfcU3lQnm8HgIPPQO0ErJ6ZuY4/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ] },
-//ECO
+//ECO501
   { id: 107, code: 'ECO501', title: 'Development Economics', category: 'eco', image: '📊',links:[] },
   { id: 108, code: 'ECO601', title: 'Business Econometrics', category: 'eco', image: '📊' },
   { id: 109, code: 'ECO606', title: 'Mathematical Economics I', category: 'eco', image: '📊' },
