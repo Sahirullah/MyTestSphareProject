@@ -673,7 +673,7 @@ export const finalTermDataPart3 = [
   { id: 109, code: 'ECO606', title: 'Mathematical Economics I', category: 'eco', image: '📊' },
 //ECO607
   { id: 110, code: 'ECO607', title: 'Mathematical Economics II', category: 'eco', image: '📊' },
-  
+//ECO612  
   { id: 111, code: 'ECO612', title: 'Population Economics', category: 'eco', image: '📊' },
   
   // EDU - Education
