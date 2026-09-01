@@ -26,7 +26,7 @@ export const finalTermData = [
     'https://drive.google.com/file/d/1VKoZSH_UwsavKZVGm893QxJcpz0uuYsG/view?usp=sharing',
     'https://docs.google.com/presentation/d/1oO28hfGrotVyLTr6_d8JWMyGyJkG9Bmf/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
-  
+//
   { id: 7, code: 'BIF601', title: 'Bioinformatics Computing I', category: 'bif', image: '🧬',Link:'' },
   { id: 8, code: 'BIF602', title: 'Bioinformatics Computing II', category: 'bif', image: '🧬' ,Link:''},
   { id: 9, code: 'BIF731', title: 'Advanced Bioinformatics', category: 'bif', image: '🧬' ,links:[
