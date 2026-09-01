@@ -621,6 +621,11 @@ export const finalTermDataPart2 = [
    'https://drive.google.com/file/d/1Lb_X2_YF5xIfOELpJ-xWUy0yWI-HdY1X/view?usp=sharing',
    'https://drive.google.com/file/d/1CzVzyI3i8-_ShnDisf3lXyVUP_99OOMj/view?usp=sharing'
   ]},
+
+  //Political Science card 01
+  { id: 103, code: 'CSS', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
+
+  ]}
 ];
 
 
