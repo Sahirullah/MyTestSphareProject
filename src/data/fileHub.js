@@ -21,7 +21,7 @@ export const finalTermData = [
   { id: 5, code: 'BIF402', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬',links:[
     'https://docs.google.com/document/d/1CD44mp3vjH6Et-2Rd2ewGyBoY-o7FS-i/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
-
+//
   { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1VKoZSH_UwsavKZVGm893QxJcpz0uuYsG/view?usp=sharing',
     'https://docs.google.com/presentation/d/1oO28hfGrotVyLTr6_d8JWMyGyJkG9Bmf/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
