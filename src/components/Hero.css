@@ -187,10 +187,10 @@
   box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
   animation: float 6s ease-in-out infinite;
   overflow: hidden;
-  background: white;
+  background-color: #FF7C2B;
   display: flex;
   flex-direction: column;
-  border: none;
+  border: 2px solid white;
   cursor: pointer;
   transition: all 0.3s ease;
   padding: 0;
@@ -199,34 +199,34 @@
 .floating-card:hover {
   transform: translateY(-8px);
   box-shadow: 0 30px 60px rgba(0, 0, 0, 0.2);
+  background: transparent;
 }
 
 .card-image {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  display: block;
+  display: none;
   border-radius: 20px;
 }
 
 .card-label {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: linear-gradient(135deg, #FF741F 0%, #ff8c42 100%);
+  position: relative;
+  background: transparent;
   color: white;
   padding: 12px 14px;
   font-size: 12px;
   font-weight: 700;
   text-align: center;
-  border-radius: 20px;
   letter-spacing: 0.3px;
   display: flex;
   flex-direction: column;
   gap: 6px;
   overflow: hidden;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
 }
 
 .card-title {
