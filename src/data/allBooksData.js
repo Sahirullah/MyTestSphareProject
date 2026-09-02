@@ -1,10 +1,10 @@
 export const allBooksData = [
   // ACC - Accounting
-  { id: 1, code: 'ACC311', title: 'Fundamentals of Auditing', category: 'acc', image: '📘', link: 'https://drive.google.com/file/d/1-F4uxF6-5XxWmq9CN2ZlpZmoqbBJjOGM/view?usp=drive_link' },
-  { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘' , link: 'https://drive.google.com/file/d/1sTazPUBbOaXspt2MjEFV1cSAbyKg6O1H/view?usp=drive_link'},
+  { id: 1, code: 'ACC311', title: 'Fundamentals of Auditing', category: 'acc', image: '📘', link: 'https://drive.google.com/uc?eport=download&id=1-F4uxF6-5XxWmq9CN2ZlpZmoqbBJjOGM' },
+  { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘' , link: 'https://drive.google.com/uc?eport=download&id=1sTazPUBbOaXspt2MjEFV1cSAbyKg6O1H'},
   
   // BIF - Bioinformatics
-  { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬', link: 'https://drive.google.com/file/d/1B45XO7ZkQJyZwAeRhbPtOA7DcmZs3W16/view?usp=drive_link' },
+  { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬', link: 'https://drive.google.com/uc?eport=download&id=1B45XO7ZkQJyZwAeRhbPtOA7DcmZs3W16' },
   { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬', link: 'https://drive.google.com/file/d/1w_to7G7d8BI1Q47ATG4PxkFU_ZIQr5Ia/view?usp=drive_link' },
   { id: 5, code: 'BIF402', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬'},
   { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬', link: 'https://drive.google.com/file/d/1tu_hwqpiy0iQeEQtXlVvrpQguvfl8OAv/view?usp=drive_link' },
