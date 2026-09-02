@@ -123,30 +123,30 @@ export const midtermDataPart2 = [
     //CSS - Central Superior Services
     //International law
   { id: 103, code: 'CSS', title: 'CSS pdf files. international law book in pdf', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1OFi1K1cm8IdZgKjZN-MNlN4jVAUN1LeA/view?usp=sharing',
-    'https://drive.google.com/file/d/1ROXp5QdGo2r7JOmt2sZbi_OPw2merhLQ/view?usp=sharing',
-    'https://drive.google.com/file/d/1nlfP65OIlDKNE-zSZNM9Fo8ekw8re8oc/view?usp=sharing',
-    'https://drive.google.com/file/d/1J2JObDHttrJVh67NQuOFe5p4HrrwRW72/view?usp=sharing',
-    'https://drive.google.com/file/d/1xE5rEosKiAXe0Q1UuzAqWxXoVd97m_qS/view?usp=sharing',
-    'https://drive.google.com/file/d/19OeAtv2rBIEQFNRkHbuvPkvR4K938Eov/view?usp=sharing',
-    'https://drive.google.com/file/d/1HrWOZ4EBIG067afbDnOuKcdpOX0H7Z6F/view?usp=sharing',
-    'https://drive.google.com/file/d/1e6fzmOAIkbwk4Ajg0ErWtT9ci2RIf5z_/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1OFi1K1cm8IdZgKjZN-MNlN4jVAUN1LeA',
+    'https://drive.google.com/uc?export=download&id=1ROXp5QdGo2r7JOmt2sZbi_OPw2merhLQ',
+    'https://drive.google.com/uc?export=download&id=1nlfP65OIlDKNE-zSZNM9Fo8ekw8re8oc',
+    'https://drive.google.com/uc?export=download&id=1J2JObDHttrJVh67NQuOFe5p4HrrwRW72',
+    'https://drive.google.com/uc?export=download&id=1xE5rEosKiAXe0Q1UuzAqWxXoVd97m_qS',
+    'https://drive.google.com/uc?export=download&id=19OeAtv2rBIEQFNRkHbuvPkvR4K938Eov',
+    'https://drive.google.com/uc?export=download&id=1HrWOZ4EBIG067afbDnOuKcdpOX0H7Z6F',
+    'https://drive.google.com/uc?export=download&id=1e6fzmOAIkbwk4Ajg0ErWtT9ci2RIf5z_'
   ]},
 //Current Affaire
   { id: 103, code: 'CSS', title: 'CSS pdf files. international law book in pdf', category: 'css', image: '📊',links:[
-   'https://drive.google.com/file/d/11emcl2IqYxkQvazJebaIumZClL4RI_Rb/view?usp=sharing',
-   'https://drive.google.com/file/d/1sjYGocculINrRPujcw-kxnTaEnN9Nj4Q/view?usp=sharing',
-   'https://drive.google.com/file/d/1fZ838Q5nx26JfILDjabHMz3xblZLi86y/view?usp=sharing',
-   'https://drive.google.com/file/d/1nQOJ6uB3iCnMFZcNnKRJwHHf_gNF-lLF/view?usp=sharing',
-   'https://drive.google.com/file/d/1_oziXzz6JTA3ACcYuulEtlmc2prn_ZQt/view?usp=sharing',
-   'https://drive.google.com/file/d/1ajmujv42DCchURTMOOVIaKX4naYj9Y3A/view?usp=sharing',
-   'https://drive.google.com/file/d/1WsJPXX95eBB0LDa5_nXkR-pqpiyUSf4b/view?usp=sharing',
-   'https://drive.google.com/file/d/1SCPXZb25kmpakmF0atTQ_7VWPeE3KyUH/view?usp=sharing'
+   'https://drive.google.com/uc?export=download&id=11emcl2IqYxkQvazJebaIumZClL4RI_Rb',
+   'https://drive.google.com/uc?export=download&id=1sjYGocculINrRPujcw-kxnTaEnN9Nj4Q',
+   'https://drive.google.com/uc?export=download&id=1fZ838Q5nx26JfILDjabHMz3xblZLi86y',
+   'https://drive.google.com/uc?export=download&id=1nQOJ6uB3iCnMFZcNnKRJwHHf_gNF-lLF',
+   'https://drive.google.com/uc?export=download&id=1_oziXzz6JTA3ACcYuulEtlmc2prn_ZQt',
+   'https://drive.google.com/uc?export=download&id=1ajmujv42DCchURTMOOVIaKX4naYj9Y3A',
+   'https://drive.google.com/uc?export=download&id=1WsJPXX95eBB0LDa5_nXkR-pqpiyUSf4b',
+   'https://drive.google.com/uc?export=download&id=1SCPXZb25kmpakmF0atTQ_7VWPeE3KyUH'
   ]},
 //Current Affaire
   { id: 103, code: 'CSS', title: 'CSS pdf files. international law book in pdf', category: 'css', image: '📊',links:[
-   'https://drive.google.com/file/d/1Lb_X2_YF5xIfOELpJ-xWUy0yWI-HdY1X/view?usp=sharing',
-   'https://drive.google.com/file/d/1CzVzyI3i8-_ShnDisf3lXyVUP_99OOMj/view?usp=sharing'
+   'https://drive.google.com/uc?export=download&id=1Lb_X2_YF5xIfOELpJ-xWUy0yWI-HdY1X',
+   'https://drive.google.com/uc?export=download&id=1CzVzyI3i8-_ShnDisf3lXyVUP_99OOMj'
   ]},
 ];
 
@@ -305,22 +305,22 @@ export const nmdcatpastpaper = [
     // FIA - Fedral Investigatoin Agency
   // FIA - ASI
   { id: 128, code: 'FIA', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
-    'https://drive.google.com/file/d/1FQeLJRFZRbAHDzT9PmConrBDtvg_KPgj/view?usp=sharing',
-    'https://drive.google.com/file/d/1ErTN-8r8zs2ym8TrI9ioXbDHaU39lMl7/view?usp=sharing',
-    'https://drive.google.com/file/d/1LMDCa-IMolTEP13O1uyBR9JeDSR9xuJS/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1FQeLJRFZRbAHDzT9PmConrBDtvg_KPgj',
+    'https://drive.google.com/uc?export=download&id=1ErTN-8r8zs2ym8TrI9ioXbDHaU39lMl7',
+    'https://drive.google.com/uc?export=download&id=1LMDCa-IMolTEP13O1uyBR9JeDSR9xuJS'
   ]},
 
   // FIA - Assistant sub inspector
   { id: 128, code: 'FIA', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
-    'https://drive.google.com/file/d/1XF558pwLryrm0WVLQhgPtocQbbubVEO-/view?usp=sharing',
-    'https://drive.google.com/file/d/1Ae3b9aslI_pWnPFMkVl1FlrEi3XCrkOm/view?usp=sharing',
-    'https://drive.google.com/file/d/1RTCIMserPWWH_eki5Kn7ptwsgKMEmxD6/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1XF558pwLryrm0WVLQhgPtocQbbubVEO-',
+    'https://drive.google.com/uc?export=download&id=1Ae3b9aslI_pWnPFMkVl1FlrEi3XCrkOm',
+    'https://drive.google.com/uc?export=download&id=1RTCIMserPWWH_eki5Kn7ptwsgKMEmxD6'
   ]},
 
   // FIA - LDC
   { id: 128, code: 'FIA', title: 'FIA ASI all important pdf files download free', category: 'fia', image: '🕵️‍♂️', links: [
-    'https://drive.google.com/file/d/1RHkklaJcQ4J4hZQQYHysWT-RNt6fRy9T/view?usp=sharing',
-    'https://drive.google.com/file/d/1RHkklaJcQ4J4hZQQYHysWT-RNt6fRy9T/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1RHkklaJcQ4J4hZQQYHysWT-RNt6fRy9T',
+    'https://drive.google.com/uc?export=download&id=1RHkklaJcQ4J4hZQQYHysWT-RNt6fRy9T'
   ]},
 
   // IELTS - International English Language Testing System
@@ -356,47 +356,47 @@ export const nmdcatpastpaper = [
   //Islamabad Police 
   //Islamabad Police ASI 
   {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police ASI Past Papers', category: 'police', image: '👮',links:[
-    'https://drive.google.com/file/d/1CxqIz9z1AlPlnGO9D5FQKG1IYEGZgdVE/view?usp=sharing',
-    'https://drive.google.com/file/d/1pcQRclDF11v6rnO1F2PCJHUDmAk-b120/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1CxqIz9z1AlPlnGO9D5FQKG1IYEGZgdVE',
+    'https://drive.google.com/uc?export=download&id=1pcQRclDF11v6rnO1F2PCJHUDmAk-b120'
   ]},
 
   //Islamabad Police constable
   {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police constable Past Papers', category: 'police', image: '👮',links:[
-    'https://drive.google.com/file/d/1uzyC7M_3JoaaMS07vZanjsVukrCqwaUP/view?usp=sharing',
-    'https://drive.google.com/file/d/1utciQ1kJw42kr2Bz4prwnlIxTQMwem3m/view?usp=sharing',
-    'https://drive.google.com/file/d/1b4I5OeJ8Mi33nLgHWcpUCdzt7I0jhWmu/view?usp=sharing',
-    'https://drive.google.com/file/d/1zDyJjnCn2ZXWmh2kALJ4ensZdSswxXf4/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1uzyC7M_3JoaaMS07vZanjsVukrCqwaUP',
+    'https://drive.google.com/uc?export=download&id=1utciQ1kJw42kr2Bz4prwnlIxTQMwem3m',
+    'https://drive.google.com/uc?export=download&id=1b4I5OeJ8Mi33nLgHWcpUCdzt7I0jhWmu',
+    'https://drive.google.com/uc?export=download&id=1zDyJjnCn2ZXWmh2kALJ4ensZdSswxXf4'
   ]},
 
   //Islamabad Police LDC
   {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police LDC Past Papers', category: 'police', image: '👮',links:[
-    'https://drive.google.com/file/d/15KJU4-9ByLVRa6-zy8MP6KATtH68L9Ch/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=15KJU4-9ByLVRa6-zy8MP6KATtH68L9Ch'
   ]},
 
   //Islamabad Police UDC
   {id: 14, code: 'ISLAMABAD_POLICE', title: 'Islamabad Police LDC Past Papers', category: 'police', image: '👮',links:[
-    'https://drive.google.com/file/d/1zdlFuDe_bNqd5EggrnHgP69541E-SCht/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1zdlFuDe_bNqd5EggrnHgP69541E-SCht'
   ]},
 
 
   //PPSC Punjab public service commission 01
   {id: 14, code: 'PPSC', title: 'PPSC Punjab public service commissionPast Papers', category: 'ppsc', image: '👮',links:[
-    'https://drive.google.com/file/d/1OAXH7PMGxlyam-rrVjHVepcXMIj3v6n-/view?usp=sharing',
-    'https://drive.google.com/file/d/1cojR8tPjRuLqL1oZNtlQiPwJ-i-jI44C/view?usp=sharing',
-    'https://drive.google.com/file/d/1OAXH7PMGxlyam-rrVjHVepcXMIj3v6n-/view?usp=sharing',
-    'https://drive.google.com/file/d/1SQtZOyQdUGuY6CV1wksE3x4PUeFE56Pi/view?usp=sharing',
-    'https://drive.google.com/file/d/1ClvOoXpmvNG0ZvT0FuIGaA7WTlxrANR0/view?usp=sharing',
-    'https://drive.google.com/file/d/108og-d83MeYEetIpXk5XgI1qHcp_LQHg/view?usp=sharing',
-    'https://drive.google.com/file/d/1gjcqrhn1VYudyFOih7FFn4G7Auvesc64/view?usp=sharing',
-    'https://drive.google.com/file/d/18ABMk2VqfMmzk03Im0fU02_wxzWQ16RO/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1OAXH7PMGxlyam-rrVjHVepcXMIj3v6n-',
+    'https://drive.google.com/uc?export=download&id=1cojR8tPjRuLqL1oZNtlQiPwJ-i-jI44C',
+    'https://drive.google.com/uc?export=download&id=1OAXH7PMGxlyam-rrVjHVepcXMIj3v6n-',
+    'https://drive.google.com/uc?export=download&id=1SQtZOyQdUGuY6CV1wksE3x4PUeFE56Pi',
+    'https://drive.google.com/uc?export=download&id=1ClvOoXpmvNG0ZvT0FuIGaA7WTlxrANR0',
+    'https://drive.google.com/uc?export=download&id=108og-d83MeYEetIpXk5XgI1qHcp_LQHg',
+    'https://drive.google.com/uc?export=download&id=1gjcqrhn1VYudyFOih7FFn4G7Auvesc64',
+    'https://drive.google.com/uc?export=download&id=18ABMk2VqfMmzk03Im0fU02_wxzWQ16RO'
   ]},
 
   //PPSC Punjab public service commission 02
   {id: 14, code: 'PPSC', title: 'PPSC Punjab public service commissionPast Papers', category: 'ppsc', image: '👮',links:[
-    'https://drive.google.com/file/d/1wUWyAD1IlKDJhRWsd9EGEjI_oMNJyCgs/view?usp=sharing',
-    'https://drive.google.com/file/d/1mF9Z0MyeyrR0V_rAQXpDx0IOSdrPZK1f/view?usp=sharing',
-    'https://drive.google.com/file/d/16qHX7flzQX6KYoPyIe33QlqOdVtMZIEL/view?usp=sharing',
-    'https://drive.google.com/file/d/1sc_UvScApHUc7RLfEc2WgAUsJxA9ZYQ9/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1wUWyAD1IlKDJhRWsd9EGEjI_oMNJyCgs',
+    'https://drive.google.com/uc?export=download&id=1mF9Z0MyeyrR0V_rAQXpDx0IOSdrPZK1f',
+    'https://drive.google.com/uc?export=download&id=16qHX7flzQX6KYoPyIe33QlqOdVtMZIEL',
+    'https://drive.google.com/uc?export=download&id=1sc_UvScApHUc7RLfEc2WgAUsJxA9ZYQ9'
   ]},
 ];
 
