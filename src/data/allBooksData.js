@@ -5,9 +5,9 @@ export const allBooksData = [
   
   // BIF - Bioinformatics
   { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬', link: 'https://drive.google.com/uc?eport=download&id=1B45XO7ZkQJyZwAeRhbPtOA7DcmZs3W16' },
-  { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬', link: 'https://drive.google.com/file/d/1w_to7G7d8BI1Q47ATG4PxkFU_ZIQr5Ia/view?usp=drive_link' },
+  { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬', link: 'https://drive.google.com/uc?eport=download&id=1w_to7G7d8BI1Q47ATG4PxkFU_ZIQr5Ia' },
   { id: 5, code: 'BIF402', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬'},
-  { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬', link: 'https://drive.google.com/file/d/1tu_hwqpiy0iQeEQtXlVvrpQguvfl8OAv/view?usp=drive_link' },
+  { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬', link: 'https://drive.google.com/uc?eport=download&id=1tu_hwqpiy0iQeEQtXlVvrpQguvfl8OAv' },
   { id: 7, code: 'BIF601', title: 'Bioinformatics Computing I', category: 'bif', image: '🧬', link: 'https://drive.google.com/file/d/1gl8ybhkFFALyTttleHf0Vcf5Hyuh3kY3/view?usp=drive_link' },
   { id: 8, code: 'BIF602', title: 'Bioinformatics Computing II', category: 'bif', image: '🧬' , link: 'https://drive.google.com/file/d/1mLn1eAJijf-yySSxk3mJYF7us7T8JQEy/view?usp=drive_link'},
   { id: 9, code: 'BIF731', title: 'Advanced Bioinformatics', category: 'bif', image: '🧬', link: 'https://drive.google.com/file/d/1qpMpYAW3RETXGFshrgORqnHV-yqF71T4/view?usp=drive_link'},
