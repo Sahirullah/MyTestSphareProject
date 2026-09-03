@@ -514,6 +514,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/uc?export=download&id=17qN3nbKx7jN5vQQwA9NgxIVzwJB7-awe',
     'https://drive.google.com/uc?export=download&id=1SYHmVbxLhwJ0vI86BNvrB5InkiaSXhsE'
   ]},
+  //CS609
   { id: 83, code: 'CS609', title: 'System Programming', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/uc?export=download&id=1BgZwTTCb0g_fUt8d4s0jwZcP6XpntdW4',
     'https://drive.google.com/uc?export=download&id=12VdPlJg6ckkEWyAPWREcEA3-gy6VSbz1',
