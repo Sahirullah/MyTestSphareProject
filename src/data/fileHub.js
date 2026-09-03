@@ -492,6 +492,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/uc?export=download&id=1nikwHeEZcI5_W1sTBHLFtXR1ucvsrPeM',
     'https://drive.google.com/uc?export=download&id=15Q7XSuGhK4ZY1IyNMse1Ajs_2Vcac-u9'
   ]},
+  
   { id: 81, code: 'CS606', title: 'Compiler Construction', category: 'cs', image: '💻' ,links:[
     'https://docs.google.com/document/d/1Z0zdMyrLDtsKcvvtnk0L86RBKBWh9kcp/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/uc?export=download&id=1h7orxAXrmg8O9pAEjZIBgP-KHXbrADag',
