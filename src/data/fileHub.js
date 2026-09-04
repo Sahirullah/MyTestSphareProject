@@ -450,11 +450,11 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/uc?export=download&id=1v_F_3IQvzhUNxc-qMQOAUUSjtpi6jYA3',
     'https://drive.google.com/uc?export=download&id=1IlAARSxQpLOJ25Kvbr3aszRTd4uiNIBc'
   ] },
-  //cs510
+  //CS510
   { id: 77, code: 'CS510', title: 'Software Requirement & Specification', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/uc?export=download&id=1-3QnS-qvmZ9FqVs6642AlOpR66Ju1uFJ'
   ]},
-  
+  //CS601
   { id: 77, code: 'CS601', title: 'Data Communication', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/uc?export=download&id=1-3QnS-qvmZ9FqVs6642AlOpR66Ju1uFJ',
     'https://drive.google.com/uc?export=download&id=1KVq-vNaixJbWRffrfmUPZmOVuAJzj7U6',
