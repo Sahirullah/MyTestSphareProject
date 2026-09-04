@@ -445,6 +445,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/uc?export=download&id=1PcaTlh1GkwONBasXhuJ5iqRwI6YzDW2X',
     'https://drive.google.com/uc?export=download&id=1KaRdQyZM1HkwEf6-Qz6PCjtNm_jH4oB1'
   ] },
+  //CS508
   { id: 76, code: 'CS508', title: 'Modern Programming Languages', category: 'cs', image: '💻',links:[
     'https://drive.google.com/uc?export=download&id=1E-I6lHZw6GUTxzsKC4EpSUjz2SPi7Jbt',
     'https://drive.google.com/uc?export=download&id=1v_F_3IQvzhUNxc-qMQOAUUSjtpi6jYA3',
