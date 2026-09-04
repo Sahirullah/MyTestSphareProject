@@ -460,6 +460,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/uc?export=download&id=1KVq-vNaixJbWRffrfmUPZmOVuAJzj7U6',
     'https://drive.google.com/uc?export=download&id=1f8JOYRO9vd5Zjrw_uwL0vBeRHrxR82s1'
   ]},
+  //CS602
   { id: 78, code: 'CS602', title: 'Computer Graphics', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/uc?export=download&id=12yckahNpTsuXJacdYaTMPtY89bH35wSO',
     'https://drive.google.com/uc?export=download&id=1J_anrYBcFky-XLhfSV-UBuFesacBIKSm',
