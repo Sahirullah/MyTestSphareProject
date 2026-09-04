@@ -450,6 +450,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/uc?export=download&id=1v_F_3IQvzhUNxc-qMQOAUUSjtpi6jYA3',
     'https://drive.google.com/uc?export=download&id=1IlAARSxQpLOJ25Kvbr3aszRTd4uiNIBc'
   ] },
+  //cs510
   { id: 77, code: 'CS510', title: 'Software Requirement & Specification', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/uc?export=download&id=1-3QnS-qvmZ9FqVs6642AlOpR66Ju1uFJ'
   ]},
