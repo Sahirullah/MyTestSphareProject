@@ -676,7 +676,21 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/uc?export=download&id=1HrWOZ4EBIG067afbDnOuKcdpOX0H7Z6F',
     'https://drive.google.com/uc?export=download&id=1e6fzmOAIkbwk4Ajg0ErWtT9ci2RIf5z_'
   ]},
-
+//CSS Botany
+  { id: 103, code: 'CSS Botany', title: 'CSS pdf files. Botany download free pdf. Botany all files.', category: 'css', image: '📊',links:[
+     'https://drive.google.com/file/d/1RKZVJUVyojk0mIe2lDdy6n-FimB8LyJ4/view?usp=sharing',
+     'https://drive.google.com/file/d/1gh1I28D1Jonj1jdQTCQKR_mGyZVKqBcV/view?usp=sharing',
+     'https://drive.google.com/file/d/14LB8gUgB5nN4hb99jkBaDuuL8TYcnEl0/view?usp=sharing',
+     'https://drive.google.com/file/d/197bXUzwVzMRQVCFNjOM0Fbt_3nuIslPT/view?usp=sharing',
+     'https://drive.google.com/file/d/1ZCYyfNLj3JOK-Mw4QqZ5m4zeDOt4xoOC/view?usp=sharing',
+     'https://drive.google.com/file/d/10r7xyfdwxZPl7ysypROgZa-9horWt_sP/view?usp=sharing',
+     'https://drive.google.com/file/d/1FHJnXDw8Y6DRb_3X3n0pE7ge6MrhWui3/view?usp=sharing',
+     'https://drive.google.com/file/d/1hpzt4pebV583_9WZsXoe_Vc1qJjLrCvE/view?usp=sharing'
+  ]},
+//CSS Botany
+  { id: 103, code: 'CSS Botany', title: 'CSS pdf files. Botany download free pdf. Botany all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/10kNtUpi23PIOdXmv9CbbODnKcb9fsBcF/view?usp=sharing'
+  ]},
 //Current Affaire
   { id: 103, code: 'CSS current affairs', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
    'https://drive.google.com/uc?export=download&id=11emcl2IqYxkQvazJebaIumZClL4RI_Rb',
