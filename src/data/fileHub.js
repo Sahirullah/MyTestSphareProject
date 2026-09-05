@@ -880,6 +880,25 @@ export const finalTermDataPart2 = [
   { id: 103, code: 'CSS Pakistan Affairs', title: 'CSS pdf files. Pakistan Affairs download free pdf. Pakistan Affairs all files.', category: 'css', image: '📊',links:[
     'https://drive.google.com/file/d/1bGpE2IP19yQkeMxCkvtXX8hKRWpTi7EG/view?usp=sharing'
   ]},
+//CSS Philosophy
+  { id: 103, code: 'CSS Philosophy', title: 'CSS pdf files. Philosophy download free pdf. Philosophy all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1BNb49qVmLvyX0UjnaOkVZMq7mNIbiB-8/view?usp=sharing',
+    'https://drive.google.com/file/d/13IyCg2dGKPHZvXKKbrz6XK0mE-yOGojZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1hdbiWX7iNPeplgwANnzpMJBqpEpftIOR/view?usp=sharing',
+    'https://drive.google.com/file/d/1vzn9s30wgJHludR24cStBXfjiG_UKaXh/view?usp=sharing',
+    'https://drive.google.com/file/d/1iAlpkdf7bsaZsvb64t4zUou39DvkG-yo/view?usp=sharing',
+    'https://drive.google.com/file/d/1FY_w2oxDiZMBeskn41lAEiBlUPNWA8u7/view?usp=sharing',
+    'https://drive.google.com/file/d/1fqKaDQ0q5mZ3Mc0otm55ZWOFOhfZJZtN/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZvcoDhvZxLAp8GBPqpNHRlkhfe7ZRsM4/view?usp=sharing'
+  ]},
+
+//CSS Philosophy
+  { id: 103, code: 'CSS Philosophy', title: 'CSS pdf files. Philosophy download free pdf. Philosophy all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1WKgVRS0LZ2d0kLOtvuitfWHfm6UBOErt/view?usp=sharing',
+    'https://drive.google.com/file/d/1EOB4QIjl54KQz_SGWHLjSkVMqv0yEXS4/view?usp=sharing',
+    'https://drive.google.com/file/d/1bEzUyx1laFwIAED1Ss7Y9bRSF36TKe78/view?usp=sharing',
+    'https://drive.google.com/file/d/1NCN6cJmt6Mf2IcJAVLYLopd674wXG3GK/view?usp=sharing'
+  ]},
 //Political Science card 01
   { id: 103, code: 'CSS political science', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
 
