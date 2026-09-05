@@ -604,6 +604,27 @@ export const finalTermDataPart2 = [
   { id: 102, code: 'CS726', title: 'Information Retrieval Techniques', category: 'cs', image: '💻',Link:'' },
  
   //CSS - Central Superior Services Section Start Here
+//CSS All files
+  { id: 103, code: 'CSS All files', title: 'CSS pdf files. All files download free pdf. All files all files.', category: 'css', image: '📊',links:[
+   'https://drive.google.com/file/d/1Rin5Wz9gI5XBXgMai-IRLmypYk7t_llT/view?usp=sharing',
+   'https://drive.google.com/file/d/1qzqrfWm9ZO-Dq-I-U-6iGK2KAZhENeOH/view?usp=sharing',
+   'https://drive.google.com/file/d/1RiTIjhFnyd6BQGtZi-D9Eh78-V_4IlHN/view?usp=sharing',
+   'https://drive.google.com/file/d/1LZDsrTSlYn0_9Tru9y-SUK0RmDQOTQTq/view?usp=sharing',
+   'https://drive.google.com/file/d/1RYktMaN6_b9pZye_Qh_RBE2-wg2KrHP4/view?usp=sharing',
+   'https://drive.google.com/file/d/1IbzCDohkAqRwfHLg43Wk69JFts0gwSB1/view?usp=sharing',
+   'https://drive.google.com/file/d/1ZSqW6-r6Q43GN1EQ6bfaR7ndWBBQ1Fmv/view?usp=sharing',
+   'https://drive.google.com/file/d/1JKXaVf7oYFbWzKk5R5ZipkWT98wMyhBz/view?usp=sharing'
+  ]},
+//CSS All files
+  { id: 103, code: 'CSS All files', title: 'CSS pdf files. All files download free pdf. All files all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1t9h-V_dYP_3D4fBFoTWtQB8Ao6NxYcuw/view?usp=sharing',
+    'https://drive.google.com/file/d/1tcov_wpIGKVC60pWhk3f-0CoJ_gC3uIZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1rcAjTSh9p7DLn-osikmheqX1eQ2H2Ele/view?usp=sharing',
+    'https://drive.google.com/file/d/1nQhxIYx_nnV9kM9mczSjVi4cBRQ_QDi0/view?usp=sharing',
+    'https://drive.google.com/file/d/11DD9pehMxSkUGd4NQQVp1TGJZkUTJVLv/view?usp=sharing',
+    'https://drive.google.com/file/d/15Zttj3NVHMOD5naIRK2LZGX70Ohc7ts4/view?usp=sharing'
+  ]},
+
   //CSS Accounting & Auditing
 { id: 103, code: 'CSS Accounting & Auditing', title: 'CSS pdf files. download free pdf. Accounting and auditing.', category: 'css', image: '📊',links:[
   'https://drive.google.com/file/d/1i-nbY0LkQ9JexDyTWCFcZv_l7Vu69KX6/view?usp=sharing',
@@ -937,26 +958,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/13SMRpXoA-VjRlnTe1isSxvK0cdPLPhlN/view?usp=sharing'
   ]},
 
-//CSS All files
-  { id: 103, code: 'CSS All files', title: 'CSS pdf files. All files download free pdf. All files all files.', category: 'css', image: '📊',links:[
-   'https://drive.google.com/file/d/1Rin5Wz9gI5XBXgMai-IRLmypYk7t_llT/view?usp=sharing',
-   'https://drive.google.com/file/d/1qzqrfWm9ZO-Dq-I-U-6iGK2KAZhENeOH/view?usp=sharing',
-   'https://drive.google.com/file/d/1RiTIjhFnyd6BQGtZi-D9Eh78-V_4IlHN/view?usp=sharing',
-   'https://drive.google.com/file/d/1LZDsrTSlYn0_9Tru9y-SUK0RmDQOTQTq/view?usp=sharing',
-   'https://drive.google.com/file/d/1RYktMaN6_b9pZye_Qh_RBE2-wg2KrHP4/view?usp=sharing',
-   'https://drive.google.com/file/d/1IbzCDohkAqRwfHLg43Wk69JFts0gwSB1/view?usp=sharing',
-   'https://drive.google.com/file/d/1ZSqW6-r6Q43GN1EQ6bfaR7ndWBBQ1Fmv/view?usp=sharing',
-   'https://drive.google.com/file/d/1JKXaVf7oYFbWzKk5R5ZipkWT98wMyhBz/view?usp=sharing'
-  ]},
-//CSS All files
-  { id: 103, code: 'CSS All files', title: 'CSS pdf files. All files download free pdf. All files all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1t9h-V_dYP_3D4fBFoTWtQB8Ao6NxYcuw/view?usp=sharing',
-    'https://drive.google.com/file/d/1tcov_wpIGKVC60pWhk3f-0CoJ_gC3uIZ/view?usp=sharing',
-    'https://drive.google.com/file/d/1rcAjTSh9p7DLn-osikmheqX1eQ2H2Ele/view?usp=sharing',
-    'https://drive.google.com/file/d/1nQhxIYx_nnV9kM9mczSjVi4cBRQ_QDi0/view?usp=sharing',
-    'https://drive.google.com/file/d/11DD9pehMxSkUGd4NQQVp1TGJZkUTJVLv/view?usp=sharing',
-    'https://drive.google.com/file/d/15Zttj3NVHMOD5naIRK2LZGX70Ohc7ts4/view?usp=sharing'
-  ]},
+
 
 
 
