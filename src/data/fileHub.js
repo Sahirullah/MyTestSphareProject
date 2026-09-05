@@ -852,6 +852,34 @@ export const finalTermDataPart2 = [
   'https://drive.google.com/file/d/1e8nicuiEyo4xEXxvF6V-IAd858wl9X8V/view?usp=sharing',
   'https://drive.google.com/file/d/19Jgpp52DzcBbRkuX0U5lr9lRy_fMG21M/view?usp=sharing'
 ]},
+
+//CSS Pakistan Affairs
+  { id: 103, code: 'CSS Pakistan Affairs', title: 'CSS pdf files. Pakistan Affairs download free pdf. Pakistan Affairs all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1PdEsTgnVfZyEV_7CoJXdBbrBNW0pqiYv/view?usp=sharing',
+    'https://drive.google.com/file/d/1Ca63bLOAleSJCdu3WAi0207PyQYGAuKM/view?usp=sharing',
+    'https://drive.google.com/file/d/1AROa0-3Gd1JyWB4uCzLqNS0o20uo0Sb1/view?usp=sharing',
+    'https://drive.google.com/file/d/17gxdCyc6I5N_xiz53lX9t9RJQG92uJwA/view?usp=sharing',
+    'https://drive.google.com/file/d/1aFBIKC2GlIV6xX82xplAqt3uU9-HrwQ-/view?usp=sharing',
+    'https://drive.google.com/file/d/16-ods2O8QybxlHeX2RAZjDH-nYMbyhDw/view?usp=sharing',
+    'https://drive.google.com/file/d/1qENqW-IJ7633iJNjEVEUjRuHOVTR7SL9/view?usp=sharing',
+    'https://drive.google.com/file/d/1PzCZ1onD0N5yQZV0dFEgZzhPmZC7gSX6/view?usp=sharing'
+  ]},
+
+//CSS Pakistan Affairs
+  { id: 103, code: 'CSS Pakistan Affairs', title: 'CSS pdf files. Pakistan Affairs download free pdf. Pakistan Affairs all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1A34f7Da0PKWrgiLoVvIpB9VVMmaw4oha/view?usp=sharing',
+    'https://drive.google.com/file/d/1yTKHEqRvMfOv1Ki9j0L6SDdKC-WlRGwq/view?usp=sharing',
+    'https://drive.google.com/file/d/1784-R5K6PF-yNqk2fNKmfiH4bSmzxZvz/view?usp=sharing',
+    'https://drive.google.com/file/d/1ESFGH2azKdwME6q5mF7rMixr3RY-yWVG/view?usp=sharing',
+    'https://drive.google.com/file/d/13nEUTXFAV8bwXpsZVZJlRsWTYM7UvJXA/view?usp=sharing',
+    'https://drive.google.com/file/d/15NvbzSIqlQd_Q_lJJ_m3UMcwTcC0njPN/view?usp=sharing',
+    'https://drive.google.com/file/d/1Umt-YrzfbMf1b-c9o85q7fdl8uYC7UlY/view?usp=sharing',
+    'https://drive.google.com/file/d/1FxlCksF-7RVRxzE2aJi-zSj8nDFRw9kE/view?usp=sharing'
+  ]},
+//CSS Pakistan Affairs
+  { id: 103, code: 'CSS Pakistan Affairs', title: 'CSS pdf files. Pakistan Affairs download free pdf. Pakistan Affairs all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1bGpE2IP19yQkeMxCkvtXX8hKRWpTi7EG/view?usp=sharing'
+  ]},
 //Political Science card 01
   { id: 103, code: 'CSS political science', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
 
