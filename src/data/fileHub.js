@@ -770,7 +770,23 @@ export const finalTermDataPart2 = [
   'https://drive.google.com/file/d/1SMB0He4bqXBBrRdqH8pbvNWAK0Qq3TgX/view?usp=sharing',
   'https://drive.google.com/file/d/16BRr5xbTD6wbAQ45FJ_FUBJw-YoObUeD/view?usp=sharing'
 ]},
-  //Political Science card 01
+//CSS Environmental Study
+  { id: 103, code: 'CSS environmental study', title: 'CSS pdf files. Environmental study download free pdf. Environmental study all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1YqqgvORicN4LwjbOffft6WK8Y6BVZZAG/view?usp=sharing',
+    'https://drive.google.com/file/d/1cVYvKBh1BXuRGJzvZvQzG8TEJgi1y0ge/view?usp=sharing',
+    'https://drive.google.com/file/d/13hyngx_MWldGHB0oXm1p0HghyrbC5u_q/view?usp=sharing',
+    'https://drive.google.com/file/d/12u0vuIFX9XIsqvFPQV2Nx7gQKhLWZHUR/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZvEAmKY-mGklLeLvp7dQJJSgmW7C2XkZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1LxcXGaLRfxevpzSKNL0X0YvjSPym8xTA/view?usp=sharing',
+    'https://drive.google.com/file/d/1td5gGbO9D5QbMtSJH9Dz8l6Rl58YgVHR/view?usp=sharing',
+    'https://drive.google.com/file/d/1y7RgSECeaVU8hhAfETeFntBgFcBAWPl2/view?usp=sharing'
+  ]},
+//CSS Environmental Study
+  { id: 103, code: 'CSS environmental study', title: 'CSS pdf files. Environmental study download free pdf. Environmental study all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1pxU3ZQApPaT0D-6toabOeSyMKoWf-uLv/view?usp=sharing',
+    'https://drive.google.com/file/d/1yVUU-WAjpRAATurVQhMnKBgSjewnjHZk/view?usp=sharing'
+  ]},  
+//Political Science card 01
   { id: 103, code: 'CSS political science', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
 
   ]}
