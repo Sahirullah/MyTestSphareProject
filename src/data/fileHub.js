@@ -818,6 +818,40 @@ export const finalTermDataPart2 = [
   { id: 103, code: 'CSS History of USA', title: 'CSS pdf files. History of USA download free pdf. History of USA all files.', category: 'css', image: '📊',links:[
     'https://drive.google.com/file/d/17QJ5elNC6ZDzU2tyg_TRsMd-pPgsCkd3/view?usp=sharing'
   ]},
+
+//CSS international relations
+  { id: 103, code: 'CSS international relations', title: 'CSS pdf files. international relations download free pdf. international relations all files.', category: 'css', image: '📊',links:[
+  'https://drive.google.com/file/d/1f6JeuIwS37f-ebcjY4opuACxpZhT_Hs0/view?usp=sharing',
+  'https://drive.google.com/file/d/1ag7SOFmu8469lo9WYv6Zv3ZxABrczX3K/view?usp=sharing',
+  'https://drive.google.com/file/d/1UE8uy_WMhtU2DTglhT8yg1aOih5IT_q7/view?usp=sharing',
+  'https://drive.google.com/file/d/1bvzNGQcfMnrb-5sDChOYvECElAuZxfux/view?usp=sharing',
+  'https://drive.google.com/file/d/1P19-tlpFT6Yj81xKzp5jPunrwjrkhlTr/view?usp=sharing',
+  'https://drive.google.com/file/d/1p0Zv_Ma8Xgn5EHcPMMnaotEfu8i9dZ73/view?usp=sharing',
+  'https://drive.google.com/file/d/1-Ma8hVBmjMiwAmWVnU3miacGP5-8Jxl5/view?usp=sharing',
+  'https://drive.google.com/file/d/18Uj9Oc5r9ycv6bLav0fN42EXAziAUPUg/view?usp=sharing'
+  ]},
+//CSS international relations
+  { id: 103, code: 'CSS international relations', title: 'CSS pdf files. international relations download free pdf. international relations all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/14mIgQzUrvX5s_khxPSlOykoDLS5qYGQt/view?usp=sharing',
+    'https://docs.google.com/document/d/1HjmfTgu0BHR3ZEIy4t42WS7e-ydXpAvN/edit?usp=sharing&ouid=115636303576237109989&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1LiXGBwVHwmyCwF9nkBuzVEy3Byg3rh6E/view?usp=sharing',
+    'https://drive.google.com/file/d/1Yf3MsZ71_iF69fyzTTn2qVVBl3pk1tWT/view?usp=sharing',
+    'https://drive.google.com/file/d/1b_BLp9pD66SM7vyWmXaRoBXegZQYVtpf/view?usp=sharing',
+    'https://drive.google.com/file/d/1OGiopYmzP2Ity1yPirQW-MY_hckXB2LF/view?usp=sharing',
+    'https://drive.google.com/file/d/1PD0ib2XqbPV0XpHYR6dYdoNmQjVhDQbO/view?usp=sharing',
+    'https://drive.google.com/file/d/12mSxCsQZ2LJY_c4hSWyt3cL0DfSqobj-/view?usp=sharing'
+  ]},
+//CSS international relations 
+{ id: 103, code: 'CSS international relations', title: 'CSS pdf files. international relations download free pdf. international relations all files.', category: 'css', image: '📊',links:[
+  'https://drive.google.com/file/d/1SM95jP1QkGvcWs7B0qDihnW45S-1J9l4/view?usp=sharing',
+  'https://drive.google.com/file/d/1SQVFZabxGxvyyhHlIY0iQXP41snPS-5H/view?usp=sharing',
+  'https://drive.google.com/file/d/10ZhtcSfBvvvA5dFyAOGVTXsO24p581BV/view?usp=sharing',
+  'https://drive.google.com/file/d/1qEFh40PUQk2uF7v_1X84eCcWqI6Pobd3/view?usp=sharing',
+  'https://drive.google.com/file/d/1tjYDVxNpwPujDRWqshkJXDqvBNKZM9A6/view?usp=sharing',
+  'https://drive.google.com/file/d/1xaTsO4EJhqOLv5kjS_SDPc2optItMVKw/view?usp=sharing',
+  'https://drive.google.com/file/d/1e8nicuiEyo4xEXxvF6V-IAd858wl9X8V/view?usp=sharing',
+  'https://drive.google.com/file/d/19Jgpp52DzcBbRkuX0U5lr9lRy_fMG21M/view?usp=sharing'
+]},
 //Political Science card 01
   { id: 103, code: 'CSS political science', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
 
