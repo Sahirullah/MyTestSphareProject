@@ -419,6 +419,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/uc?export=download&id=1sdPM5Ki3ICruuDxygv2EPjc2wmvusssx',
     'https://drive.google.com/uc?export=download&id=1oLEwgPHdsXJucxEmadqKaL-oZ09S-F30'
   ] },
+  //CS502
   { id: 72, code: 'CS502', title: 'Fundamentals of Algorithms', category: 'cs', image: '💻',links:[
     'https://docs.google.com/document/d/1-j9ede3ijd7xGM2ZmwBgMLUq5JaQ3TMl/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/uc?export=download&id=1_4hFVu599nSpKAoyCxS2l54bPxS7FJ5t',
