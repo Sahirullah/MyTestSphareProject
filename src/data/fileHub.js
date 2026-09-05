@@ -603,9 +603,7 @@ export const finalTermDataPart2 = [
   //cs726
   { id: 102, code: 'CS726', title: 'Information Retrieval Techniques', category: 'cs', image: '💻',Link:'' },
  
-  //css portion start here
-
-  //CSS - Central Superior Services
+  //CSS - Central Superior Services Section Start Here
   //CSS Accounting & Auditing
 { id: 103, code: 'CSS Accounting & Auditing', title: 'CSS pdf files. download free pdf. Accounting and auditing.', category: 'css', image: '📊',links:[
   'https://drive.google.com/file/d/1i-nbY0LkQ9JexDyTWCFcZv_l7Vu69KX6/view?usp=sharing',
@@ -620,9 +618,53 @@ export const finalTermDataPart2 = [
 
 //CSS Accounting & Auditing
 { id: 103, code: 'CSS Accounting & Auditing', title: 'CSS pdf files. download free pdf. Accounting and auditing.', category: 'css', image: '📊',links:[
-  ''
+  'https://drive.google.com/file/d/15EKZHLdirTVKf2AzAlKD0bru7leBLbFw/view?usp=sharing',
+  'https://drive.google.com/file/d/1hPBv3y-abDd0hghrPR4knIIgSUQMNn-o/view?usp=sharing',
+  'https://drive.google.com/file/d/17Tn8W0dgVd12eyrPyRjBBdlQxhl_VF1F/view?usp=sharing',
+  'https://drive.google.com/file/d/1i-vDwvWcbm5OgovD30vK2UJa89T6I8C_/view?usp=sharing',
+  'https://drive.google.com/file/d/13_5Lo0tZNb8Ou_vunTgrC96SqSy7hQtX/view?usp=sharing',
+  'https://drive.google.com/file/d/13iF0rbPoR8F4Djxanyx7nc4KuZV_DFqN/view?usp=sharing',
+  'https://drive.google.com/file/d/13gYF28BxoLg1kUGGGf64Hl1SOZx_7z56/view?usp=sharing',
+  'https://drive.google.com/file/d/1Cq4hoeWq72GNylQvAVc15KBc9pwe9xt9/view?usp=sharing'
+]},
+//CSS Accounting & Auditing
+{ id: 103, code: 'CSS Accounting & Auditing', title: 'CSS pdf files. download free pdf. Accounting and auditing.', category: 'css', image: '📊',links:[
+'https://drive.google.com/file/d/1DVUXXLIs7QCXJsirJA0uOeWkXoSmLtTK/view?usp=sharing',
+'https://drive.google.com/file/d/1qxkQzZO_LbrZb02AjjPNFfywEpnl5J1d/view?usp=sharing',
+'https://drive.google.com/file/d/1jHpImR2PoJ5iceTRjp0mv_dquaAUC5is/view?usp=sharing',
+'https://drive.google.com/file/d/1MTinwb8ce5mQ_6lk6p5Jmb_4Fn8M8HT6/view?usp=sharing',
+'https://drive.google.com/file/d/1CgvqGjAlF3aEFdwW_1qzNS8nAN_suDas/view?usp=sharing',
+'https://drive.google.com/file/d/1CbMiOBlUdyiVjkE9xnchimrfEo7suXlz/view?usp=sharing',
+'https://drive.google.com/file/d/1L-oua1zIAjpsGhv1dzJdPMDK7hBJy0RR/view?usp=sharing'
 ]},
 
+//CSS Antropology
+  { id: 103, code: 'CSS Antropology', title: 'CSS pdf files. Antropology download free pdf. Antropology all files.', category: 'css', image: '📊',links:[
+  'https://drive.google.com/file/d/15MDHXDIy2NcKKvgCBBygQSR4rTh34OQN/view?usp=sharing',
+  'https://drive.google.com/file/d/1x80MtvLTdYtqSgEN8hD3wFPyvHfE32YG/view?usp=sharing',
+  'https://drive.google.com/file/d/1Lyjoxtpw3LtBY4rJq3iEBa3Dov1w8j5e/view?usp=sharing',
+  'https://drive.google.com/file/d/1yPVS2AkI1XakYbW09z-q8k66B4NupL1F/view?usp=sharing',
+  'https://drive.google.com/file/d/1r6-1yIkL0a1FgpHD25FV_owX_XIu_xti/view?usp=sharing',
+  'https://drive.google.com/file/d/1XtWQufLYcDfFTgj-F7J5IDBYIeOWBVYk/view?usp=sharing',
+  'https://drive.google.com/file/d/1oHRC5qHcePKQwpPPuoB4k7DZ0deI4qlM/view?usp=sharing',
+  'https://drive.google.com/file/d/1_CtqgKrYv9Jtz1lW8INjgg6g41AjXiwo/view?usp=sharing'
+  ]},
+//CSS Anthropology
+  { id: 103, code: 'CSS Anthropology', title: 'CSS pdf files. Anthropology download free pdf. Anthropology all files.', category: 'css', image: '📊',links:[
+  'https://drive.google.com/file/d/1rcC83G26vll6F1xTwiBkDAfLek8Mcspr/view?usp=sharing',
+  'https://drive.google.com/file/d/1ThhTgxpCm-ZSoGIds2IfeO7gmxPMz6ez/view?usp=sharing',
+  'https://drive.google.com/file/d/1cU-dEOu4loKTCZJaIZcAM9nC-b05sXQO/view?usp=sharing',
+  'https://drive.google.com/file/d/1arVOm2a-yPjtkRalCB7kkBjJhJX9UnKa/view?usp=sharing',
+  'https://drive.google.com/file/d/1gBjzI9K52DgUXEWYUU9QSaOJ6u1D758R/view?usp=sharing',
+  'https://drive.google.com/file/d/13I4BDT-dNvXtCsdChdSjVnd0_2h1N11k/view?usp=sharing',
+  'https://drive.google.com/file/d/1jf6JWmLPbH1xlg80QRssib3dbeVWHAa2/view?usp=sharing',
+  'https://drive.google.com/file/d/1XQHdC0V4UTviQ8E91cGs1O6B2_opfJW6/view?usp=sharing'
+  ]},
+//CSS Anthropology
+  { id: 103, code: 'CSS Anthropology', title: 'CSS pdf files. Anthropology download free pdf. Anthropology all files.', category: 'css', image: '📊',links:[
+  'https://drive.google.com/file/d/1rmYa0rs_JqQDDuQCYY52GAiIUGG4lGG1/view?usp=sharing',
+  'https://drive.google.com/file/d/1Mn9IA9jyxNyEPilfja6yYd11dDF-Rjm4/view?usp=sharing'
+  ]},
 //CSS International law
   { id: 103, code: 'CSS International law', title: 'CSS pdf files. international law download free pdf.international law by MalcolmShaw’s. international law sixth edition', category: 'css', image: '📊',links:[
     'https://drive.google.com/uc?export=download&id=1OFi1K1cm8IdZgKjZN-MNlN4jVAUN1LeA',
