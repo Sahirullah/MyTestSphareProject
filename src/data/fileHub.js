@@ -930,6 +930,15 @@ export const finalTermDataPart2 = [
   'https://drive.google.com/file/d/1gQ5gZ4wVMK6nN0AS8yktN7Hl1Yw1tGVt/view?usp=sharing',
   'https://drive.google.com/file/d/1c_DZRHCfuMHxSNEtd99B48U0eSeiGdO2/view?usp=sharing'
 ]},
+//CSS Zoology
+  { id: 103, code: 'CSS Zoology', title: 'CSS pdf files. Zoology download free pdf. Zoology all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/13JsBRC4M1j6MIzZLWQRTlcNB3pmxsO3z/view?usp=sharing',
+    'https://drive.google.com/file/d/13neY-tSWSw5arX9X8Sw_6-XEcZxsPE0e/view?usp=sharing',
+    'https://drive.google.com/file/d/13SMRpXoA-VjRlnTe1isSxvK0cdPLPhlN/view?usp=sharing'
+  ]},
+
+
+
 
 ];
 
