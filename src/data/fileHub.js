@@ -786,6 +786,22 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1pxU3ZQApPaT0D-6toabOeSyMKoWf-uLv/view?usp=sharing',
     'https://drive.google.com/file/d/1yVUU-WAjpRAATurVQhMnKBgSjewnjHZk/view?usp=sharing'
   ]},  
+
+//CSS Gender Studies
+  { id: 103, code: 'CSS Gender Study', title: 'CSS pdf files. Gender Study download free pdf. Gender Study all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1Q6ew6husCRwRsvPIKNyM_SVYi9S_7g3u/view?usp=sharing',
+    'https://drive.google.com/file/d/1U8uowDLMcxGhmOflDmEVdKOOqC1u55Cc/view?usp=sharing',
+    'https://drive.google.com/file/d/1SjoZo2jjxwubsYmApmI8qi6vapmu-bqJ/view?usp=sharing',
+    'https://drive.google.com/file/d/15c4ToIA88jBNC-FnmXJsXnxZMVvy0DZl/view?usp=sharing',
+    'https://drive.google.com/file/d/1BBPD1-AQmO8yldkAkpmVmKLroomE4fNo/view?usp=sharing',
+    'https://drive.google.com/file/d/1ovvSp9lqTvTXIlRqSvi6ATZIi-wLJ5RC/view?usp=sharing',
+    'https://drive.google.com/file/d/1cs6GV8_LHOeny7ezJk4cWeBXRF12wgDa/view?usp=sharing',
+    'https://drive.google.com/file/d/134h1f9TNgQgvyR7dppVczRaONOOq0S-W/view?usp=sharing'
+  ]}, 
+//CSS Gender Study
+  { id: 103, code: 'CSS Gender Study', title: 'CSS pdf files. Gender Study download free pdf. Gender Study all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/17QJ5elNC6ZDzU2tyg_TRsMd-pPgsCkd3/view?usp=sharing'
+  ]},
 //Political Science card 01
   { id: 103, code: 'CSS political science', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
 
