@@ -899,10 +899,38 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1bEzUyx1laFwIAED1Ss7Y9bRSF36TKe78/view?usp=sharing',
     'https://drive.google.com/file/d/1NCN6cJmt6Mf2IcJAVLYLopd674wXG3GK/view?usp=sharing'
   ]},
+//CSS Public Administration
+  { id: 103, code: 'CSS Public Administration', title: 'CSS pdf files. Public Administration download free pdf. Public Administration all files.', category: 'css', image: '📊',links:[
+  'https://drive.google.com/file/d/1gxOkxigdY9XTSEoC5KAiK6-vU-mHlR4O/view?usp=sharing',
+  'https://drive.google.com/file/d/1QhKFfwob16SkTMzlPRdlUJsmLVb_NiKo/view?usp=sharing',
+  'https://drive.google.com/file/d/1YyG__R47WemeYookmEBk6DVIbyTISMNL/view?usp=sharing'
+  ]},
 //Political Science card 01
   { id: 103, code: 'CSS political science', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
 
-  ]}
+  ]},
+
+//CSS Sociology
+  { id: 103, code: 'CSS Sociology', title: 'CSS pdf files. Sociology download free pdf. Sociology all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1eZdupQOKVqD79jRh_b8Ip4RgLB5rd4Lj/view?usp=sharing',
+    'https://drive.google.com/file/d/1QCmswtQ9SM8CfXhPOI-7hd1YdmLkpRp-/view?usp=sharing',
+    'https://drive.google.com/file/d/1ssrVoSVW8L4sgeG0PpDYUyRm9XdLUeQJ/view?usp=sharing',
+    'https://drive.google.com/file/d/18MuoBXcZyC-MBcw_oLJJq39gIua4cgur/view?usp=sharing',
+    'https://drive.google.com/file/d/1_RJr8ZRvxmCArmpGdQ2iRQUM_oAqBfUU/view?usp=sharing',
+    'https://drive.google.com/file/d/12jl2bB7dVaNp7qZ6K9fqNZY4PBmXyyrA/view?usp=sharing',
+    'https://drive.google.com/file/d/1GWdmt5JfQtnDKP4wpmnFCjkiXXHY5HlI/view?usp=sharing',
+    'https://drive.google.com/file/d/1LsBpoGcv1ckiP8txGMInF7XRFx4Bxsmm/view?usp=sharing'
+  ]},
+//CSS Sociology
+{ id: 103, code: 'CSS Sociology', title: 'CSS pdf files. Sociology download free pdf. Sociology all files.', category: 'css', image: '📊',links:[
+  'https://drive.google.com/file/d/1_KAJeng24M-ZhYW4BmgIUw60Gk35w5K3/view?usp=sharing',
+  'https://drive.google.com/file/d/1G2kgJMwaHGue219t1itEaQEHlDpveUl9/view?usp=sharing',
+  'https://drive.google.com/file/d/1_OLE4ahBzhd7FvviaaGLVrcy1zFfVUlq/view?usp=sharing',
+  'https://drive.google.com/file/d/1CzRG6zqdKq5AM1gYLblHjKsop1SOeiPr/view?usp=sharing',
+  'https://drive.google.com/file/d/1gQ5gZ4wVMK6nN0AS8yktN7Hl1Yw1tGVt/view?usp=sharing',
+  'https://drive.google.com/file/d/1c_DZRHCfuMHxSNEtd99B48U0eSeiGdO2/view?usp=sharing'
+]},
+
 ];
 
 
