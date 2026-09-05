@@ -802,6 +802,22 @@ export const finalTermDataPart2 = [
   { id: 103, code: 'CSS Gender Study', title: 'CSS pdf files. Gender Study download free pdf. Gender Study all files.', category: 'css', image: '📊',links:[
     'https://drive.google.com/file/d/17QJ5elNC6ZDzU2tyg_TRsMd-pPgsCkd3/view?usp=sharing'
   ]},
+
+//CSS History of USA
+  { id: 103, code: 'CSS History of USA', title: 'CSS pdf files. History of USA download free pdf. History of USA all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1pE1I0Ji81Aj1CKhQQZa3qZxQz3OPR9Sb/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZYuKqjTBuktELk0shyy9apEfMSfmj0cj/view?usp=sharing',
+    'https://drive.google.com/file/d/1WWuff-3adfYnvjB0ogSAIiZ-x48sY3dP/view?usp=sharing',
+    'https://drive.google.com/file/d/118wlHYVa_VmOyHsqcEP107on9JDdWnF-/view?usp=sharing',
+    'https://drive.google.com/file/d/1qXIfinkdNgfca1EmnW4uOCMLWKpHwzsQ/view?usp=sharing',
+    'https://drive.google.com/file/d/1y91ZhKy6DdF6kvGVpJWe3UJ35JPuEJOs/view?usp=sharing',
+    'https://drive.google.com/file/d/1iKVXb6CtyZO4mc2qwcDgkjWAhtnfOhPk/view?usp=sharing',
+    'https://drive.google.com/file/d/1DxXrfSol7ZQPZtYyjVOWyqrgLxLq7COU/view?usp=sharing'
+  ]}, 
+//CSS History of USA
+  { id: 103, code: 'CSS History of USA', title: 'CSS pdf files. History of USA download free pdf. History of USA all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/17QJ5elNC6ZDzU2tyg_TRsMd-pPgsCkd3/view?usp=sharing'
+  ]},
 //Political Science card 01
   { id: 103, code: 'CSS political science', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
 
