@@ -433,7 +433,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/uc?export=download&id=1BanEgy_qzXWst3Lf97jytt9T8hhOJdeN',
     'https://drive.google.com/uc?export=download&id=1zjCpFIBEMOXah_xnFlPBXf0VDGAsCsfx'
   ] },
-  //
+  //CS506
   { id: 74, code: 'CS506', title: 'Web Design and Development', category: 'cs', image: '💻',links:[
     'https://drive.google.com/uc?export=download&id=1hE0ufqMmpw-lW3Lw2VhDr4Hy4n4ukPsS',
     'https://drive.google.com/uc?export=download&id=13KtPGogcNJP3pSEbaqtJicdrsJ9EzOuB',
