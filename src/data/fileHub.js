@@ -691,6 +691,29 @@ export const finalTermDataPart2 = [
   { id: 103, code: 'CSS Botany', title: 'CSS pdf files. Botany download free pdf. Botany all files.', category: 'css', image: '📊',links:[
     'https://drive.google.com/file/d/10kNtUpi23PIOdXmv9CbbODnKcb9fsBcF/view?usp=sharing'
   ]},
+//CSS Bussiness Administration
+  { id: 103, code: 'CSS Bussiness Administration', title: 'CSS pdf files. Bussiness Administration download free pdf. Bussiness Administration all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1nrRX4MPIebm9yjeyDUy72pQqJwkyWY2W/view?usp=sharing',
+    'https://drive.google.com/file/d/11i82382z2NW-U7MyGdi25RkpoJRsG_0B/view?usp=sharing',
+    'https://drive.google.com/file/d/1W2ZSYpIUBmsihFog5TMeps4UsFZnmCSY/view?usp=sharing',
+    'https://drive.google.com/file/d/1owOJVhb7x3yWURniyf7FNCzhBoZzGL3Z/view?usp=sharing',
+    'https://drive.google.com/file/d/1m_jkT3tEmTmb6f_w7ZgaWy98Kz9bBN4X/view?usp=sharing',
+    'https://drive.google.com/file/d/1IbfBShm5oqfg56rrqSltEFckw1aTL7OR/view?usp=sharing',
+    'https://drive.google.com/file/d/1HrH8Qazy5m7d4rWGCaKzGuuXcaLdzM-o/view?usp=sharing',
+    'https://drive.google.com/file/d/1O_mW1WPr84VEz2fkEFVM9OWCOZUtGNKh/view?usp=sharing'
+  ]},
+//CSS Bussiness Administration
+  { id: 103, code: 'CSS Bussiness Administration', title: 'CSS pdf files. Bussiness Administration download free pdf. Bussiness Administration all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1D7fmvIic6UZnhxrQ_oHuB8ZcO1_1pUBM/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZREwOWwXmuDUyVI3829hAfVBOBUyOsAW/view?usp=sharing',
+    'https://drive.google.com/file/d/1Gxvb5FhGtO26r6mOasfR5PzcQU5sNNqu/view?usp=sharing',
+    'https://drive.google.com/file/d/1LuSJZyO9WqnziC3BcXYFUk66nJ5ZpnNB/view?usp=sharing',
+    'https://drive.google.com/file/d/1aoMBtByDCKx3QR960E2YthRaK4T5RTJZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1x8wjaZOljBkfALrT5DqthqpVJKYMJDc-/view?usp=sharing',
+    'https://drive.google.com/file/d/1ujgw3LcgELdI3e2-MD1CH_sIDNE8H_vT/view?usp=sharing',
+    'https://drive.google.com/file/d/1qIzUQX1TISkvpB9dcwFYMpxhMbgQH4qr/view?usp=sharing'
+  ]},
+
 //Current Affaire
   { id: 103, code: 'CSS current affairs', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
    'https://drive.google.com/uc?export=download&id=11emcl2IqYxkQvazJebaIumZClL4RI_Rb',
