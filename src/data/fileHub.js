@@ -732,6 +732,23 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1pwjA8xG8Vw2IhEZXvsvGUEwnSRrdFpcx/view?usp=sharing',
     'https://drive.google.com/file/d/1MRYEsvfXqzdywPrhk26ei0112672khtT/view?usp=sharing'
   ]},
+
+//CSS criminology
+  { id: 103, code: 'CSS criminology', title: 'CSS pdf files. criminology download free pdf. criminology all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1zB212BgcMBmsKe9NutUeKJjjPZsHW5CX/view?usp=sharing',
+    'https://drive.google.com/file/d/1MqjhJsqkp7T5W6iTOeGImSj1VHztpH0t/view?usp=sharing',
+    'https://drive.google.com/file/d/1pnCznPc25Xz8fx5p_ZvJRoN3bE9QMxJx/view?usp=sharing',
+    'https://drive.google.com/file/d/12dy9um--7N_qxRv8nUvZk2eftfRNrBlv/view?usp=sharing',
+    'https://drive.google.com/file/d/16u8HcXaZebQArnIey2l1lvsBEdFNgLiI/view?usp=sharing',
+    'https://drive.google.com/file/d/1FpwfN-v0B8hzDXgUfqfQb0ef2pIUX0tl/view?usp=sharing',
+    'https://drive.google.com/file/d/1AmSgi2LEJ1iUr_C8OYCq4SEU_c2Xr2-c/view?usp=sharing',
+    'https://drive.google.com/file/d/1dbbLW5dRWI2ujHHJjlgUBuRo7oPvBKVA/view?usp=sharing'
+  ]},
+
+//CSS criminology
+  { id: 103, code: 'CSS criminology', title: 'CSS pdf files. criminology download free pdf. criminology all files.', category: 'css', image: '📊',links:[
+   'https://drive.google.com/file/d/13xONC70OyI7lDhewfckgjJADtJWtSrc3/view?usp=sharing'
+  ]},
 //Current Affaire
   { id: 103, code: 'CSS current affairs', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
    'https://drive.google.com/uc?export=download&id=11emcl2IqYxkQvazJebaIumZClL4RI_Rb',
@@ -748,7 +765,11 @@ export const finalTermDataPart2 = [
    'https://drive.google.com/uc?export=download&id=1Lb_X2_YF5xIfOELpJ-xWUy0yWI-HdY1X',
    'https://drive.google.com/uc?export=download&id=1CzVzyI3i8-_ShnDisf3lXyVUP_99OOMj'
   ]},
-
+//CSS English Grammar
+{ id: 103, code: 'CSS English Grammar', title: 'CSS pdf files. English Grammar download free pdf. English Grammar all files.', category: 'css', image: '📊',links:[
+  'https://drive.google.com/file/d/1SMB0He4bqXBBrRdqH8pbvNWAK0Qq3TgX/view?usp=sharing',
+  'https://drive.google.com/file/d/16BRr5xbTD6wbAQ45FJ_FUBJw-YoObUeD/view?usp=sharing'
+]},
   //Political Science card 01
   { id: 103, code: 'CSS political science', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
 
