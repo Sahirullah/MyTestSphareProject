@@ -603,88 +603,88 @@ export const finalTermDataPart2 = [
   //cs726
   { id: 102, code: 'CS726', title: 'Information Retrieval Techniques', category: 'cs', image: '💻',Link:'' },
  
-  //CSS - Central Superior Services Section Start Here
+//CSS - Central Superior Services Section Start Here
 //CSS All files
   { id: 103, code: 'CSS All files', title: 'CSS pdf files. All files download free pdf. All files all files.', category: 'css', image: '📊',links:[
-   'https://drive.google.com/file/d/1Rin5Wz9gI5XBXgMai-IRLmypYk7t_llT/view?usp=sharing',
-   'https://drive.google.com/file/d/1qzqrfWm9ZO-Dq-I-U-6iGK2KAZhENeOH/view?usp=sharing',
-   'https://drive.google.com/file/d/1RiTIjhFnyd6BQGtZi-D9Eh78-V_4IlHN/view?usp=sharing',
-   'https://drive.google.com/file/d/1LZDsrTSlYn0_9Tru9y-SUK0RmDQOTQTq/view?usp=sharing',
-   'https://drive.google.com/file/d/1RYktMaN6_b9pZye_Qh_RBE2-wg2KrHP4/view?usp=sharing',
-   'https://drive.google.com/file/d/1IbzCDohkAqRwfHLg43Wk69JFts0gwSB1/view?usp=sharing',
-   'https://drive.google.com/file/d/1ZSqW6-r6Q43GN1EQ6bfaR7ndWBBQ1Fmv/view?usp=sharing',
-   'https://drive.google.com/file/d/1JKXaVf7oYFbWzKk5R5ZipkWT98wMyhBz/view?usp=sharing'
+   'https://drive.google.com/uc?export=download&id=1Rin5Wz9gI5XBXgMai-IRLmypYk7t_llT',
+   'https://drive.google.com/uc?export=download&id=1qzqrfWm9ZO-Dq-I-U-6iGK2KAZhENeOH',
+   'https://drive.google.com/uc?export=download&id=1RiTIjhFnyd6BQGtZi-D9Eh78-V_4IlHN',
+   'https://drive.google.com/uc?export=download&id=1LZDsrTSlYn0_9Tru9y-SUK0RmDQOTQTq',
+   'https://drive.google.com/uc?export=download&id=1RYktMaN6_b9pZye_Qh_RBE2-wg2KrHP4',
+   'https://drive.google.com/uc?export=download&id=1IbzCDohkAqRwfHLg43Wk69JFts0gwSB1',
+   'https://drive.google.com/uc?export=download&id=1ZSqW6-r6Q43GN1EQ6bfaR7ndWBBQ1Fmv',
+   'https://drive.google.com/uc?export=download&id=1JKXaVf7oYFbWzKk5R5ZipkWT98wMyhBz'
   ]},
 //CSS All files
   { id: 103, code: 'CSS All files', title: 'CSS pdf files. All files download free pdf. All files all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1t9h-V_dYP_3D4fBFoTWtQB8Ao6NxYcuw/view?usp=sharing',
-    'https://drive.google.com/file/d/1tcov_wpIGKVC60pWhk3f-0CoJ_gC3uIZ/view?usp=sharing',
-    'https://drive.google.com/file/d/1rcAjTSh9p7DLn-osikmheqX1eQ2H2Ele/view?usp=sharing',
-    'https://drive.google.com/file/d/1nQhxIYx_nnV9kM9mczSjVi4cBRQ_QDi0/view?usp=sharing',
-    'https://drive.google.com/file/d/11DD9pehMxSkUGd4NQQVp1TGJZkUTJVLv/view?usp=sharing',
-    'https://drive.google.com/file/d/15Zttj3NVHMOD5naIRK2LZGX70Ohc7ts4/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1t9h-V_dYP_3D4fBFoTWtQB8Ao6NxYcuw',
+    'https://drive.google.com/uc?export=download&id=1tcov_wpIGKVC60pWhk3f-0CoJ_gC3uIZ',
+    'https://drive.google.com/uc?export=download&id=1rcAjTSh9p7DLn-osikmheqX1eQ2H2Ele',
+    'https://drive.google.com/uc?export=download&id=1nQhxIYx_nnV9kM9mczSjVi4cBRQ_QDi0',
+    'https://drive.google.com/uc?export=download&id=11DD9pehMxSkUGd4NQQVp1TGJZkUTJVLv',
+    'https://drive.google.com/uc?export=download&id=15Zttj3NVHMOD5naIRK2LZGX70Ohc7ts4'
   ]},
 
   //CSS Accounting & Auditing
 { id: 103, code: 'CSS Accounting & Auditing', title: 'CSS pdf files. download free pdf. Accounting and auditing.', category: 'css', image: '📊',links:[
-  'https://drive.google.com/file/d/1i-nbY0LkQ9JexDyTWCFcZv_l7Vu69KX6/view?usp=sharing',
-  'https://drive.google.com/file/d/1uOSKUzQCfDJxnN6F6hPlMsaFRPH1BWAW/view?usp=sharing',
-  'https://drive.google.com/file/d/1Pj8aYHY3FZFYc1p-D20sjPvSS9WsbqP_/view?usp=sharing',
-  'https://drive.google.com/file/d/1ClEIjqD1xElpiJgTV8hUZ64dRumOInOx/view?usp=sharing',
-  'https://drive.google.com/file/d/1fmzK2glAeNVm31IMUI82hKcomvP3_ED0/view?usp=sharing',
-  'https://drive.google.com/file/d/1osIJ1NPAA0pr3fH5ddckAujGf49-Uo6L/view?usp=sharing',
-  'https://drive.google.com/file/d/1Y_EMaeEQm08vVWZ5ixVaQWIyTpdoQv5X/view?usp=sharing',
-  'https://drive.google.com/file/d/13iVkLFqAnzFf7jNoHQPf_BNuQ6jcVsv8/view?usp=sharing'
+  'https://drive.google.com/uc?export=download&id=1i-nbY0LkQ9JexDyTWCFcZv_l7Vu69KX6',
+  'https://drive.google.com/uc?export=download&id=1uOSKUzQCfDJxnN6F6hPlMsaFRPH1BWAW',
+  'https://drive.google.com/uc?export=download&id=1Pj8aYHY3FZFYc1p-D20sjPvSS9WsbqP_',
+  'https://drive.google.com/uc?export=download&id=1ClEIjqD1xElpiJgTV8hUZ64dRumOInOx',
+  'https://drive.google.com/uc?export=download&id=1fmzK2glAeNVm31IMUI82hKcomvP3_ED0',
+  'https://drive.google.com/uc?export=download&id=1osIJ1NPAA0pr3fH5ddckAujGf49-Uo6L',
+  'https://drive.google.com/uc?export=download&id=1Y_EMaeEQm08vVWZ5ixVaQWIyTpdoQv5X',
+  'https://drive.google.com/uc?export=download&id=13iVkLFqAnzFf7jNoHQPf_BNuQ6jcVsv8'
 ]},
 
 //CSS Accounting & Auditing
 { id: 103, code: 'CSS Accounting & Auditing', title: 'CSS pdf files. download free pdf. Accounting and auditing.', category: 'css', image: '📊',links:[
-  'https://drive.google.com/file/d/15EKZHLdirTVKf2AzAlKD0bru7leBLbFw/view?usp=sharing',
-  'https://drive.google.com/file/d/1hPBv3y-abDd0hghrPR4knIIgSUQMNn-o/view?usp=sharing',
-  'https://drive.google.com/file/d/17Tn8W0dgVd12eyrPyRjBBdlQxhl_VF1F/view?usp=sharing',
-  'https://drive.google.com/file/d/1i-vDwvWcbm5OgovD30vK2UJa89T6I8C_/view?usp=sharing',
-  'https://drive.google.com/file/d/13_5Lo0tZNb8Ou_vunTgrC96SqSy7hQtX/view?usp=sharing',
-  'https://drive.google.com/file/d/13iF0rbPoR8F4Djxanyx7nc4KuZV_DFqN/view?usp=sharing',
-  'https://drive.google.com/file/d/13gYF28BxoLg1kUGGGf64Hl1SOZx_7z56/view?usp=sharing',
-  'https://drive.google.com/file/d/1Cq4hoeWq72GNylQvAVc15KBc9pwe9xt9/view?usp=sharing'
+  'https://drive.google.com/uc?export=download&id=15EKZHLdirTVKf2AzAlKD0bru7leBLbFw',
+  'https://drive.google.com/uc?export=download&id=1hPBv3y-abDd0hghrPR4knIIgSUQMNn-o',
+  'https://drive.google.com/uc?export=download&id=17Tn8W0dgVd12eyrPyRjBBdlQxhl_VF1F',
+  'https://drive.google.com/uc?export=download&id=1i-vDwvWcbm5OgovD30vK2UJa89T6I8C_',
+  'https://drive.google.com/uc?export=download&id=13_5Lo0tZNb8Ou_vunTgrC96SqSy7hQtX',
+  'https://drive.google.com/uc?export=download&id=13iF0rbPoR8F4Djxanyx7nc4KuZV_DFqN',
+  'https://drive.google.com/uc?export=download&id=13gYF28BxoLg1kUGGGf64Hl1SOZx_7z56',
+  'https://drive.google.com/uc?export=download&id=1Cq4hoeWq72GNylQvAVc15KBc9pwe9xt9'
 ]},
 //CSS Accounting & Auditing
 { id: 103, code: 'CSS Accounting & Auditing', title: 'CSS pdf files. download free pdf. Accounting and auditing.', category: 'css', image: '📊',links:[
-'https://drive.google.com/file/d/1DVUXXLIs7QCXJsirJA0uOeWkXoSmLtTK/view?usp=sharing',
-'https://drive.google.com/file/d/1qxkQzZO_LbrZb02AjjPNFfywEpnl5J1d/view?usp=sharing',
-'https://drive.google.com/file/d/1jHpImR2PoJ5iceTRjp0mv_dquaAUC5is/view?usp=sharing',
-'https://drive.google.com/file/d/1MTinwb8ce5mQ_6lk6p5Jmb_4Fn8M8HT6/view?usp=sharing',
-'https://drive.google.com/file/d/1CgvqGjAlF3aEFdwW_1qzNS8nAN_suDas/view?usp=sharing',
-'https://drive.google.com/file/d/1CbMiOBlUdyiVjkE9xnchimrfEo7suXlz/view?usp=sharing',
-'https://drive.google.com/file/d/1L-oua1zIAjpsGhv1dzJdPMDK7hBJy0RR/view?usp=sharing'
+'https://drive.google.com/uc?export=download&id=1DVUXXLIs7QCXJsirJA0uOeWkXoSmLtTK',
+'https://drive.google.com/uc?export=download&id=1qxkQzZO_LbrZb02AjjPNFfywEpnl5J1d',
+'https://drive.google.com/uc?export=download&id=1jHpImR2PoJ5iceTRjp0mv_dquaAUC5is',
+'https://drive.google.com/uc?export=download&id=1MTinwb8ce5mQ_6lk6p5Jmb_4Fn8M8HT6',
+'https://drive.google.com/uc?export=download&id=1CgvqGjAlF3aEFdwW_1qzNS8nAN_suDas',
+'https://drive.google.com/uc?export=download&id=1CbMiOBlUdyiVjkE9xnchimrfEo7suXlz',
+'https://drive.google.com/uc?export=download&id=1L-oua1zIAjpsGhv1dzJdPMDK7hBJy0RR'
 ]},
 
 //CSS Antropology
   { id: 103, code: 'CSS Antropology', title: 'CSS pdf files. Antropology download free pdf. Antropology all files.', category: 'css', image: '📊',links:[
-  'https://drive.google.com/file/d/15MDHXDIy2NcKKvgCBBygQSR4rTh34OQN/view?usp=sharing',
-  'https://drive.google.com/file/d/1x80MtvLTdYtqSgEN8hD3wFPyvHfE32YG/view?usp=sharing',
-  'https://drive.google.com/file/d/1Lyjoxtpw3LtBY4rJq3iEBa3Dov1w8j5e/view?usp=sharing',
-  'https://drive.google.com/file/d/1yPVS2AkI1XakYbW09z-q8k66B4NupL1F/view?usp=sharing',
-  'https://drive.google.com/file/d/1r6-1yIkL0a1FgpHD25FV_owX_XIu_xti/view?usp=sharing',
-  'https://drive.google.com/file/d/1XtWQufLYcDfFTgj-F7J5IDBYIeOWBVYk/view?usp=sharing',
-  'https://drive.google.com/file/d/1oHRC5qHcePKQwpPPuoB4k7DZ0deI4qlM/view?usp=sharing',
-  'https://drive.google.com/file/d/1_CtqgKrYv9Jtz1lW8INjgg6g41AjXiwo/view?usp=sharing'
+  'https://drive.google.com/uc?export=download&id=15MDHXDIy2NcKKvgCBBygQSR4rTh34OQN',
+  'https://drive.google.com/uc?export=download&id=1x80MtvLTdYtqSgEN8hD3wFPyvHfE32YG',
+  'https://drive.google.com/uc?export=download&id=1Lyjoxtpw3LtBY4rJq3iEBa3Dov1w8j5e',
+  'https://drive.google.com/uc?export=download&id=1yPVS2AkI1XakYbW09z-q8k66B4NupL1F',
+  'https://drive.google.com/uc?export=download&id=1r6-1yIkL0a1FgpHD25FV_owX_XIu_xti',
+  'https://drive.google.com/uc?export=download&id=1XtWQufLYcDfFTgj-F7J5IDBYIeOWBVYk',
+  'https://drive.google.com/uc?export=download&id=1oHRC5qHcePKQwpPPuoB4k7DZ0deI4qlM',
+  'https://drive.google.com/uc?export=download&id=1_CtqgKrYv9Jtz1lW8INjgg6g41AjXiwo'
   ]},
 //CSS Anthropology
   { id: 103, code: 'CSS Anthropology', title: 'CSS pdf files. Anthropology download free pdf. Anthropology all files.', category: 'css', image: '📊',links:[
-  'https://drive.google.com/file/d/1rcC83G26vll6F1xTwiBkDAfLek8Mcspr/view?usp=sharing',
-  'https://drive.google.com/file/d/1ThhTgxpCm-ZSoGIds2IfeO7gmxPMz6ez/view?usp=sharing',
-  'https://drive.google.com/file/d/1cU-dEOu4loKTCZJaIZcAM9nC-b05sXQO/view?usp=sharing',
-  'https://drive.google.com/file/d/1arVOm2a-yPjtkRalCB7kkBjJhJX9UnKa/view?usp=sharing',
-  'https://drive.google.com/file/d/1gBjzI9K52DgUXEWYUU9QSaOJ6u1D758R/view?usp=sharing',
-  'https://drive.google.com/file/d/13I4BDT-dNvXtCsdChdSjVnd0_2h1N11k/view?usp=sharing',
-  'https://drive.google.com/file/d/1jf6JWmLPbH1xlg80QRssib3dbeVWHAa2/view?usp=sharing',
-  'https://drive.google.com/file/d/1XQHdC0V4UTviQ8E91cGs1O6B2_opfJW6/view?usp=sharing'
+  'https://drive.google.com/uc?export=download&id=1rcC83G26vll6F1xTwiBkDAfLek8Mcspr',
+  'https://drive.google.com/uc?export=download&id=1ThhTgxpCm-ZSoGIds2IfeO7gmxPMz6ez',
+  'https://drive.google.com/uc?export=download&id=1cU-dEOu4loKTCZJaIZcAM9nC-b05sXQO',
+  'https://drive.google.com/uc?export=download&id=1arVOm2a-yPjtkRalCB7kkBjJhJX9UnKa',
+  'https://drive.google.com/uc?export=download&id=1gBjzI9K52DgUXEWYUU9QSaOJ6u1D758R',
+  'https://drive.google.com/uc?export=download&id=13I4BDT-dNvXtCsdChdSjVnd0_2h1N11k',
+  'https://drive.google.com/uc?export=download&id=1jf6JWmLPbH1xlg80QRssib3dbeVWHAa2',
+  'https://drive.google.com/uc?export=download&id=1XQHdC0V4UTviQ8E91cGs1O6B2_opfJW6'
   ]},
 //CSS Anthropology
   { id: 103, code: 'CSS Anthropology', title: 'CSS pdf files. Anthropology download free pdf. Anthropology all files.', category: 'css', image: '📊',links:[
-  'https://drive.google.com/file/d/1rmYa0rs_JqQDDuQCYY52GAiIUGG4lGG1/view?usp=sharing',
-  'https://drive.google.com/file/d/1Mn9IA9jyxNyEPilfja6yYd11dDF-Rjm4/view?usp=sharing'
+  'https://drive.google.com/uc?export=download&id=1rmYa0rs_JqQDDuQCYY52GAiIUGG4lGG1',
+  'https://drive.google.com/uc?export=download&id=1Mn9IA9jyxNyEPilfja6yYd11dDF-Rjm4'
   ]},
 //CSS International law
   { id: 103, code: 'CSS International law', title: 'CSS pdf files. international law download free pdf.international law by MalcolmShaw’s. international law sixth edition', category: 'css', image: '📊',links:[
@@ -699,76 +699,76 @@ export const finalTermDataPart2 = [
   ]},
 //CSS Botany
   { id: 103, code: 'CSS Botany', title: 'CSS pdf files. Botany download free pdf. Botany all files.', category: 'css', image: '📊',links:[
-     'https://drive.google.com/file/d/1RKZVJUVyojk0mIe2lDdy6n-FimB8LyJ4/view?usp=sharing',
-     'https://drive.google.com/file/d/1gh1I28D1Jonj1jdQTCQKR_mGyZVKqBcV/view?usp=sharing',
-     'https://drive.google.com/file/d/14LB8gUgB5nN4hb99jkBaDuuL8TYcnEl0/view?usp=sharing',
-     'https://drive.google.com/file/d/197bXUzwVzMRQVCFNjOM0Fbt_3nuIslPT/view?usp=sharing',
-     'https://drive.google.com/file/d/1ZCYyfNLj3JOK-Mw4QqZ5m4zeDOt4xoOC/view?usp=sharing',
-     'https://drive.google.com/file/d/10r7xyfdwxZPl7ysypROgZa-9horWt_sP/view?usp=sharing',
-     'https://drive.google.com/file/d/1FHJnXDw8Y6DRb_3X3n0pE7ge6MrhWui3/view?usp=sharing',
-     'https://drive.google.com/file/d/1hpzt4pebV583_9WZsXoe_Vc1qJjLrCvE/view?usp=sharing'
+     'https://drive.google.com/uc?export=download&id=1RKZVJUVyojk0mIe2lDdy6n-FimB8LyJ4',
+     'https://drive.google.com/uc?export=download&id=1gh1I28D1Jonj1jdQTCQKR_mGyZVKqBcV',
+     'https://drive.google.com/uc?export=download&id=14LB8gUgB5nN4hb99jkBaDuuL8TYcnEl0',
+     'https://drive.google.com/uc?export=download&id=197bXUzwVzMRQVCFNjOM0Fbt_3nuIslPT',
+     'https://drive.google.com/uc?export=download&id=1ZCYyfNLj3JOK-Mw4QqZ5m4zeDOt4xoOC',
+     'https://drive.google.com/uc?export=download&id=10r7xyfdwxZPl7ysypROgZa-9horWt_sP',
+     'https://drive.google.com/uc?export=download&id=1FHJnXDw8Y6DRb_3X3n0pE7ge6MrhWui3',
+     'https://drive.google.com/uc?export=download&id=1hpzt4pebV583_9WZsXoe_Vc1qJjLrCvE'
   ]},
 //CSS Botany
   { id: 103, code: 'CSS Botany', title: 'CSS pdf files. Botany download free pdf. Botany all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/10kNtUpi23PIOdXmv9CbbODnKcb9fsBcF/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=10kNtUpi23PIOdXmv9CbbODnKcb9fsBcF'
   ]},
 //CSS Bussiness Administration
   { id: 103, code: 'CSS Bussiness Administration', title: 'CSS pdf files. Bussiness Administration download free pdf. Bussiness Administration all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1nrRX4MPIebm9yjeyDUy72pQqJwkyWY2W/view?usp=sharing',
-    'https://drive.google.com/file/d/11i82382z2NW-U7MyGdi25RkpoJRsG_0B/view?usp=sharing',
-    'https://drive.google.com/file/d/1W2ZSYpIUBmsihFog5TMeps4UsFZnmCSY/view?usp=sharing',
-    'https://drive.google.com/file/d/1owOJVhb7x3yWURniyf7FNCzhBoZzGL3Z/view?usp=sharing',
-    'https://drive.google.com/file/d/1m_jkT3tEmTmb6f_w7ZgaWy98Kz9bBN4X/view?usp=sharing',
-    'https://drive.google.com/file/d/1IbfBShm5oqfg56rrqSltEFckw1aTL7OR/view?usp=sharing',
-    'https://drive.google.com/file/d/1HrH8Qazy5m7d4rWGCaKzGuuXcaLdzM-o/view?usp=sharing',
-    'https://drive.google.com/file/d/1O_mW1WPr84VEz2fkEFVM9OWCOZUtGNKh/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1nrRX4MPIebm9yjeyDUy72pQqJwkyWY2W',
+    'https://drive.google.com/uc?export=download&id=11i82382z2NW-U7MyGdi25RkpoJRsG_0B',
+    'https://drive.google.com/uc?export=download&id=1W2ZSYpIUBmsihFog5TMeps4UsFZnmCSY',
+    'https://drive.google.com/uc?export=download&id=1owOJVhb7x3yWURniyf7FNCzhBoZzGL3Z',
+    'https://drive.google.com/uc?export=download&id=1m_jkT3tEmTmb6f_w7ZgaWy98Kz9bBN4X',
+    'https://drive.google.com/uc?export=download&id=1IbfBShm5oqfg56rrqSltEFckw1aTL7OR',
+    'https://drive.google.com/uc?export=download&id=1HrH8Qazy5m7d4rWGCaKzGuuXcaLdzM-o',
+    'https://drive.google.com/uc?export=download&id=1O_mW1WPr84VEz2fkEFVM9OWCOZUtGNKh'
   ]},
 //CSS Bussiness Administration
   { id: 103, code: 'CSS Bussiness Administration', title: 'CSS pdf files. Bussiness Administration download free pdf. Bussiness Administration all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1D7fmvIic6UZnhxrQ_oHuB8ZcO1_1pUBM/view?usp=sharing',
-    'https://drive.google.com/file/d/1ZREwOWwXmuDUyVI3829hAfVBOBUyOsAW/view?usp=sharing',
-    'https://drive.google.com/file/d/1Gxvb5FhGtO26r6mOasfR5PzcQU5sNNqu/view?usp=sharing',
-    'https://drive.google.com/file/d/1LuSJZyO9WqnziC3BcXYFUk66nJ5ZpnNB/view?usp=sharing',
-    'https://drive.google.com/file/d/1aoMBtByDCKx3QR960E2YthRaK4T5RTJZ/view?usp=sharing',
-    'https://drive.google.com/file/d/1x8wjaZOljBkfALrT5DqthqpVJKYMJDc-/view?usp=sharing',
-    'https://drive.google.com/file/d/1ujgw3LcgELdI3e2-MD1CH_sIDNE8H_vT/view?usp=sharing',
-    'https://drive.google.com/file/d/1qIzUQX1TISkvpB9dcwFYMpxhMbgQH4qr/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1D7fmvIic6UZnhxrQ_oHuB8ZcO1_1pUBM',
+    'https://drive.google.com/uc?export=download&id=1ZREwOWwXmuDUyVI3829hAfVBOBUyOsAW',
+    'https://drive.google.com/uc?export=download&id=1Gxvb5FhGtO26r6mOasfR5PzcQU5sNNqu',
+    'https://drive.google.com/uc?export=download&id=1LuSJZyO9WqnziC3BcXYFUk66nJ5ZpnNB',
+    'https://drive.google.com/uc?export=download&id=1aoMBtByDCKx3QR960E2YthRaK4T5RTJZ',
+    'https://drive.google.com/uc?export=download&id=1x8wjaZOljBkfALrT5DqthqpVJKYMJDc-',
+    'https://drive.google.com/uc?export=download&id=1ujgw3LcgELdI3e2-MD1CH_sIDNE8H_vT',
+    'https://drive.google.com/uc?export=download&id=1qIzUQX1TISkvpB9dcwFYMpxhMbgQH4qr'
   ]},
 //CSS Comparative study of major religions
   { id: 103, code: 'CSS Comparative study of major religions', title: 'CSS pdf files. Comparative study of major religions download free pdf. Comparative study of major religions all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1XfkLN23MhCt8q_0G-8_x0Y8hWQR4lZuT/view?usp=sharing',
-    'https://drive.google.com/file/d/17Y_0Q08nmcBqM-h9Uq8r8RRepxC1YPxK/view?usp=sharing',
-    'https://drive.google.com/file/d/1BXQmHWzXTyxUUN2FnIAilgO4ETO2CJM_/view?usp=sharing',
-    'https://drive.google.com/file/d/1zjHXm9Smug0dEHwIKiyT_wM9NtC9zEGr/view?usp=sharing',
-    'https://drive.google.com/file/d/1T7O4cVUZqxNZtbD_IBB9qx6DFHKxcV-y/view?usp=sharing',
-    'https://drive.google.com/file/d/1z_GpL9UM9c43pT4jO7QCxsQoQka-Vh7O/view?usp=sharing',
-    'https://drive.google.com/file/d/18AmAHcEE2m24biWlEROjLHO3z920fO25/view?usp=sharing',
-    'https://drive.google.com/file/d/1VKEJ--mooWa4PM5PyNXQuk2IPxUOdC9e/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1XfkLN23MhCt8q_0G-8_x0Y8hWQR4lZuT',
+    'https://drive.google.com/uc?export=download&id=17Y_0Q08nmcBqM-h9Uq8r8RRepxC1YPxK',
+    'https://drive.google.com/uc?export=download&id=1BXQmHWzXTyxUUN2FnIAilgO4ETO2CJM_',
+    'https://drive.google.com/uc?export=download&id=1zjHXm9Smug0dEHwIKiyT_wM9NtC9zEGr',
+    'https://drive.google.com/uc?export=download&id=1T7O4cVUZqxNZtbD_IBB9qx6DFHKxcV-y',
+    'https://drive.google.com/uc?export=download&id=1z_GpL9UM9c43pT4jO7QCxsQoQka-Vh7O',
+    'https://drive.google.com/uc?export=download&id=18AmAHcEE2m24biWlEROjLHO3z920fO25',
+    'https://drive.google.com/uc?export=download&id=1VKEJ--mooWa4PM5PyNXQuk2IPxUOdC9e'
   ]},
 
 
 //CSS Comparative study of major religions
   { id: 103, code: 'CSS Comparative study of major religions', title: 'CSS pdf files. Comparative study of major religions download free pdf. Comparative study of major religions all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1608YlEdswIRgHDD2wkxdAwv6yDZi8u1Z/view?usp=sharing',
-    'https://drive.google.com/file/d/1pwjA8xG8Vw2IhEZXvsvGUEwnSRrdFpcx/view?usp=sharing',
-    'https://drive.google.com/file/d/1MRYEsvfXqzdywPrhk26ei0112672khtT/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1608YlEdswIRgHDD2wkxdAwv6yDZi8u1Z',
+    'https://drive.google.com/uc?export=download&id=1pwjA8xG8Vw2IhEZXvsvGUEwnSRrdFpcx',
+    'https://drive.google.com/uc?export=download&id=1MRYEsvfXqzdywPrhk26ei0112672khtT'
   ]},
 
 //CSS criminology
   { id: 103, code: 'CSS criminology', title: 'CSS pdf files. criminology download free pdf. criminology all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1zB212BgcMBmsKe9NutUeKJjjPZsHW5CX/view?usp=sharing',
-    'https://drive.google.com/file/d/1MqjhJsqkp7T5W6iTOeGImSj1VHztpH0t/view?usp=sharing',
-    'https://drive.google.com/file/d/1pnCznPc25Xz8fx5p_ZvJRoN3bE9QMxJx/view?usp=sharing',
-    'https://drive.google.com/file/d/12dy9um--7N_qxRv8nUvZk2eftfRNrBlv/view?usp=sharing',
-    'https://drive.google.com/file/d/16u8HcXaZebQArnIey2l1lvsBEdFNgLiI/view?usp=sharing',
-    'https://drive.google.com/file/d/1FpwfN-v0B8hzDXgUfqfQb0ef2pIUX0tl/view?usp=sharing',
-    'https://drive.google.com/file/d/1AmSgi2LEJ1iUr_C8OYCq4SEU_c2Xr2-c/view?usp=sharing',
-    'https://drive.google.com/file/d/1dbbLW5dRWI2ujHHJjlgUBuRo7oPvBKVA/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1zB212BgcMBmsKe9NutUeKJjjPZsHW5CX',
+    'https://drive.google.com/uc?export=download&id=1MqjhJsqkp7T5W6iTOeGImSj1VHztpH0t',
+    'https://drive.google.com/uc?export=download&id=1pnCznPc25Xz8fx5p_ZvJRoN3bE9QMxJx',
+    'https://drive.google.com/uc?export=download&id=12dy9um--7N_qxRv8nUvZk2eftfRNrBlv',
+    'https://drive.google.com/uc?export=download&id=16u8HcXaZebQArnIey2l1lvsBEdFNgLiI',
+    'https://drive.google.com/uc?export=download&id=1FpwfN-v0B8hzDXgUfqfQb0ef2pIUX0tl',
+    'https://drive.google.com/uc?export=download&id=1AmSgi2LEJ1iUr_C8OYCq4SEU_c2Xr2-c',
+    'https://drive.google.com/uc?export=download&id=1dbbLW5dRWI2ujHHJjlgUBuRo7oPvBKVA'
   ]},
 
 //CSS criminology
   { id: 103, code: 'CSS criminology', title: 'CSS pdf files. criminology download free pdf. criminology all files.', category: 'css', image: '📊',links:[
-   'https://drive.google.com/file/d/13xONC70OyI7lDhewfckgjJADtJWtSrc3/view?usp=sharing'
+   'https://drive.google.com/uc?export=download&id=13xONC70OyI7lDhewfckgjJADtJWtSrc3'
   ]},
 //Current Affaire
   { id: 103, code: 'CSS current affairs', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
@@ -788,143 +788,143 @@ export const finalTermDataPart2 = [
   ]},
 //CSS English Grammar
 { id: 103, code: 'CSS English Grammar', title: 'CSS pdf files. English Grammar download free pdf. English Grammar all files.', category: 'css', image: '📊',links:[
-  'https://drive.google.com/file/d/1SMB0He4bqXBBrRdqH8pbvNWAK0Qq3TgX/view?usp=sharing',
-  'https://drive.google.com/file/d/16BRr5xbTD6wbAQ45FJ_FUBJw-YoObUeD/view?usp=sharing'
+  'https://drive.google.com/uc?export=download&id=1SMB0He4bqXBBrRdqH8pbvNWAK0Qq3TgX',
+  'https://drive.google.com/uc?export=download&id=16BRr5xbTD6wbAQ45FJ_FUBJw-YoObUeD'
 ]},
 //CSS Environmental Study
   { id: 103, code: 'CSS environmental study', title: 'CSS pdf files. Environmental study download free pdf. Environmental study all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1YqqgvORicN4LwjbOffft6WK8Y6BVZZAG/view?usp=sharing',
-    'https://drive.google.com/file/d/1cVYvKBh1BXuRGJzvZvQzG8TEJgi1y0ge/view?usp=sharing',
-    'https://drive.google.com/file/d/13hyngx_MWldGHB0oXm1p0HghyrbC5u_q/view?usp=sharing',
-    'https://drive.google.com/file/d/12u0vuIFX9XIsqvFPQV2Nx7gQKhLWZHUR/view?usp=sharing',
-    'https://drive.google.com/file/d/1ZvEAmKY-mGklLeLvp7dQJJSgmW7C2XkZ/view?usp=sharing',
-    'https://drive.google.com/file/d/1LxcXGaLRfxevpzSKNL0X0YvjSPym8xTA/view?usp=sharing',
-    'https://drive.google.com/file/d/1td5gGbO9D5QbMtSJH9Dz8l6Rl58YgVHR/view?usp=sharing',
-    'https://drive.google.com/file/d/1y7RgSECeaVU8hhAfETeFntBgFcBAWPl2/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1YqqgvORicN4LwjbOffft6WK8Y6BVZZAG',
+    'https://drive.google.com/uc?export=download&id=1cVYvKBh1BXuRGJzvZvQzG8TEJgi1y0ge',
+    'https://drive.google.com/uc?export=download&id=13hyngx_MWldGHB0oXm1p0HghyrbC5u_q',
+    'https://drive.google.com/uc?export=download&id=12u0vuIFX9XIsqvFPQV2Nx7gQKhLWZHUR',
+    'https://drive.google.com/uc?export=download&id=1ZvEAmKY-mGklLeLvp7dQJJSgmW7C2XkZ',
+    'https://drive.google.com/uc?export=download&id=1LxcXGaLRfxevpzSKNL0X0YvjSPym8xTA',
+    'https://drive.google.com/uc?export=download&id=1td5gGbO9D5QbMtSJH9Dz8l6Rl58YgVHR',
+    'https://drive.google.com/uc?export=download&id=1y7RgSECeaVU8hhAfETeFntBgFcBAWPl2'
   ]},
 //CSS Environmental Study
   { id: 103, code: 'CSS environmental study', title: 'CSS pdf files. Environmental study download free pdf. Environmental study all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1pxU3ZQApPaT0D-6toabOeSyMKoWf-uLv/view?usp=sharing',
-    'https://drive.google.com/file/d/1yVUU-WAjpRAATurVQhMnKBgSjewnjHZk/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1pxU3ZQApPaT0D-6toabOeSyMKoWf-uLv',
+    'https://drive.google.com/uc?export=download&id=1yVUU-WAjpRAATurVQhMnKBgSjewnjHZk'
   ]},  
 
 //CSS Gender Studies
   { id: 103, code: 'CSS Gender Study', title: 'CSS pdf files. Gender Study download free pdf. Gender Study all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1Q6ew6husCRwRsvPIKNyM_SVYi9S_7g3u/view?usp=sharing',
-    'https://drive.google.com/file/d/1U8uowDLMcxGhmOflDmEVdKOOqC1u55Cc/view?usp=sharing',
-    'https://drive.google.com/file/d/1SjoZo2jjxwubsYmApmI8qi6vapmu-bqJ/view?usp=sharing',
-    'https://drive.google.com/file/d/15c4ToIA88jBNC-FnmXJsXnxZMVvy0DZl/view?usp=sharing',
-    'https://drive.google.com/file/d/1BBPD1-AQmO8yldkAkpmVmKLroomE4fNo/view?usp=sharing',
-    'https://drive.google.com/file/d/1ovvSp9lqTvTXIlRqSvi6ATZIi-wLJ5RC/view?usp=sharing',
-    'https://drive.google.com/file/d/1cs6GV8_LHOeny7ezJk4cWeBXRF12wgDa/view?usp=sharing',
-    'https://drive.google.com/file/d/134h1f9TNgQgvyR7dppVczRaONOOq0S-W/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1Q6ew6husCRwRsvPIKNyM_SVYi9S_7g3u',
+    'https://drive.google.com/uc?export=download&id=1U8uowDLMcxGhmOflDmEVdKOOqC1u55Cc',
+    'https://drive.google.com/uc?export=download&id=1SjoZo2jjxwubsYmApmI8qi6vapmu-bqJ',
+    'https://drive.google.com/uc?export=download&id=15c4ToIA88jBNC-FnmXJsXnxZMVvy0DZl',
+    'https://drive.google.com/uc?export=download&id=1BBPD1-AQmO8yldkAkpmVmKLroomE4fNo',
+    'https://drive.google.com/uc?export=download&id=1ovvSp9lqTvTXIlRqSvi6ATZIi-wLJ5RC',
+    'https://drive.google.com/uc?export=download&id=1cs6GV8_LHOeny7ezJk4cWeBXRF12wgDa',
+    'https://drive.google.com/uc?export=download&id=134h1f9TNgQgvyR7dppVczRaONOOq0S-W'
   ]}, 
 //CSS Gender Study
   { id: 103, code: 'CSS Gender Study', title: 'CSS pdf files. Gender Study download free pdf. Gender Study all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/17QJ5elNC6ZDzU2tyg_TRsMd-pPgsCkd3/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=17QJ5elNC6ZDzU2tyg_TRsMd-pPgsCkd3'
   ]},
 
 //CSS History of USA
   { id: 103, code: 'CSS History of USA', title: 'CSS pdf files. History of USA download free pdf. History of USA all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1pE1I0Ji81Aj1CKhQQZa3qZxQz3OPR9Sb/view?usp=sharing',
-    'https://drive.google.com/file/d/1ZYuKqjTBuktELk0shyy9apEfMSfmj0cj/view?usp=sharing',
-    'https://drive.google.com/file/d/1WWuff-3adfYnvjB0ogSAIiZ-x48sY3dP/view?usp=sharing',
-    'https://drive.google.com/file/d/118wlHYVa_VmOyHsqcEP107on9JDdWnF-/view?usp=sharing',
-    'https://drive.google.com/file/d/1qXIfinkdNgfca1EmnW4uOCMLWKpHwzsQ/view?usp=sharing',
-    'https://drive.google.com/file/d/1y91ZhKy6DdF6kvGVpJWe3UJ35JPuEJOs/view?usp=sharing',
-    'https://drive.google.com/file/d/1iKVXb6CtyZO4mc2qwcDgkjWAhtnfOhPk/view?usp=sharing',
-    'https://drive.google.com/file/d/1DxXrfSol7ZQPZtYyjVOWyqrgLxLq7COU/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1pE1I0Ji81Aj1CKhQQZa3qZxQz3OPR9Sb',
+    'https://drive.google.com/uc?export=download&id=1ZYuKqjTBuktELk0shyy9apEfMSfmj0cj',
+    'https://drive.google.com/uc?export=download&id=1WWuff-3adfYnvjB0ogSAIiZ-x48sY3dP',
+    'https://drive.google.com/uc?export=download&id=118wlHYVa_VmOyHsqcEP107on9JDdWnF-',
+    'https://drive.google.com/uc?export=download&id=1qXIfinkdNgfca1EmnW4uOCMLWKpHwzsQ',
+    'https://drive.google.com/uc?export=download&id=1y91ZhKy6DdF6kvGVpJWe3UJ35JPuEJOs',
+    'https://drive.google.com/uc?export=download&id=1iKVXb6CtyZO4mc2qwcDgkjWAhtnfOhPk',
+    'https://drive.google.com/uc?export=download&id=1DxXrfSol7ZQPZtYyjVOWyqrgLxLq7COU'
   ]}, 
 //CSS History of USA
   { id: 103, code: 'CSS History of USA', title: 'CSS pdf files. History of USA download free pdf. History of USA all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/17QJ5elNC6ZDzU2tyg_TRsMd-pPgsCkd3/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=17QJ5elNC6ZDzU2tyg_TRsMd-pPgsCkd3'
   ]},
 
 //CSS international relations
   { id: 103, code: 'CSS international relations', title: 'CSS pdf files. international relations download free pdf. international relations all files.', category: 'css', image: '📊',links:[
-  'https://drive.google.com/file/d/1f6JeuIwS37f-ebcjY4opuACxpZhT_Hs0/view?usp=sharing',
-  'https://drive.google.com/file/d/1ag7SOFmu8469lo9WYv6Zv3ZxABrczX3K/view?usp=sharing',
-  'https://drive.google.com/file/d/1UE8uy_WMhtU2DTglhT8yg1aOih5IT_q7/view?usp=sharing',
-  'https://drive.google.com/file/d/1bvzNGQcfMnrb-5sDChOYvECElAuZxfux/view?usp=sharing',
-  'https://drive.google.com/file/d/1P19-tlpFT6Yj81xKzp5jPunrwjrkhlTr/view?usp=sharing',
-  'https://drive.google.com/file/d/1p0Zv_Ma8Xgn5EHcPMMnaotEfu8i9dZ73/view?usp=sharing',
-  'https://drive.google.com/file/d/1-Ma8hVBmjMiwAmWVnU3miacGP5-8Jxl5/view?usp=sharing',
-  'https://drive.google.com/file/d/18Uj9Oc5r9ycv6bLav0fN42EXAziAUPUg/view?usp=sharing'
+  'https://drive.google.com/uc?export=download&id=1f6JeuIwS37f-ebcjY4opuACxpZhT_Hs0',
+  'https://drive.google.com/uc?export=download&id=1ag7SOFmu8469lo9WYv6Zv3ZxABrczX3K',
+  'https://drive.google.com/uc?export=download&id=1UE8uy_WMhtU2DTglhT8yg1aOih5IT_q7',
+  'https://drive.google.com/uc?export=download&id=1bvzNGQcfMnrb-5sDChOYvECElAuZxfux',
+  'https://drive.google.com/uc?export=download&id=1P19-tlpFT6Yj81xKzp5jPunrwjrkhlTr',
+  'https://drive.google.com/uc?export=download&id=1p0Zv_Ma8Xgn5EHcPMMnaotEfu8i9dZ73',
+  'https://drive.google.com/uc?export=download&id=1-Ma8hVBmjMiwAmWVnU3miacGP5-8Jxl5',
+  'https://drive.google.com/uc?export=download&id=18Uj9Oc5r9ycv6bLav0fN42EXAziAUPUg'
   ]},
 //CSS international relations
   { id: 103, code: 'CSS international relations', title: 'CSS pdf files. international relations download free pdf. international relations all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/14mIgQzUrvX5s_khxPSlOykoDLS5qYGQt/view?usp=sharing',
+    'https://drive.google.com/uc?export=download&id=14mIgQzUrvX5s_khxPSlOykoDLS5qYGQt',
     'https://docs.google.com/document/d/1HjmfTgu0BHR3ZEIy4t42WS7e-ydXpAvN/edit?usp=sharing&ouid=115636303576237109989&rtpof=true&sd=true',
-    'https://drive.google.com/file/d/1LiXGBwVHwmyCwF9nkBuzVEy3Byg3rh6E/view?usp=sharing',
-    'https://drive.google.com/file/d/1Yf3MsZ71_iF69fyzTTn2qVVBl3pk1tWT/view?usp=sharing',
-    'https://drive.google.com/file/d/1b_BLp9pD66SM7vyWmXaRoBXegZQYVtpf/view?usp=sharing',
-    'https://drive.google.com/file/d/1OGiopYmzP2Ity1yPirQW-MY_hckXB2LF/view?usp=sharing',
-    'https://drive.google.com/file/d/1PD0ib2XqbPV0XpHYR6dYdoNmQjVhDQbO/view?usp=sharing',
-    'https://drive.google.com/file/d/12mSxCsQZ2LJY_c4hSWyt3cL0DfSqobj-/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1LiXGBwVHwmyCwF9nkBuzVEy3Byg3rh6E',
+    'https://drive.google.com/uc?export=download&id=1Yf3MsZ71_iF69fyzTTn2qVVBl3pk1tWT',
+    'https://drive.google.com/uc?export=download&id=1b_BLp9pD66SM7vyWmXaRoBXegZQYVtpf',
+    'https://drive.google.com/uc?export=download&id=1OGiopYmzP2Ity1yPirQW-MY_hckXB2LF',
+    'https://drive.google.com/uc?export=download&id=1PD0ib2XqbPV0XpHYR6dYdoNmQjVhDQbO',
+    'https://drive.google.com/uc?export=download&id=12mSxCsQZ2LJY_c4hSWyt3cL0DfSqobj-'
   ]},
 //CSS international relations 
 { id: 103, code: 'CSS international relations', title: 'CSS pdf files. international relations download free pdf. international relations all files.', category: 'css', image: '📊',links:[
-  'https://drive.google.com/file/d/1SM95jP1QkGvcWs7B0qDihnW45S-1J9l4/view?usp=sharing',
-  'https://drive.google.com/file/d/1SQVFZabxGxvyyhHlIY0iQXP41snPS-5H/view?usp=sharing',
-  'https://drive.google.com/file/d/10ZhtcSfBvvvA5dFyAOGVTXsO24p581BV/view?usp=sharing',
-  'https://drive.google.com/file/d/1qEFh40PUQk2uF7v_1X84eCcWqI6Pobd3/view?usp=sharing',
-  'https://drive.google.com/file/d/1tjYDVxNpwPujDRWqshkJXDqvBNKZM9A6/view?usp=sharing',
-  'https://drive.google.com/file/d/1xaTsO4EJhqOLv5kjS_SDPc2optItMVKw/view?usp=sharing',
-  'https://drive.google.com/file/d/1e8nicuiEyo4xEXxvF6V-IAd858wl9X8V/view?usp=sharing',
-  'https://drive.google.com/file/d/19Jgpp52DzcBbRkuX0U5lr9lRy_fMG21M/view?usp=sharing'
+  'https://drive.google.com/uc?export=download&id=1SM95jP1QkGvcWs7B0qDihnW45S-1J9l4',
+  'https://drive.google.com/uc?export=download&id=1SQVFZabxGxvyyhHlIY0iQXP41snPS-5H',
+  'https://drive.google.com/uc?export=download&id=10ZhtcSfBvvvA5dFyAOGVTXsO24p581BV',
+  'https://drive.google.com/uc?export=download&id=1qEFh40PUQk2uF7v_1X84eCcWqI6Pobd3',
+  'https://drive.google.com/uc?export=download&id=1tjYDVxNpwPujDRWqshkJXDqvBNKZM9A6',
+  'https://drive.google.com/uc?export=download&id=1xaTsO4EJhqOLv5kjS_SDPc2optItMVKw',
+  'https://drive.google.com/uc?export=download&id=1e8nicuiEyo4xEXxvF6V-IAd858wl9X8V',
+  'https://drive.google.com/uc?export=download&id=19Jgpp52DzcBbRkuX0U5lr9lRy_fMG21M'
 ]},
 
 //CSS Pakistan Affairs
   { id: 103, code: 'CSS Pakistan Affairs', title: 'CSS pdf files. Pakistan Affairs download free pdf. Pakistan Affairs all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1PdEsTgnVfZyEV_7CoJXdBbrBNW0pqiYv/view?usp=sharing',
-    'https://drive.google.com/file/d/1Ca63bLOAleSJCdu3WAi0207PyQYGAuKM/view?usp=sharing',
-    'https://drive.google.com/file/d/1AROa0-3Gd1JyWB4uCzLqNS0o20uo0Sb1/view?usp=sharing',
-    'https://drive.google.com/file/d/17gxdCyc6I5N_xiz53lX9t9RJQG92uJwA/view?usp=sharing',
-    'https://drive.google.com/file/d/1aFBIKC2GlIV6xX82xplAqt3uU9-HrwQ-/view?usp=sharing',
-    'https://drive.google.com/file/d/16-ods2O8QybxlHeX2RAZjDH-nYMbyhDw/view?usp=sharing',
-    'https://drive.google.com/file/d/1qENqW-IJ7633iJNjEVEUjRuHOVTR7SL9/view?usp=sharing',
-    'https://drive.google.com/file/d/1PzCZ1onD0N5yQZV0dFEgZzhPmZC7gSX6/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1PdEsTgnVfZyEV_7CoJXdBbrBNW0pqiYv',
+    'https://drive.google.com/uc?export=download&id=1Ca63bLOAleSJCdu3WAi0207PyQYGAuKM',
+    'https://drive.google.com/uc?export=download&id=1AROa0-3Gd1JyWB4uCzLqNS0o20uo0Sb1',
+    'https://drive.google.com/uc?export=download&id=17gxdCyc6I5N_xiz53lX9t9RJQG92uJwA',
+    'https://drive.google.com/uc?export=download&id=1aFBIKC2GlIV6xX82xplAqt3uU9-HrwQ-',
+    'https://drive.google.com/uc?export=download&id=16-ods2O8QybxlHeX2RAZjDH-nYMbyhDw',
+    'https://drive.google.com/uc?export=download&id=1qENqW-IJ7633iJNjEVEUjRuHOVTR7SL9',
+    'https://drive.google.com/uc?export=download&id=1PzCZ1onD0N5yQZV0dFEgZzhPmZC7gSX6'
   ]},
 
 //CSS Pakistan Affairs
   { id: 103, code: 'CSS Pakistan Affairs', title: 'CSS pdf files. Pakistan Affairs download free pdf. Pakistan Affairs all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1A34f7Da0PKWrgiLoVvIpB9VVMmaw4oha/view?usp=sharing',
-    'https://drive.google.com/file/d/1yTKHEqRvMfOv1Ki9j0L6SDdKC-WlRGwq/view?usp=sharing',
-    'https://drive.google.com/file/d/1784-R5K6PF-yNqk2fNKmfiH4bSmzxZvz/view?usp=sharing',
-    'https://drive.google.com/file/d/1ESFGH2azKdwME6q5mF7rMixr3RY-yWVG/view?usp=sharing',
-    'https://drive.google.com/file/d/13nEUTXFAV8bwXpsZVZJlRsWTYM7UvJXA/view?usp=sharing',
-    'https://drive.google.com/file/d/15NvbzSIqlQd_Q_lJJ_m3UMcwTcC0njPN/view?usp=sharing',
-    'https://drive.google.com/file/d/1Umt-YrzfbMf1b-c9o85q7fdl8uYC7UlY/view?usp=sharing',
-    'https://drive.google.com/file/d/1FxlCksF-7RVRxzE2aJi-zSj8nDFRw9kE/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1A34f7Da0PKWrgiLoVvIpB9VVMmaw4oha',
+    'https://drive.google.com/uc?export=download&id=1yTKHEqRvMfOv1Ki9j0L6SDdKC-WlRGwq',
+    'https://drive.google.com/uc?export=download&id=1784-R5K6PF-yNqk2fNKmfiH4bSmzxZvz',
+    'https://drive.google.com/uc?export=download&id=1ESFGH2azKdwME6q5mF7rMixr3RY-yWVG',
+    'https://drive.google.com/uc?export=download&id=13nEUTXFAV8bwXpsZVZJlRsWTYM7UvJXA',
+    'https://drive.google.com/uc?export=download&id=15NvbzSIqlQd_Q_lJJ_m3UMcwTcC0njPN',
+    'https://drive.google.com/uc?export=download&id=1Umt-YrzfbMf1b-c9o85q7fdl8uYC7UlY',
+    'https://drive.google.com/uc?export=download&id=1FxlCksF-7RVRxzE2aJi-zSj8nDFRw9kE'
   ]},
 //CSS Pakistan Affairs
   { id: 103, code: 'CSS Pakistan Affairs', title: 'CSS pdf files. Pakistan Affairs download free pdf. Pakistan Affairs all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1bGpE2IP19yQkeMxCkvtXX8hKRWpTi7EG/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1bGpE2IP19yQkeMxCkvtXX8hKRWpTi7EG'
   ]},
 //CSS Philosophy
   { id: 103, code: 'CSS Philosophy', title: 'CSS pdf files. Philosophy download free pdf. Philosophy all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1BNb49qVmLvyX0UjnaOkVZMq7mNIbiB-8/view?usp=sharing',
-    'https://drive.google.com/file/d/13IyCg2dGKPHZvXKKbrz6XK0mE-yOGojZ/view?usp=sharing',
-    'https://drive.google.com/file/d/1hdbiWX7iNPeplgwANnzpMJBqpEpftIOR/view?usp=sharing',
-    'https://drive.google.com/file/d/1vzn9s30wgJHludR24cStBXfjiG_UKaXh/view?usp=sharing',
-    'https://drive.google.com/file/d/1iAlpkdf7bsaZsvb64t4zUou39DvkG-yo/view?usp=sharing',
-    'https://drive.google.com/file/d/1FY_w2oxDiZMBeskn41lAEiBlUPNWA8u7/view?usp=sharing',
-    'https://drive.google.com/file/d/1fqKaDQ0q5mZ3Mc0otm55ZWOFOhfZJZtN/view?usp=sharing',
-    'https://drive.google.com/file/d/1ZvcoDhvZxLAp8GBPqpNHRlkhfe7ZRsM4/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1BNb49qVmLvyX0UjnaOkVZMq7mNIbiB-8',
+    'https://drive.google.com/uc?export=download&id=13IyCg2dGKPHZvXKKbrz6XK0mE-yOGojZ',
+    'https://drive.google.com/uc?export=download&id=1hdbiWX7iNPeplgwANnzpMJBqpEpftIOR',
+    'https://drive.google.com/uc?export=download&id=1vzn9s30wgJHludR24cStBXfjiG_UKaXh',
+    'https://drive.google.com/uc?export=download&id=1iAlpkdf7bsaZsvb64t4zUou39DvkG-yo',
+    'https://drive.google.com/uc?export=download&id=1FY_w2oxDiZMBeskn41lAEiBlUPNWA8u7',
+    'https://drive.google.com/uc?export=download&id=1fqKaDQ0q5mZ3Mc0otm55ZWOFOhfZJZtN',
+    'https://drive.google.com/uc?export=download&id=1ZvcoDhvZxLAp8GBPqpNHRlkhfe7ZRsM4'
   ]},
 
 //CSS Philosophy
   { id: 103, code: 'CSS Philosophy', title: 'CSS pdf files. Philosophy download free pdf. Philosophy all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1WKgVRS0LZ2d0kLOtvuitfWHfm6UBOErt/view?usp=sharing',
-    'https://drive.google.com/file/d/1EOB4QIjl54KQz_SGWHLjSkVMqv0yEXS4/view?usp=sharing',
-    'https://drive.google.com/file/d/1bEzUyx1laFwIAED1Ss7Y9bRSF36TKe78/view?usp=sharing',
-    'https://drive.google.com/file/d/1NCN6cJmt6Mf2IcJAVLYLopd674wXG3GK/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1WKgVRS0LZ2d0kLOtvuitfWHfm6UBOErt',
+    'https://drive.google.com/uc?export=download&id=1EOB4QIjl54KQz_SGWHLjSkVMqv0yEXS4',
+    'https://drive.google.com/uc?export=download&id=1bEzUyx1laFwIAED1Ss7Y9bRSF36TKe78',
+    'https://drive.google.com/uc?export=download&id=1NCN6cJmt6Mf2IcJAVLYLopd674wXG3GK'
   ]},
 //CSS Public Administration
   { id: 103, code: 'CSS Public Administration', title: 'CSS pdf files. Public Administration download free pdf. Public Administration all files.', category: 'css', image: '📊',links:[
-  'https://drive.google.com/file/d/1gxOkxigdY9XTSEoC5KAiK6-vU-mHlR4O/view?usp=sharing',
-  'https://drive.google.com/file/d/1QhKFfwob16SkTMzlPRdlUJsmLVb_NiKo/view?usp=sharing',
-  'https://drive.google.com/file/d/1YyG__R47WemeYookmEBk6DVIbyTISMNL/view?usp=sharing'
+  'https://drive.google.com/uc?export=download&id=1gxOkxigdY9XTSEoC5KAiK6-vU-mHlR4O',
+  'https://drive.google.com/uc?export=download&id=1QhKFfwob16SkTMzlPRdlUJsmLVb_NiKo',
+  'https://drive.google.com/uc?export=download&id=1YyG__R47WemeYookmEBk6DVIbyTISMNL'
   ]},
 //Political Science card 01
   { id: 103, code: 'CSS political science', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
@@ -933,29 +933,29 @@ export const finalTermDataPart2 = [
 
 //CSS Sociology
   { id: 103, code: 'CSS Sociology', title: 'CSS pdf files. Sociology download free pdf. Sociology all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/1eZdupQOKVqD79jRh_b8Ip4RgLB5rd4Lj/view?usp=sharing',
-    'https://drive.google.com/file/d/1QCmswtQ9SM8CfXhPOI-7hd1YdmLkpRp-/view?usp=sharing',
-    'https://drive.google.com/file/d/1ssrVoSVW8L4sgeG0PpDYUyRm9XdLUeQJ/view?usp=sharing',
-    'https://drive.google.com/file/d/18MuoBXcZyC-MBcw_oLJJq39gIua4cgur/view?usp=sharing',
-    'https://drive.google.com/file/d/1_RJr8ZRvxmCArmpGdQ2iRQUM_oAqBfUU/view?usp=sharing',
-    'https://drive.google.com/file/d/12jl2bB7dVaNp7qZ6K9fqNZY4PBmXyyrA/view?usp=sharing',
-    'https://drive.google.com/file/d/1GWdmt5JfQtnDKP4wpmnFCjkiXXHY5HlI/view?usp=sharing',
-    'https://drive.google.com/file/d/1LsBpoGcv1ckiP8txGMInF7XRFx4Bxsmm/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=1eZdupQOKVqD79jRh_b8Ip4RgLB5rd4Lj',
+    'https://drive.google.com/uc?export=download&id=1QCmswtQ9SM8CfXhPOI-7hd1YdmLkpRp-',
+    'https://drive.google.com/uc?export=download&id=1ssrVoSVW8L4sgeG0PpDYUyRm9XdLUeQJ',
+    'https://drive.google.com/uc?export=download&id=18MuoBXcZyC-MBcw_oLJJq39gIua4cgur',
+    'https://drive.google.com/uc?export=download&id=1_RJr8ZRvxmCArmpGdQ2iRQUM_oAqBfUU',
+    'https://drive.google.com/uc?export=download&id=12jl2bB7dVaNp7qZ6K9fqNZY4PBmXyyrA',
+    'https://drive.google.com/uc?export=download&id=1GWdmt5JfQtnDKP4wpmnFCjkiXXHY5HlI',
+    'https://drive.google.com/uc?export=download&id=1LsBpoGcv1ckiP8txGMInF7XRFx4Bxsmm'
   ]},
 //CSS Sociology
 { id: 103, code: 'CSS Sociology', title: 'CSS pdf files. Sociology download free pdf. Sociology all files.', category: 'css', image: '📊',links:[
-  'https://drive.google.com/file/d/1_KAJeng24M-ZhYW4BmgIUw60Gk35w5K3/view?usp=sharing',
-  'https://drive.google.com/file/d/1G2kgJMwaHGue219t1itEaQEHlDpveUl9/view?usp=sharing',
-  'https://drive.google.com/file/d/1_OLE4ahBzhd7FvviaaGLVrcy1zFfVUlq/view?usp=sharing',
-  'https://drive.google.com/file/d/1CzRG6zqdKq5AM1gYLblHjKsop1SOeiPr/view?usp=sharing',
-  'https://drive.google.com/file/d/1gQ5gZ4wVMK6nN0AS8yktN7Hl1Yw1tGVt/view?usp=sharing',
-  'https://drive.google.com/file/d/1c_DZRHCfuMHxSNEtd99B48U0eSeiGdO2/view?usp=sharing'
+  'https://drive.google.com/uc?export=download&id=1_KAJeng24M-ZhYW4BmgIUw60Gk35w5K3',
+  'https://drive.google.com/uc?export=download&id=1G2kgJMwaHGue219t1itEaQEHlDpveUl9',
+  'https://drive.google.com/uc?export=download&id=1_OLE4ahBzhd7FvviaaGLVrcy1zFfVUlq',
+  'https://drive.google.com/uc?export=download&id=1CzRG6zqdKq5AM1gYLblHjKsop1SOeiPr',
+  'https://drive.google.com/uc?export=download&id=1gQ5gZ4wVMK6nN0AS8yktN7Hl1Yw1tGVt',
+  'https://drive.google.com/uc?export=download&id=1c_DZRHCfuMHxSNEtd99B48U0eSeiGdO2'
 ]},
 //CSS Zoology
   { id: 103, code: 'CSS Zoology', title: 'CSS pdf files. Zoology download free pdf. Zoology all files.', category: 'css', image: '📊',links:[
-    'https://drive.google.com/file/d/13JsBRC4M1j6MIzZLWQRTlcNB3pmxsO3z/view?usp=sharing',
-    'https://drive.google.com/file/d/13neY-tSWSw5arX9X8Sw_6-XEcZxsPE0e/view?usp=sharing',
-    'https://drive.google.com/file/d/13SMRpXoA-VjRlnTe1isSxvK0cdPLPhlN/view?usp=sharing'
+    'https://drive.google.com/uc?export=download&id=13JsBRC4M1j6MIzZLWQRTlcNB3pmxsO3z',
+    'https://drive.google.com/uc?export=download&id=13neY-tSWSw5arX9X8Sw_6-XEcZxsPE0e',
+    'https://drive.google.com/uc?export=download&id=13SMRpXoA-VjRlnTe1isSxvK0cdPLPhlN'
   ]},
 
 
