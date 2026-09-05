@@ -606,7 +606,25 @@ export const finalTermDataPart2 = [
   //css portion start here
 
   //CSS - Central Superior Services
-  { id: 103, code: 'CSS', title: 'CSS pdf files. international law download free pdf.international law by MalcolmShaw’s. international law sixth edition', category: 'css', image: '📊',links:[
+  //CSS Accounting & Auditing
+{ id: 103, code: 'CSS Accounting & Auditing', title: 'CSS pdf files. download free pdf. Accounting and auditing.', category: 'css', image: '📊',links:[
+  'https://drive.google.com/file/d/1i-nbY0LkQ9JexDyTWCFcZv_l7Vu69KX6/view?usp=sharing',
+  'https://drive.google.com/file/d/1uOSKUzQCfDJxnN6F6hPlMsaFRPH1BWAW/view?usp=sharing',
+  'https://drive.google.com/file/d/1Pj8aYHY3FZFYc1p-D20sjPvSS9WsbqP_/view?usp=sharing',
+  'https://drive.google.com/file/d/1ClEIjqD1xElpiJgTV8hUZ64dRumOInOx/view?usp=sharing',
+  'https://drive.google.com/file/d/1fmzK2glAeNVm31IMUI82hKcomvP3_ED0/view?usp=sharing',
+  'https://drive.google.com/file/d/1osIJ1NPAA0pr3fH5ddckAujGf49-Uo6L/view?usp=sharing',
+  'https://drive.google.com/file/d/1Y_EMaeEQm08vVWZ5ixVaQWIyTpdoQv5X/view?usp=sharing',
+  'https://drive.google.com/file/d/13iVkLFqAnzFf7jNoHQPf_BNuQ6jcVsv8/view?usp=sharing'
+]},
+
+//CSS Accounting & Auditing
+{ id: 103, code: 'CSS Accounting & Auditing', title: 'CSS pdf files. download free pdf. Accounting and auditing.', category: 'css', image: '📊',links:[
+  ''
+]},
+
+//CSS International law
+  { id: 103, code: 'CSS International law', title: 'CSS pdf files. international law download free pdf.international law by MalcolmShaw’s. international law sixth edition', category: 'css', image: '📊',links:[
     'https://drive.google.com/uc?export=download&id=1OFi1K1cm8IdZgKjZN-MNlN4jVAUN1LeA',
     'https://drive.google.com/uc?export=download&id=1ROXp5QdGo2r7JOmt2sZbi_OPw2merhLQ',
     'https://drive.google.com/uc?export=download&id=1nlfP65OIlDKNE-zSZNM9Fo8ekw8re8oc',
@@ -618,7 +636,7 @@ export const finalTermDataPart2 = [
   ]},
 
 //Current Affaire
-  { id: 103, code: 'CSS', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
+  { id: 103, code: 'CSS current affairs', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
    'https://drive.google.com/uc?export=download&id=11emcl2IqYxkQvazJebaIumZClL4RI_Rb',
    'https://drive.google.com/uc?export=download&id=1sjYGocculINrRPujcw-kxnTaEnN9Nj4Q',
    'https://drive.google.com/uc?export=download&id=1fZ838Q5nx26JfILDjabHMz3xblZLi86y',
@@ -629,13 +647,13 @@ export const finalTermDataPart2 = [
    'https://drive.google.com/uc?export=download&id=1SCPXZb25kmpakmF0atTQ_7VWPeE3KyUH'
   ]},
 //Current Affaire
-  { id: 103, code: 'CSS', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
+  { id: 103, code: 'CSS current affairs', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
    'https://drive.google.com/uc?export=download&id=1Lb_X2_YF5xIfOELpJ-xWUy0yWI-HdY1X',
    'https://drive.google.com/uc?export=download&id=1CzVzyI3i8-_ShnDisf3lXyVUP_99OOMj'
   ]},
 
   //Political Science card 01
-  { id: 103, code: 'CSS', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
+  { id: 103, code: 'CSS political science', title: 'CSS pdf files. political science download free pdf. political science free pdf', category: 'css', image: '📊',links:[
 
   ]}
 ];
