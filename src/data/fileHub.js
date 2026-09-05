@@ -713,7 +713,25 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1ujgw3LcgELdI3e2-MD1CH_sIDNE8H_vT/view?usp=sharing',
     'https://drive.google.com/file/d/1qIzUQX1TISkvpB9dcwFYMpxhMbgQH4qr/view?usp=sharing'
   ]},
+//CSS Comparative study of major religions
+  { id: 103, code: 'CSS Comparative study of major religions', title: 'CSS pdf files. Comparative study of major religions download free pdf. Comparative study of major religions all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1XfkLN23MhCt8q_0G-8_x0Y8hWQR4lZuT/view?usp=sharing',
+    'https://drive.google.com/file/d/17Y_0Q08nmcBqM-h9Uq8r8RRepxC1YPxK/view?usp=sharing',
+    'https://drive.google.com/file/d/1BXQmHWzXTyxUUN2FnIAilgO4ETO2CJM_/view?usp=sharing',
+    'https://drive.google.com/file/d/1zjHXm9Smug0dEHwIKiyT_wM9NtC9zEGr/view?usp=sharing',
+    'https://drive.google.com/file/d/1T7O4cVUZqxNZtbD_IBB9qx6DFHKxcV-y/view?usp=sharing',
+    'https://drive.google.com/file/d/1z_GpL9UM9c43pT4jO7QCxsQoQka-Vh7O/view?usp=sharing',
+    'https://drive.google.com/file/d/18AmAHcEE2m24biWlEROjLHO3z920fO25/view?usp=sharing',
+    'https://drive.google.com/file/d/1VKEJ--mooWa4PM5PyNXQuk2IPxUOdC9e/view?usp=sharing'
+  ]},
 
+
+//CSS Comparative study of major religions
+  { id: 103, code: 'CSS Comparative study of major religions', title: 'CSS pdf files. Comparative study of major religions download free pdf. Comparative study of major religions all files.', category: 'css', image: '📊',links:[
+    'https://drive.google.com/file/d/1608YlEdswIRgHDD2wkxdAwv6yDZi8u1Z/view?usp=sharing',
+    'https://drive.google.com/file/d/1pwjA8xG8Vw2IhEZXvsvGUEwnSRrdFpcx/view?usp=sharing',
+    'https://drive.google.com/file/d/1MRYEsvfXqzdywPrhk26ei0112672khtT/view?usp=sharing'
+  ]},
 //Current Affaire
   { id: 103, code: 'CSS current affairs', title: 'CSS pdf files. Current affairs download free pdf.Current affairs all files.', category: 'css', image: '📊',links:[
    'https://drive.google.com/uc?export=download&id=11emcl2IqYxkQvazJebaIumZClL4RI_Rb',
