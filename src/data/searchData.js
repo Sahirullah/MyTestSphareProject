@@ -2,7 +2,7 @@
 export const searchData = [
   // VU Handouts
   { id: 1, title: 'VU Handouts', category: 'Handouts', path: '/vu-handout', keywords: ['handout', 'vu', 'notes', 'lecture', 'material'] },
-  { id: 2, title: 'Highlighted Handout', category: 'Handouts', path: '/highlighted-handout', keywords: ['highlighted', 'handout', 'notes', 'important'] },
+  { id: 2, title: 'School Base', category: 'Handouts', path: '/highlighted-handout', keywords: ['highlighted', 'handout', 'notes', 'important'] },
   
   // Exams & Tests
   { id: 3, title: 'Midterm Files', category: 'Exams', path: '/midterm', keywords: ['midterm', 'exam', 'papers', 'test', 'past papers'] },

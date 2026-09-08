@@ -2,22 +2,22 @@ import { useState } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { useTheme } from '../context/ThemeContext';
-import { allBooksData, allBooksCategories } from '../data/allBooksData';
+import { schoolBaseData, schoolBaseCategories } from '../data/schoolBaseData';
 import './HighlightedHandout.css';
 
 const HighlightedHandout = () => {
   const { isDarkMode } = useTheme();
   const [selectedCategory, setSelectedCategory] = useState('all');
 
-  const handouts = allBooksData.map(item => ({
+  const handouts = schoolBaseData.map(item => ({
     ...item,
-    description: `Highlighted and annotated VU handouts for ${item.title} (${item.code}) in PDF Format. Key points emphasized for better understanding.`,
-    status: 'Highlighted Notes',
+    description: `School base material for ${item.title} (${item.code}) in PDF Format. Key points emphasized for better understanding.`,
+    status: 'School Base',
     hasLecture: true,
     isHighlighted: true
   })).sort((a, b) => a.code.localeCompare(b.code));
 
-  const categories = allBooksCategories;
+  const categories = schoolBaseCategories;
 
   const filteredHandouts = selectedCategory === 'all' 
     ? handouts 
@@ -30,7 +30,7 @@ const HighlightedHandout = () => {
       <div className="handout-hero">
         <div className="hero-content">
           <div className="hero-icon">⭐</div>
-          <h1>HIGHLIGHTED HANDOUT</h1>
+          <h1>SCHOOL BASE</h1>
           <p>VU Handouts with Key Points Emphasized and Annotated</p>
         </div>
       </div>
