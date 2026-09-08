@@ -806,6 +806,7 @@ export const examPracticeData = [
 
   //International law
   { id: 26, code: 'intlaw', title: 'International law free mock test practice', category: 'intlaw', image: '🎓', questions: generateCourseQuestions('Physics'), totalQuestions: 50 },
+  //CS Mock test section start here
   { id: 27, code: 'CS202', title: 'Computer Science 202 free mock test practice for midterm', category: 'cs', image: '💻', questions: [
   { "question": "1) HTTP stand for ______________ .", "options": ["Html text transfer protocol", "Hyper transfer text protocol", "Hyper Text Transfer Protocol"], "correct": 2 },
   { "question": "2 ) HTML stand for ______________ .", "options": ["Hyper text model language", "Hyper text modern language", "Hyper text markup language"], "correct": 2 },
@@ -835,8 +836,35 @@ export const examPracticeData = [
   { "question": "30) How many types of audio we can insert in HTML?", "options": ["2", "3 (ogg , mp3 , wav)", "4"], "correct": 1 },
   { "question": "31) Onblur , Onfocus are__________.", "options": ["<event attribute>", "<html element>", "<style attribute>"], "correct": 0 },
   { "question": "32) To add spaces to your text you can use the _______________ character entity?", "options": ["&space;", "&coyp;", "&nbsp;"], "correct": 2 },
-  { "question": "33) Element use to highlight the text .", "options": ["<highlight>", "<colored>", "<mark>"], "correct": 2 }
-] },
+  { "question": "33) Element use to highlight the text .", "options": ["<highlight>", "<colored>", "<mark>"], "correct": 2 },
+  { "question": "34. What does HTML stand for?", "options": ["Hyper Text Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language"], "correct": 0 },
+  { "question": "35. Who is making the Web standards?", "options": ["Microsoft", "The World Wide Web Consortium", "Google", "Mozilla"], "correct": 1 },
+  { "question": "36. Choose the correct HTML element for the largest heading:", "options": ["<h1>", "<h6>", "<head>", "<heading>"], "correct": 0 },
+  { "question": "37. What is the correct HTML element for inserting a line break?", "options": ["<lb>", "<br>", "<break>"], "correct": 1 },
+  { "question": "38. What is the correct HTML for adding a background color?", "options": ["<background>yellow</background>", "<body style=\"background-color:yellow;\">", "<body bg=\"yellow\">"], "correct": 1 },
+  { "question": "39. Choose the correct HTML element to define important text", "options": ["<strong>", "<important>", "<b>", "<i>"], "correct": 0 },
+  { "question": "40. Choose the correct HTML element to define emphasized text", "options": ["<i>", "<em>", "<italic>"], "correct": 1 },
+  { "question": "41. What is the correct HTML for creating a hyperlink?", "options": ["<a name=\"http:// www.vukiduniya.blogspot.com\"> VuKiDuniya.com</a>", "<a>http:// www.vukiduniya.blogspot.com </a>", "<a url=\"http://www.vukiduniya.blogspot.com\"> VuKiDuniya.com</a>", "<a href=\"http:// www.vukiduniya.blogspot.com \">Vu Ki Duniya</a>"], "correct": 3 },
+  { "question": "42. Which character is used to indicate an end tag?", "options": ["^", "/", "<", "*"], "correct": 1 },
+  { "question": "43. How can you open a link in a new tab/browser window?", "options": ["<a href=\"url\" target=\"new\">", "<a href=\"url\" new>", "<a href=\"url\" target=\"_blank\">"], "correct": 2 },
+  { "question": "44. Which of these elements are all <table> elements?", "options": ["<table><tr><tt>", "<thead><body><tr>", "<table><tr><td>", "<table><head><tfoot>"], "correct": 2 },
+  { "question": "45. How can you make a numbered list?", "options": ["<list>", "<dl>", "<ol>", "<ul>"], "correct": 2 },
+  { "question": "46. How can you make a bulleted list?", "options": ["<ol>", "<dl>", "<ul>", "<list>"], "correct": 2 },
+  { "question": "47. What is the correct HTML for making a checkbox?", "options": ["<input type=\"checkbox\">", "<check>", "<input type=\"check\">", "<checkbox>"], "correct": 0 },
+  { "question": "48. What is the correct HTML for making a text input field?", "options": ["<textfield>", "<input type=\"textfield\">", "<input type=\"text\">", "<textinput type=\"text\">"], "correct": 2 },
+  { "question": "49. What is the correct HTML for making a drop-down list?", "options": ["<input type=\"list\">", "<list>", "<select>", "<input type=\"dropdown\">"], "correct": 2 },
+  { "question": "50. What is the correct HTML for making a text area?", "options": ["<input type=\"textarea\">", "<textarea>", "<input type=\"textbox\">"], "correct": 1 },
+  { "question": "51. What is the correct HTML for inserting an image?", "options": ["<img src=\"image.gif\" alt=\"MyImage\">", "<image src=\"image.gif\" alt=\"MyImage\">", "<img alt=\"MyImage\">image.gif</img>", "<img href=\"image.gif\" alt=\"MyImage\">"], "correct": 0 },
+  { "question": "52. What is the correct HTML for inserting a background image?", "options": ["<body style=\"background-image:url(background.gif)\">", "<body bg=\"background.gif\">", "<background img=\"background.gif\">"], "correct": 0 },
+  { "question": "53. Which HTML element defines the title of a document?", "options": ["<head>", "<title>", "<meta>"], "correct": 1 },
+  { "question": "54. Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?", "options": ["longdesc", "title", "src", "alt"], "correct": 3 },
+  { "question": "55. Which doctype is correct for HTML5?", "options": ["<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 5.0//EN\" \"http://www.w3.org/TR/html5/strict.dtd\">", "<!DOCTYPE html>", "<!DOCTYPE HTML5>"], "correct": 1 },
+  { "question": "56. Which HTML element is used to specify a footer for a document or section?", "options": ["<section>", "<bottom>", "<footer>"], "correct": 2 },
+  { "question": "57. What is the correct HTML element for playing video files?", "options": ["<movie>", "<media>", "<video>"], "correct": 2 },
+  { "question": "58. What is the correct HTML element for playing audio files?", "options": ["<audio>", "<sound>", "<mp3>"], "correct": 0 },
+  { "question": "59. The HTML global attribute, \"contenteditable\" is used to:", "options": ["Specify whether the content of an element should be editable or not", "Return the position of the first found occurrence of content inside a string", "Specifies a context menu for an element. The menu appears when a user right-clicks on the element", "Update content from the server"], "correct": 0 },
+  { "question": "60. In HTML, onblur and onfocus are:", "options": ["Event attributes", "HTML elements", "Style attributes"], "correct": 0 }
+]},
 
 
 ];
