@@ -806,6 +806,37 @@ export const examPracticeData = [
 
   //International law
   { id: 26, code: 'intlaw', title: 'International law free mock test practice', category: 'intlaw', image: '🎓', questions: generateCourseQuestions('Physics'), totalQuestions: 50 },
+  { id: 27, code: 'CS202', title: 'Computer Science 202 free mock test practice for midterm', category: 'cs', image: '💻', questions: [
+  { "question": "1) HTTP stand for ______________ .", "options": ["Html text transfer protocol", "Hyper transfer text protocol", "Hyper Text Transfer Protocol"], "correct": 2 },
+  { "question": "2 ) HTML stand for ______________ .", "options": ["Hyper text model language", "Hyper text modern language", "Hyper text markup language"], "correct": 2 },
+  { "question": "3) Who is making the web standrads?", "options": ["microsoft", "google", "World wide web consortium"], "correct": 2 },
+  { "question": "4) Choose the correct HTML element for the largest heading.", "options": ["<h1>", "<h4>", "<h6>"], "correct": 0 },
+  { "question": "5) Which is the correct HTML element for inserting the line break?", "options": ["<lb>", "<break>", "<br>"], "correct": 2 },
+  { "question": "6) Which one is the correct method to add the background colour?", "options": ["<background>red <background>", "<body style=”background-color : red ;”>", "<body style=”background_colour : red ;”>", "<body bg_color : red;”>"], "correct": 1 },
+  { "question": "7) Choose the correct HTML element to define the important text.", "options": ["<important>", "<strong>", "<lighted>"], "correct": 1 },
+  { "question": "8) Choose the correct HTML element to define the emphasized text.", "options": ["<i>", "<emphasized>", "<em>"], "correct": 2 },
+  { "question": "9) Which character indicate the html end tag.", "options": ["<", ">", "End", "/"], "correct": 3 },
+  { "question": "10) Choose the correct HTML element for creating the hyperlink.", "options": ["<a> http://www.google.com</a>", "<a href=“http://www.google.com”> google </a>", "<a style=“http://www.google.com”> google</a>"], "correct": 1 },
+  { "question": "11) How can you set a link that should open in new tab / browser window?", "options": ["<a tab = new > http://www.google.com</a>", "<a href=\"http://www.google.com\" target=\"_blank\"> google </a>", "<a style=“http://www.google.com” new> google</a>"], "correct": 1 },
+  { "question": "12) Which of the following elements all <table> element?.", "options": ["<table><row><col>", "<table><tr><td>", "<table><body><footer>"], "correct": 1 },
+  { "question": "13) Which element is used for a numbered list?", "options": ["<ol>", "<li>", "<ul>"], "correct": 0 },
+  { "question": "14) Which element is used for a bullet or unorder list?", "options": ["<ol>", "<li>", "<ul>"], "correct": 2 },
+  { "question": "15) Which one is the correct HTML for a text input field?", "options": ["<input type=“text”>", "<input type=“textField”>", "<textfield>"], "correct": 0 },
+  { "question": "16) Which element is used for making a drop-down list?", "options": ["<select>", "<list>", "<input type=“drop-down”>"], "correct": 0 },
+  { "question": "17) Which element is used for making text area?", "options": ["<input type=“textarea”>", "<textarea>", "<input type=“textbox”>"], "correct": 1 },
+  { "question": "18) Which element is used for inserting image in html file?", "options": ["<image>", "<imag>", "<img>"], "correct": 2 },
+  { "question": "19) What is the correct HTML for inserting an image?", "options": ["<img src=“my-image.jpeg” alt=“Myimage”>", "<img type=“my-image.jpeg” alt=“Myimage”>", "<img path=“my-image.jpeg” alt=“Myimage”>"], "correct": 0 },
+  { "question": "24) Which of the following is define the title of the page / document?", "options": ["<title>", "<name>", "<blockqoute>"], "correct": 0 },
+  { "question": "25) Which attribute specifies an alternate text for an image if the image can’t displayed ?", "options": ["title", "alt", "src"], "correct": 1 },
+  { "question": "26) Which doctype is correct for HTML5?", "options": ["<!DOCTYPE HTML PUBLIC>", "<!DOCTYPE HTML5>", "<!DOCTYPE html>"], "correct": 2 },
+  { "question": "27) Which element specify footer for the document or section ?", "options": ["<body>", "<end>", "<footer>"], "correct": 2 },
+  { "question": "28) Which element is used for inserting video in html file?", "options": ["<media>", "<movie>", "<video>"], "correct": 2 },
+  { "question": "29) What is the correct HTML element for inserting an audio?", "options": ["<mp3>", "<audio>", "<sound>"], "correct": 1 },
+  { "question": "30) How many types of audio we can insert in HTML?", "options": ["2", "3 (ogg , mp3 , wav)", "4"], "correct": 1 },
+  { "question": "31) Onblur , Onfocus are__________.", "options": ["<event attribute>", "<html element>", "<style attribute>"], "correct": 0 },
+  { "question": "32) To add spaces to your text you can use the _______________ character entity?", "options": ["&space;", "&coyp;", "&nbsp;"], "correct": 2 },
+  { "question": "33) Element use to highlight the text .", "options": ["<highlight>", "<colored>", "<mark>"], "correct": 2 }
+] },
 
 
 ];
@@ -821,4 +852,5 @@ export const quizCategories = [
   { id: 'airforce', name: 'AIR FORCE - Pakistan Air Force' },
   { id: 'ielts', name: 'IELTS - English Language Test' },
   { id: '9th10th', name: 'CLASS 9th & 10th - free mock tests' },
+  { id: 'cs', name: 'CS - Computer Science subjects mock tests' }
 ];
