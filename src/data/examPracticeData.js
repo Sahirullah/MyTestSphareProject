@@ -807,7 +807,7 @@ export const examPracticeData = [
   //International law
   { id: 26, code: 'intlaw', title: 'International law free mock test practice', category: 'intlaw', image: '🎓', questions: generateCourseQuestions('Physics'), totalQuestions: 50 },
   //CS Mock test section start here
-  { id: 27, code: 'CS202', title: 'Computer Science 202 free mock test practice for midterm', category: 'cs', image: '💻', questions: [
+  { id: 27, code: 'CS202', title: 'Computer Science 202 midterm free mock test practice 01', category: 'cs', image: '💻', questions: [
   { "question": "1) HTTP stand for ______________ .", "options": ["Html text transfer protocol", "Hyper transfer text protocol", "Hyper Text Transfer Protocol"], "correct": 2 },
   { "question": "2 ) HTML stand for ______________ .", "options": ["Hyper text model language", "Hyper text modern language", "Hyper text markup language"], "correct": 2 },
   { "question": "3) Who is making the web standrads?", "options": ["microsoft", "google", "World wide web consortium"], "correct": 2 },
