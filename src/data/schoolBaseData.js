@@ -104,6 +104,7 @@ export const schoolBaseData = [
   //      >>>>------<<<<<       DERA GHAZI KHAN TEXTBOOK BOARD       >>>>------<<<<<
   // Dera Ghazi Khan
   { id: 20, code: 'BOARD005', title: 'BISE Dera Ghazi Khan', category: 'boards', image: '📚', link: '' },
+  //      >>>>------<<<<<       DERA GHAZI KHAN TEXTBOOK BOARD       >>>>------<<<<<
   { id: 21, code: 'BOARD006', title: 'BISE Dera Ismail Khan', category: 'boards', image: '📚', link: '' },
   { id: 22, code: 'BOARD007', title: 'BISE Faisalabad', category: 'boards', image: '📚', link: '' },
   { id: 23, code: 'BOARD008', title: 'BISE Gujranwala', category: 'boards', image: '📚', link: '' },
