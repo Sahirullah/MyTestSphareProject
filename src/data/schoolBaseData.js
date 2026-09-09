@@ -100,7 +100,8 @@ export const schoolBaseData = [
   { id: 19, code: 'BTBB', title: 'BISE Bolochistan 1st class General knowledge', category: 'btbb', image: '📚', link: 'https://drive.google.com/file/d/1ORZ5qgf2vwti16oVQDedOPSxzee6coDo/view?usp=sharing' },
   { id: 19, code: 'BTBB', title: 'BISE Bolochistan 1st class English', category: 'btbb', image: '📚', link: 'https://drive.google.com/file/d/11OCzatOOJS2gXrEBP8xhRT6nH_444jon/view?usp=sharing' },
   { id: 19, code: 'BTBB', title: 'BISE Bolochistan 1st class Mathematics', category: 'btbb', image: '📚', link: 'https://drive.google.com/file/d/1Gu8g5QVh1PkKFvshwk20Zi2ZBCwsM8Er/view?usp=sharing' },
-//      >>>>------<<<<<       DERA GHAZI KHAN TEXTBOOK BOARD       >>>>------<<<<<
+
+  //      >>>>------<<<<<       DERA GHAZI KHAN TEXTBOOK BOARD       >>>>------<<<<<
   // Dera Ghazi Khan
   { id: 20, code: 'BOARD005', title: 'BISE Dera Ghazi Khan', category: 'boards', image: '📚', link: '' },
   { id: 21, code: 'BOARD006', title: 'BISE Dera Ismail Khan', category: 'boards', image: '📚', link: '' },
