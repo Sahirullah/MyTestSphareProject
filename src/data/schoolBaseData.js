@@ -110,7 +110,7 @@ export const schoolBaseData = [
   { id: 22, code: 'BOARD007', title: 'BISE Faisalabad', category: 'boards', image: '📚', link: '' },
   //      >>>>------<<<<<       GUJRANWALA TEXTBOOK BOARD       >>>>------<<<<<
   { id: 23, code: 'BOARD008', title: 'BISE Gujranwala', category: 'boards', image: '📚', link: '' },
-  //      >>>>------<<<<<       DERA GHAZI KHAN TEXTBOOK BOARD       >>>>------<<<<<
+  //      >>>>------<<<<<       HYDERABAD TEXTBOOK BOARD       >>>>------<<<<<
   { id: 24, code: 'BOARD009', title: 'BISE Hyderabad', category: 'boards', image: '📚', link: '' },
   { id: 25, code: 'BOARD010', title: 'BISE Karachi', category: 'boards', image: '📚', link: '' },
   { id: 26, code: 'BOARD011', title: 'BISE Khuzdar', category: 'boards', image: '📚', link: '' },
