@@ -133,7 +133,17 @@ export const schoolBaseData = [
   { id: 41, code: 'BOARD026', title: 'BISE Turbat', category: 'boards', image: '📚', link: '' },
   { id: 42, code: 'BOARD027', title: 'Bolochistan Text Book Board', category: 'boards', image: '📚', link: '' },
   { id: 43, code: 'BOARD028', title: 'Board of Intermediate Education Karachi (BIEK)', category: 'boards', image: '📚', link: '' },
-  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad', category: 'boards', image: '📚', link: '' },
+   //      >>>>------<<<<<       FEDRAL BOARD OF INTERMEDIATE SECONDARY EDUCATION TEXTBOOK BOARD       >>>>------<<<<<
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 12 class physics', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1TtoauKddXjdl5PHfRJ78CE4m3ny_iOVJ/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 12 class chemistry', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1lHl71U_2Zypf7kG_brx0U3xHbU89pxQA/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 12 class biology', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1lJBc0vdcfGukiASAx4QjG4B5P94GZLDO/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 12 class mathematics', category: 'fedral', image: '📚', link: '' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 12 class computer science', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1ICMiCHO_Z3SLDKxC5MVCYoBARehoWsSX/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 12 class pak study', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1NvCqqNJ771qA3HTqXNwB22dlFeL6d9sX/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad', category: 'fedral', image: '📚', link: '' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad', category: 'fedral', image: '📚', link: '' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad', category: 'fedral', image: '📚', link: '' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad', category: 'fedral', image: '📚', link: '' },
 ];
 
 export const schoolBaseCategories = [
@@ -147,6 +157,7 @@ export const schoolBaseCategories = [
   { id: 'dgkhan', name: 'BISE Dera Ghazi Khan' },
   { id: 'dismailjkhan', name: 'BISE Dera Ismail Khan' },
   { id: 'faisalabad', name: 'BISE Faisalabad' },
+  { id: 'fedral', name: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad' },
   { id: 'gujranwala', name: 'BISE Gujranwala' },
   { id: 'hyderabad', name: 'BISE Hyderabad' },
   { id: 'karachi', name: 'BISE Karachi' },
@@ -167,5 +178,4 @@ export const schoolBaseCategories = [
   { id: 'swat', name: 'BISE Swat' },
   { id: 'turbat', name: 'BISE Turbat' },
   { id: 'biek', name: 'Board of Intermediate Education Karachi (BIEK)' },
-  { id: 'fbise', name: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad' },
 ];
