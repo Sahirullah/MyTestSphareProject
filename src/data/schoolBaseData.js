@@ -171,7 +171,10 @@ export const schoolBaseData = [
   { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 2nd class Mathematics', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1R2zWzkcsMnnP8nV0KoRApnLqhOlCEPjR/view?usp=sharing' },
   { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 2nd class General knowledge', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1NpcZAoNzpukHrpTjPeDdoCJvE3f7NClH/view?usp=sharing' },
   { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 2nd class English', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/117-xdWs2dHtfbSwmDBg0X7R9MlrbypAw/view?usp=sharing' },
-  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 2nd class Urdu', category: 'fedral', image: '📚', link: '' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 1st class Urdu', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1PoS5Ww2mh9sbD9p12-GcbZLlEqIPZN0P/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 1st class Mathematics', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1JVYu9IzfNuhXnHf4iZztpcVPZtgAZyiN/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 1st class General knowledge', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1m4k_HBY4TLMfRAHF5dS53n8-Etsy1ZET/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 1st class English', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1jVzPIpcEGgYbQmu9YNLnPji5h6003fSg/view?usp=sharing' },
 ];
 
 export const schoolBaseCategories = [
