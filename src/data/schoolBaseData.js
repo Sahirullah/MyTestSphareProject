@@ -166,9 +166,12 @@ export const schoolBaseData = [
   { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 3 class Urdu', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1hQKSaSnPfi0BuyMnjJRWHpuTkSvNh4ZL/view?usp=sharing' },
   { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 3 class Mathematics', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1fswrRDRkJV2F1Q5UqkXr9d40UYLdYvhb/view?usp=sharing' },
   { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 3 class General knowledge', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1OqTb5ytLqFdnh4GI5rKiy8DGnQP0V9Jb/view?usp=sharing' },
-  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 3 class English', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1qfMG05E0PM48GxiDYZ5M7W7AKUNza4KV/view?usp=sharing' },
-  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 3 class Urdu', category: 'fedral', image: '📚', link: '' },
-  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 3 class Urdu', category: 'fedral', image: '📚', link: '' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 3rd class English', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1qfMG05E0PM48GxiDYZ5M7W7AKUNza4KV/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 2nd class Urdu', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1EA3dwz49Lcs_VE-V3xUaKwoeVGvrfrrg/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 2nd class Mathematics', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1R2zWzkcsMnnP8nV0KoRApnLqhOlCEPjR/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 2nd class General knowledge', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/1NpcZAoNzpukHrpTjPeDdoCJvE3f7NClH/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 2nd class English', category: 'fedral', image: '📚', link: 'https://drive.google.com/file/d/117-xdWs2dHtfbSwmDBg0X7R9MlrbypAw/view?usp=sharing' },
+  { id: 44, code: 'BOARD029', title: 'Federal Board of Intermediate and Secondary Education (FBISE) - Islamabad 2nd class Urdu', category: 'fedral', image: '📚', link: '' },
 ];
 
 export const schoolBaseCategories = [
