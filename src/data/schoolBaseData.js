@@ -210,3 +210,5 @@ export const schoolBaseCategories = [
   { id: 'turbat', name: 'BISE Turbat' },
   { id: 'biek', name: 'Board of Intermediate Education Karachi (BIEK)' },
 ];
+
+export const allSchoolBaseData = schoolBaseData;
