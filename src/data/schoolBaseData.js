@@ -116,6 +116,7 @@ export const schoolBaseData = [
   { id: 25, code: 'BOARD010', title: 'BISE Karachi', category: 'boards', image: '📚', link: '' },
    //      >>>>------<<<<<       KHUZDAR TEXTBOOK BOARD       >>>>------<<<<<
   { id: 26, code: 'BOARD011', title: 'BISE Khuzdar', category: 'boards', image: '📚', link: '' },
+     //      >>>>------<<<<<       KOHAT TEXTBOOK BOARD       >>>>------<<<<<
   { id: 27, code: 'BOARD012', title: 'BISE Kohat', category: 'boards', image: '📚', link: '' },
   { id: 28, code: 'BOARD013', title: 'BISE Lahore', category: 'boards', image: '📚', link: '' },
   { id: 29, code: 'BOARD014', title: 'BISE Larkana', category: 'boards', image: '📚', link: '' },
