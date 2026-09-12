@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import { allFinalTermData, finalTermCategories } from '../data/fileHub';
+import { finalTermData } from '../data/fileHub';
 import { useTheme } from '../context/ThemeContext';
 import SubjectCard from './SubjectCard';
 import './ExamPractice.css';
@@ -10,7 +10,7 @@ const FileHub = () => {
   const { isDarkMode } = useTheme();
   const [selectedCategory, setSelectedCategory] = useState('all');
 
-  const exams = allFinalTermData.map(item => ({
+  const exams = finalTermData.map(item => ({
     ...item
   })).sort((a, b) => a.code.localeCompare(b.code));
 
@@ -34,15 +34,13 @@ const FileHub = () => {
         <div className="category-filter">
           <h2>Select Category</h2>
           <div className="filter-buttons">
-            {finalTermCategories.map(cat => (
-              <button
-                key={cat.id}
-                className={`filter-btn ${selectedCategory === cat.id ? 'active' : ''}`}
-                onClick={() => setSelectedCategory(cat.id)}
-              >
-                {cat.name}
-              </button>
-            ))}
+            <button
+              className={`filter-btn ${selectedCategory === 'all' ? 'active' : ''}`}
+              onClick={() => setSelectedCategory('all')}
+            >
+              All
+            </button>
+            
           </div>
         </div>
 
