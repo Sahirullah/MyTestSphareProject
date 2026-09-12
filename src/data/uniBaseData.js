@@ -65,7 +65,13 @@ export const uniBaseData = [
   //CS001 Midterm pastpaper
   { id: 51, code: 'CS001', title: 'Computer Proficiency License', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1UPAPe92JbBcT6eM-j7osVy9MZ7n2gnsB/view?usp=sharing',
-    'https://drive.google.com/file/d/1gW4BuQnMBUPYmaOPAsPlZxGAX9RCujUQ/view?usp=sharing'
+    'https://drive.google.com/file/d/1gW4BuQnMBUPYmaOPAsPlZxGAX9RCujUQ/view?usp=sharing',
+    'https://drive.google.com/file/d/1f8f6aVmqmk9h_D8TjywDbm9istxhA7aW/view?usp=sharing',
+    'https://drive.google.com/file/d/1N8IqDXIieOb2u9MnJpWRELUCG3L6ivkS/view?usp=sharing',
+    'https://drive.google.com/file/d/1mCY9TvMpSffS9iUPN45hlDDjl0JGviUA/view?usp=sharing',
+    'https://drive.google.com/file/d/1TsJ28Ix1fVx9uTMo5U8VVEEA9il8LVIs/view?usp=sharing',
+    'https://drive.google.com/file/d/1fJEt7NPNAnYpoAugiJvVdrI_M_zlUW7c/view?usp=sharing',
+    'https://drive.google.com/file/d/1AMH4Co3-ddl-zu9dCgr800M3ufEQXcm3/view?usp=sharing'
   ] },
   { id: 52, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', links: [] },
   { id: 53, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻', links: [] },
