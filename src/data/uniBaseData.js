@@ -86,6 +86,7 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1xg98zuubxhZE6zi5J1nyb1Acf2RdptWt/view?usp=sharing',
     'https://drive.google.com/file/d/1CZ3ZIsrDSc-Ve0qL2NRSteUSCENseNU4/view?usp=sharing'
   ]},
+  //CS201 Midterm Past paper
   { id: 53, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1hffCphMimLCsXqcR0PpwPbsJroQjf-Fz/view?usp=sharing',
     'https://drive.google.com/file/d/1TRZwj-B_F64l8rWByfrAG54G6PePoIZr/view?usp=sharing',
@@ -93,11 +94,24 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1AmJ1-03XHVj-HagurVweg1woB1-BN5MO/view?usp=sharing',
     'https://drive.google.com/file/d/1CFZPgEB79SzRteM_4medAyL18lrUhwkm/view?usp=sharing'
   ] },
-  { id: 54, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻', links: [] },
+  //CS202 Midterm Pastpaper
+  { id: 54, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1t8l2vZWPCgFDjG55j0vWaetfORakNf2R/view?usp=sharing',
+    'https://drive.google.com/file/d/1QdFZQnz9u4yDSLGv7-cko1X2IFjwznO1/view?usp=sharing',
+    'https://drive.google.com/file/d/1dC6T8-LCncbebxTEZJN-rquFyfgHYJs5/view?usp=sharing',
+    'https://drive.google.com/file/d/1LY4Tq006m9VmK5gAdeAJdm-nxnGGANdu/view?usp=sharing'
+  ] },
   { id: 55, code: 'CS204', title: 'Cyber Law', category: 'cs', image: '💻', links: [] },
   { id: 56, code: 'CS205', title: 'Information Security', category: 'cs', image: '💻', links: [] },
   { id: 57, code: 'CS206', title: 'Introduction to Network Design & Analysis', category: 'cs', image: '💻', links: [] },
-  { id: 58, code: 'CS301', title: 'Data Structures', category: 'cs', image: '💻', links: [] },
+  //CS301 Midterm past paper
+  { id: 58, code: 'CS301', title: 'Data Structures', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/18lUHA4zoHBP_PFeQn7i5GMNW1D-y7pA_/view?usp=sharing',
+    'https://drive.google.com/file/d/1hkpGJmHXWyOySpsPAi-MCe2z0ozx9ANA/view?usp=sharing',
+    'https://drive.google.com/file/d/1rmuDrLuRhcof60fea0mlvKREHnWz_BJ8/view?usp=sharing',
+    'https://drive.google.com/file/d/1PqS6YbVirkq4XmaDUlQE5eCeOsluJLgk/view?usp=sharing',
+    'https://drive.google.com/file/d/1PVVjrh_zQqOnShuAEJZnWdLNQNz3fkFb/view?usp=sharing'
+  ] },
   { id: 59, code: 'CS302', title: 'Digital Logic and Design', category: 'cs', image: '💻', links: [] },
   { id: 60, code: 'CS304', title: 'Object Oriented Programming', category: 'cs', image: '💻', links: [] },
   { id: 61, code: 'CS310', title: 'Open Source Web Application Development', category: 'cs', image: '💻', links: [] },
