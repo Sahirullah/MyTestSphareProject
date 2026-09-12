@@ -1,7 +1,6 @@
 import { assignmentData, assignmentDataClass10, allAssignmentData } from '../data/assignmentData';
 import { midtermData, allMidtermData } from '../data/pastPaper';
 import { finalTermData, allFinalTermData } from '../data/fileHub';
-import { quizzesData, allQuizzesData } from '../data/quizzesData';
 import { allBooksData } from '../data/allBooksData';
 import { examPracticeData } from '../data/examPracticeData';
 
@@ -29,13 +28,6 @@ export const getAllSearchableData = () => {
     allData.push(...allFinalTermData);
   } else if (finalTermData) {
     allData.push(...finalTermData);
-  }
-  
-  // Add quizzes data (use allQuizzesData if available)
-  if (allQuizzesData) {
-    allData.push(...allQuizzesData);
-  } else if (quizzesData) {
-    allData.push(...quizzesData);
   }
   
   // Add exam practice data

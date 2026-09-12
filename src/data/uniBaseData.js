@@ -62,7 +62,11 @@ export const uniBaseData = [
   { id: 50, code: 'CHE301', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️', links: [] },
   
   // CS - Computer Science
-  { id: 51, code: 'CS001', title: 'Computer Proficiency License', category: 'cs', image: '💻', links: [] },
+  //CS001 Midterm pastpaper
+  { id: 51, code: 'CS001', title: 'Computer Proficiency License', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1UPAPe92JbBcT6eM-j7osVy9MZ7n2gnsB/view?usp=sharing',
+    'https://drive.google.com/file/d/1gW4BuQnMBUPYmaOPAsPlZxGAX9RCujUQ/view?usp=sharing'
+  ] },
   { id: 52, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', links: [] },
   { id: 53, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻', links: [] },
   { id: 54, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻', links: [] },
