@@ -73,7 +73,19 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1fJEt7NPNAnYpoAugiJvVdrI_M_zlUW7c/view?usp=sharing',
     'https://drive.google.com/file/d/1AMH4Co3-ddl-zu9dCgr800M3ufEQXcm3/view?usp=sharing'
   ] },
-  { id: 52, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', links: [] },
+
+  //CS101 Midterm Pastpaper
+  { id: 52, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1CZ3ZIsrDSc-Ve0qL2NRSteUSCENseNU4/view?usp=sharing',
+    'https://drive.google.com/file/d/1kXBzw7ztcvSbVFkrNhPVNDdlA3fR0CHs/view?usp=sharing',
+    'https://drive.google.com/file/d/1YDgT-opalXjJkQUWTSiQmZK50JfPH_V4/view?usp=sharing',
+    'https://drive.google.com/file/d/13GjuFJTN51QWiwnAXWvdR08I_hxw31V-/view?usp=sharing',
+    'https://drive.google.com/file/d/1dcsRConHSCM0xw-VaGBY9ECU-D8qvG32/view?usp=sharing',
+    'https://drive.google.com/file/d/1Q1xRUaZXM5PZl9QFdjIqUbykS1oPN7Hl/view?usp=sharing',
+    'https://drive.google.com/file/d/1k8PtFYV39QOAp1OJPgrhrvEH9oRDa2IC/view?usp=sharing',
+    'https://drive.google.com/file/d/1xg98zuubxhZE6zi5J1nyb1Acf2RdptWt/view?usp=sharing',
+    'https://drive.google.com/file/d/1CZ3ZIsrDSc-Ve0qL2NRSteUSCENseNU4/view?usp=sharing'
+  ]},
   { id: 53, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻', links: [] },
   { id: 54, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻', links: [] },
   { id: 55, code: 'CS204', title: 'Cyber Law', category: 'cs', image: '💻', links: [] },
