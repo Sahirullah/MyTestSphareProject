@@ -867,7 +867,7 @@ export const examPracticeData = [
   { "question": "60. In HTML, onblur and onfocus are:", "options": ["Event attributes", "HTML elements", "Style attributes"], "correct": 0 }
 ]},
 //CS610 midterm Free mock test practice 01
-{ id: 28, code: 'CS610', title: 'Computer Science 610 midterm free mock test practice 01', category: 'cs', image: '💻', questions: [
+  { id: 28, code: 'CS610', title: 'Computer Science 610 midterm free mock test practice 01', category: 'cs', image: '💻', questions: [
   {"question_number": 1, "question": "In Cyclic Redundancy Checking, CRC is __________.", "options": {"a": "Divisor", "b": "Quotient", "c": "Remainder", "d": "Dividend"}, "answer": "c"},
   {"question_number": 2, "question": "The satellite or radio topology in which all computers are connected to each other via satellite or radio wave is a kind of:", "options": {"a": "Broadcast network", "b": "Point-to-Point network"}, "answer": "a"},
   {"question_number": 3, "question": "Which of the following two operations are performed by Ethernet CD? (I. It monitors outgoing signals. II. Grabbled signal is interpreted as a collision.)", "options": {"a": "I and III", "b": "II and IV", "c": "II and III", "d": "I and II"}, "answer": "d"},
