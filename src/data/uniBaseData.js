@@ -111,8 +111,16 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1rmuDrLuRhcof60fea0mlvKREHnWz_BJ8/view?usp=sharing',
     'https://drive.google.com/file/d/1PqS6YbVirkq4XmaDUlQE5eCeOsluJLgk/view?usp=sharing',
     'https://drive.google.com/file/d/1PVVjrh_zQqOnShuAEJZnWdLNQNz3fkFb/view?usp=sharing'
+  ]},
+  //CS302 Midtrem pastpaper
+  { id: 59, code: 'CS302', title: 'Digital Logic and Design', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1xMuPu9rLDawOvWTmwT2jko64T6QP4Zfo/view?usp=sharing',
+    'https://drive.google.com/file/d/1Kk4AGOrJe4greCEvufGJpPiiq7LfeuuF/view?usp=sharing',
+    'https://drive.google.com/file/d/1OOI8_2KW6RO8uTqQWieDWEtbQPVYJAmy/view?usp=sharing',
+    'https://drive.google.com/file/d/1LcgcXqScZzNLbxXB6XZPXCQhuC7X_3kI/view?usp=sharing',
+    'https://drive.google.com/file/d/1UjvKgeMvPKsDklllGcSKtRefZcMcCAEX/view?usp=sharing',
+    'https://drive.google.com/file/d/1UjvKgeMvPKsDklllGcSKtRefZcMcCAEX/view?usp=sharing'
   ] },
-  { id: 59, code: 'CS302', title: 'Digital Logic and Design', category: 'cs', image: '💻', links: [] },
   { id: 60, code: 'CS304', title: 'Object Oriented Programming', category: 'cs', image: '💻', links: [] },
   { id: 61, code: 'CS310', title: 'Open Source Web Application Development', category: 'cs', image: '💻', links: [] },
   { id: 62, code: 'CS311', title: 'Introduction to Web Services Development', category: 'cs', image: '💻', links: [] },
