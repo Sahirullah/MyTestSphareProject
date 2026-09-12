@@ -121,11 +121,22 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1UjvKgeMvPKsDklllGcSKtRefZcMcCAEX/view?usp=sharing',
     'https://drive.google.com/file/d/1UjvKgeMvPKsDklllGcSKtRefZcMcCAEX/view?usp=sharing'
   ] },
-  { id: 60, code: 'CS304', title: 'Object Oriented Programming', category: 'cs', image: '💻', links: [] },
+  //CS304 Midterm past paper
+  { id: 60, code: 'CS304', title: 'Object Oriented Programming', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/13fydDtrXIFm1ve9we1NwT0bgV2bu5KIi/view?usp=sharing',
+    'https://drive.google.com/file/d/1LPNaSzSu0J5Ka7bQ_U9P9GmnGAZP2hlH/view?usp=sharing',
+    'https://drive.google.com/file/d/1MWcJvGdEl-2VGjZm7gfpplBSR0kWAbb8/view?usp=sharing'
+  ] },
   { id: 61, code: 'CS310', title: 'Open Source Web Application Development', category: 'cs', image: '💻', links: [] },
   { id: 62, code: 'CS311', title: 'Introduction to Web Services Development', category: 'cs', image: '💻', links: [] },
   { id: 63, code: 'CS312', title: 'Database Modeling and Design', category: 'cs', image: '💻', links: [] },
-  { id: 64, code: 'CS401', title: 'Computer Architecture & Assembly Language Programming', category: 'cs', image: '💻', links: [] },
+  { id: 64, code: 'CS401', title: 'Computer Architecture & Assembly Language Programming', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1MzbgUidLUzWvlle58TMJa2_UGLoT-7yt/view?usp=sharing',
+    'https://drive.google.com/file/d/1ly3wZLCdMnxZ6WAq_vR1e10zpiALnCpz/view?usp=sharing',
+    'https://drive.google.com/file/d/1pTqmoLwsAnTz5-3JN9tNu7mQp1dVdSL_/view?usp=sharing',
+    'https://drive.google.com/file/d/1qMbSx1ucvTTv6dgr5D719K4tQ4al8ORZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1NwdNVK7RC30UA0ipyGi_AJmguDPo6D-U/view?usp=sharing'
+  ] },
   { id: 65, code: 'CS402', title: 'Theory of Automata', category: 'cs', image: '💻', links: [] },
   { id: 66, code: 'CS403', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
 ];
