@@ -217,16 +217,30 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/16bISzGva5y2NzqQUVo3wMkTkIey3nRPA/view?usp=sharing',
     'https://drive.google.com/file/d/1bd0QDZMKSqtLMDR_X60ySplw_Nm5ExT8/view?usp=sharing'
   ] },
-  { id: 86, code: 'CS606', title: 'cs606 compiler construction', category: 'cs', image: '💻', links: [
+  { id: 86, code: 'CS606', title: 'cs606 compiler construction.CS606 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1slF38XHWsiylLJFelbvdUPCgfox6KlNA/view?usp=sharing',
     'https://drive.google.com/file/d/1bL8G_Fzztoy_rafEXlXrekYCokKisEDM/view?usp=sharing',
     'https://drive.google.com/file/d/1NctgnLm5S8ETHFrgCKJa8lAOOpVYI4fs/view?usp=sharing'
   ] },
-  { id: 86, code: 'CS606', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
-  { id: 86, code: 'CS606', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
-  { id: 86, code: 'CS606', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
-  { id: 86, code: 'CS606', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
-  { id: 86, code: 'CS606', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 87, code: 'CS607', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 88, code: 'CS608', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 89, code: 'CS609', title: 'cs609 system programming.cs609 midterm past paper', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1re5eCb91b7EuEOuWafGs-dM4Zn9IjXfP/view?usp=sharing'
+  ] },
+  { id: 90, code: 'CS610', title: 'CS610 Computer Networking.cs610 midterm past past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1sKpZKwCGx83CPcjFVTa0jLJPGcLtIFdF/view?usp=sharing',
+    'https://drive.google.com/file/d/16mznd7jbHTBTjduIQLprm6w441d2en9T/view?usp=sharing',
+    'https://drive.google.com/file/d/1Q0MRQtbhlx87Mlqne53yncQs9wdxu3bQ/view?usp=sharing',
+    'https://drive.google.com/file/d/16yD0PXNRdrHjGZwbUPslYGwqPX6DEZsu/view?usp=sharing'
+  ] },
+  { id: 91, code: 'CS611', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 91, code: 'CS612', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 91, code: 'CS613', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 91, code: 'CS614', title: 'CS614 data warehousing. cs614 midterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1L1jTRl3Bh-ydtfoSCbcAnHzRuYUXF4H7/view?usp=sharing',
+    'https://drive.google.com/file/d/10C5iFrV1E5VjY81FYqFX3UAr6E6ncDql/view?usp=sharing',
+    'https://drive.google.com/file/d/1GXQ5w76-I38yhn5lZ3SYyn1oCOWrrBJK/view?usp=sharing'
+  ] },
 ];
 
 export const uniBaseDataPart2 = [
