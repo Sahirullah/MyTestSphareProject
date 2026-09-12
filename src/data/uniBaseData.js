@@ -180,9 +180,53 @@ export const uniBaseData = [
   { id: 77, code: 'CS505', title: 'Database Management System', category: 'cs', image: '💻', links: [
 
   ] },
-  { id: 78, code: 'CS505', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
-  { id: 79, code: 'CS506', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
-  { id: 80, code: 'CS507', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 78, code: 'CS506', title: 'Database Management System', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1_lDa1hNYH8-v9C-tojTcxKkYQ_5qHhjy/view?usp=sharing',
+    'https://drive.google.com/file/d/1MrkfdrKO6NlFL5WWzNw7VKpoLHeEjObA/view?usp=sharing',
+    'https://drive.google.com/file/d/1rE5cVvCNrGR7NbieWc82waU6PdE4hpOO/view?usp=sharing',
+    'https://drive.google.com/file/d/1Ew5iiF71rt_PbBypozqCse2r0BYehUmi/view?usp=sharing',
+    'https://drive.google.com/file/d/1R8FkiFSyJi73-t-hVQ7N5e3rYLCZCfWK/view?usp=sharing'
+  ] },
+  { id: 79, code: 'CS507', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 80, code: 'CS508', title: 'Database Management System', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/13a2vsH6Sqn6OfK1f5h2kGrq5qsC42wIC/view?usp=sharing'
+  ] },
+  { id: 81, code: 'CS601', title: 'Database Management System', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1P_C-Uu7qCcNCrctiXxi3aSSUTX9KiEbE/view?usp=sharing',
+    'https://drive.google.com/file/d/1GJ4Npl0gj3SjmFf6w-n28C7VtAdogOtD/view?usp=sharing',
+    'https://drive.google.com/file/d/1UhM08pXs7J4dZsK-V0caNXo6i9FGSzVn/view?usp=sharing'
+  ] },
+  { id: 82, code: 'CS602', title: 'Database Management System', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1HRi3hma-onHzuggEsFqxTxcGpU6hhIsN/view?usp=sharing',
+    'https://drive.google.com/file/d/1B6F-h7w7Nb_CoyjYs2gCpaU1KMxU5C5t/view?usp=sharing',
+    'https://drive.google.com/file/d/1MUXAi3gzmt8_PpAI-LHoG3Nhyp6kDxEN/view?usp=sharing',
+    'https://drive.google.com/file/d/1FtxNyW84Qese163CJhQRPaCn-8EuFO2B/view?usp=sharing'
+  ] },
+  { id: 83, code: 'CS603', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 84, code: 'CS604', title: 'CS604 - Operating System . CS604 midterm pastpaper', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/19v3LYo1gu5P-pxom8QVlK_R6Xp61Hpe8/view?usp=sharing',
+    'https://drive.google.com/file/d/1lvH6HpXI9ZrktPTNBn2VsxKKi6RjlfYx/view?usp=sharing',
+    'https://drive.google.com/file/d/1FqPAs8Ca25Zx9NhRaze75er-ISiWuvH3/view?usp=sharing',
+    'https://drive.google.com/file/d/1qfVve19Y6lWZi5TczjXOgXsJt3vfH7Mf/view?usp=sharing',
+    'https://drive.google.com/file/d/1W8dpESnZ2qlkBomtmhQjHHmypw1Izst7/view?usp=sharing'
+  ] },
+  { id: 85, code: 'CS605', title: 'CS605- Software Engineering II. CS605 midterm past paper.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1cfXT9Vacv04Uxpu3c4ZoKYWOzqTu0zCD/view?usp=sharing',
+    'https://drive.google.com/file/d/134RLf0Z_vVntdrzDDYpdgS7vk1aYalYq/view?usp=sharing',
+    'https://drive.google.com/file/d/1PpNEsfd_DdKh1E2gjWiQQOJpTvOw5bXp/view?usp=sharing',
+    'https://drive.google.com/file/d/16bISzGva5y2NzqQUVo3wMkTkIey3nRPA/view?usp=sharing',
+    'https://drive.google.com/file/d/1bd0QDZMKSqtLMDR_X60ySplw_Nm5ExT8/view?usp=sharing'
+  ] },
+  { id: 86, code: 'CS606', title: 'cs606 compiler construction', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1slF38XHWsiylLJFelbvdUPCgfox6KlNA/view?usp=sharing',
+    'https://drive.google.com/file/d/1bL8G_Fzztoy_rafEXlXrekYCokKisEDM/view?usp=sharing',
+    'https://drive.google.com/file/d/1NctgnLm5S8ETHFrgCKJa8lAOOpVYI4fs/view?usp=sharing'
+  ] },
+  { id: 86, code: 'CS606', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 86, code: 'CS606', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 86, code: 'CS606', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 86, code: 'CS606', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 86, code: 'CS606', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
 ];
 
 export const uniBaseDataPart2 = [
