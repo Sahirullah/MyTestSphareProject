@@ -63,7 +63,7 @@ export const uniBaseData = [
   
   // CS - Computer Science
   //CS001 Midterm pastpaper
-  { id: 51, code: 'CS001', title: 'Computer Proficiency License', category: 'cs', image: '💻', links: [
+  { id: 51, code: 'CS001', title: 'Computer Proficiency License.CS001 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1UPAPe92JbBcT6eM-j7osVy9MZ7n2gnsB/view?usp=sharing',
     'https://drive.google.com/file/d/1gW4BuQnMBUPYmaOPAsPlZxGAX9RCujUQ/view?usp=sharing',
     'https://drive.google.com/file/d/1f8f6aVmqmk9h_D8TjywDbm9istxhA7aW/view?usp=sharing',
@@ -75,7 +75,7 @@ export const uniBaseData = [
   ] },
 
   //CS101 Midterm Pastpaper
-  { id: 52, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', links: [
+  { id: 52, code: 'CS101', title: 'Introduction to Computing.CS101 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1CZ3ZIsrDSc-Ve0qL2NRSteUSCENseNU4/view?usp=sharing',
     'https://drive.google.com/file/d/1kXBzw7ztcvSbVFkrNhPVNDdlA3fR0CHs/view?usp=sharing',
     'https://drive.google.com/file/d/1YDgT-opalXjJkQUWTSiQmZK50JfPH_V4/view?usp=sharing',
@@ -87,7 +87,7 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1CZ3ZIsrDSc-Ve0qL2NRSteUSCENseNU4/view?usp=sharing'
   ]},
   //CS201 Midterm Past paper
-  { id: 53, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻', links: [
+  { id: 53, code: 'CS201', title: 'Introduction to Programming.cs201 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1hffCphMimLCsXqcR0PpwPbsJroQjf-Fz/view?usp=sharing',
     'https://drive.google.com/file/d/1TRZwj-B_F64l8rWByfrAG54G6PePoIZr/view?usp=sharing',
     'https://drive.google.com/file/d/1RfnHTlnpeU7vLwmBi4CLR9ZiQvZjsssF/view?usp=sharing',
