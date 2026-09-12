@@ -137,8 +137,38 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1qMbSx1ucvTTv6dgr5D719K4tQ4al8ORZ/view?usp=sharing',
     'https://drive.google.com/file/d/1NwdNVK7RC30UA0ipyGi_AJmguDPo6D-U/view?usp=sharing'
   ] },
-  { id: 65, code: 'CS402', title: 'Theory of Automata', category: 'cs', image: '💻', links: [] },
-  { id: 66, code: 'CS403', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 65, code: 'CS402', title: 'Theory of Automata', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/16AWcwDt02QqEJUFYVKU5lwJsg5dsffWo/view?usp=sharing',
+    'https://drive.google.com/file/d/1GY6pyax596DrziS9WDD566qrw7f2mvdr/view?usp=sharing',
+    'https://drive.google.com/file/d/16mMMjvlCPEMPgN2ystYBy6998WC88qte/view?usp=sharing'
+  ] },
+  { id: 66, code: 'CS403', title: 'Database Management System', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1K7TcPZZrZV54gZ2NKy4wUIyGP8MfOVKM/view?usp=sharing',
+    'https://drive.google.com/file/d/1Mv8p2Yivo6GV4idUp0h0quaG9NhJmy3Y/view?usp=sharing'
+  ] },
+  { id: 67, code: 'CS404', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 68, code: 'CS405', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 69, code: 'CS406', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 70, code: 'CS407', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 71, code: 'CS408', title: 'Database Management System', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1EeuobzDv4AdAoovELuEJTm4VIh_MO7GE/view?usp=sharing'
+  ] },
+  { id: 72, code: 'CS409', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 73, code: 'CS410', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 74, code: 'CS411', title: 'Database Management System', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1YrIBW2fhQbq_3ylJC3GGuLN4lzWYgtom/view?usp=sharing',
+    'https://drive.google.com/file/d/1x2NtiNCwbZaJMpicA2Vr8sVnLsTnwNKk/view?usp=sharing'
+  ] },
+  { id: 75, code: 'CS501', title: 'Database Management System', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/19Kfe1fVNgDPy3Fqm1u7tvclM7kieDhjA/view?usp=sharing',
+    'https://drive.google.com/file/d/1inK7WET60xy8Nvn7Ui224B6LpAr8Fph5/view?usp=sharing',
+    'https://drive.google.com/file/d/1LrU-vXYZu-g7VhuYfuws3d7_5Qr-_W4G/view?usp=sharing'
+  ] },
+  { id: 76, code: 'CS502', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 77, code: 'CS406', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 78, code: 'CS406', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 79, code: 'CS406', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 80, code: 'CS406', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
 ];
 
 export const uniBaseDataPart2 = [
