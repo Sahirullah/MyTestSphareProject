@@ -1,4 +1,4 @@
-import { Links } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 export const midtermData = [
   // ACC - Accounting
