@@ -16,7 +16,6 @@ export default defineConfig({
           ],
           'data': [
             './src/data/examPracticeData.js',
-            './src/data/quizzesData.js',
             './src/data/assignmentData.js',
             './src/data/pastPaper.js',
             './src/data/midtermReviewsData.js',
