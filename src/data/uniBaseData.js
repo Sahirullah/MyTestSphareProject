@@ -130,6 +130,7 @@ export const uniBaseData = [
   { id: 61, code: 'CS310', title: 'Open Source Web Application Development', category: 'cs', image: '💻', links: [] },
   { id: 62, code: 'CS311', title: 'Introduction to Web Services Development', category: 'cs', image: '💻', links: [] },
   { id: 63, code: 'CS312', title: 'Database Modeling and Design', category: 'cs', image: '💻', links: [] },
+  //CS401 midterm past paper
   { id: 64, code: 'CS401', title: 'Computer Architecture & Assembly Language Programming', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1MzbgUidLUzWvlle58TMJa2_UGLoT-7yt/view?usp=sharing',
     'https://drive.google.com/file/d/1ly3wZLCdMnxZ6WAq_vR1e10zpiALnCpz/view?usp=sharing',
@@ -137,11 +138,13 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1qMbSx1ucvTTv6dgr5D719K4tQ4al8ORZ/view?usp=sharing',
     'https://drive.google.com/file/d/1NwdNVK7RC30UA0ipyGi_AJmguDPo6D-U/view?usp=sharing'
   ] },
+  //CS402 midterm past paper
   { id: 65, code: 'CS402', title: 'Theory of Automata', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/16AWcwDt02QqEJUFYVKU5lwJsg5dsffWo/view?usp=sharing',
     'https://drive.google.com/file/d/1GY6pyax596DrziS9WDD566qrw7f2mvdr/view?usp=sharing',
     'https://drive.google.com/file/d/16mMMjvlCPEMPgN2ystYBy6998WC88qte/view?usp=sharing'
   ] },
+  //CS403 midterm past paper
   { id: 66, code: 'CS403', title: 'Database Management System', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1K7TcPZZrZV54gZ2NKy4wUIyGP8MfOVKM/view?usp=sharing',
     'https://drive.google.com/file/d/1Mv8p2Yivo6GV4idUp0h0quaG9NhJmy3Y/view?usp=sharing'
@@ -150,20 +153,24 @@ export const uniBaseData = [
   { id: 68, code: 'CS405', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
   { id: 69, code: 'CS406', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
   { id: 70, code: 'CS407', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  //CS408 midterm past paper
   { id: 71, code: 'CS408', title: 'Database Management System', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1EeuobzDv4AdAoovELuEJTm4VIh_MO7GE/view?usp=sharing'
   ] },
   { id: 72, code: 'CS409', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
   { id: 73, code: 'CS410', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  //CS411 midterm past paper
   { id: 74, code: 'CS411', title: 'Database Management System', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1YrIBW2fhQbq_3ylJC3GGuLN4lzWYgtom/view?usp=sharing',
     'https://drive.google.com/file/d/1x2NtiNCwbZaJMpicA2Vr8sVnLsTnwNKk/view?usp=sharing'
   ] },
+  //CS501 midterm past paper
   { id: 75, code: 'CS501', title: 'Database Management System', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/19Kfe1fVNgDPy3Fqm1u7tvclM7kieDhjA/view?usp=sharing',
     'https://drive.google.com/file/d/1inK7WET60xy8Nvn7Ui224B6LpAr8Fph5/view?usp=sharing',
     'https://drive.google.com/file/d/1LrU-vXYZu-g7VhuYfuws3d7_5Qr-_W4G/view?usp=sharing'
   ] },
+  //CS502 midterm past paper
   { id: 76, code: 'CS502', title: 'Database Management System', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/140YRhTrWmfgAJgMHtpizYfSji9tIcAi0/view?usp=sharing',
     'https://drive.google.com/file/d/10dJEfrSy7HTbkBwClTYsFWktNJumVgt3/view?usp=sharing',
@@ -171,6 +178,7 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1iP0T9fPMAe5j7895wXJr3Xdw16yZ-a3l/view?usp=sharing',
     'https://drive.google.com/file/d/1iP0T9fPMAe5j7895wXJr3Xdw16yZ-a3l/view?usp=sharing'
   ] },
+  //CS504 midterm past paper
   { id: 77, code: 'CS504', title: 'Database Management System', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1X01iE9qsGS3OcE_yehKz4y8muH2zb8-t/view?usp=sharing',
     'https://drive.google.com/file/d/1IQsyBBQkG6O0myi5BWWuRDZCYKn12--H/view?usp=sharing',
@@ -180,6 +188,7 @@ export const uniBaseData = [
   { id: 77, code: 'CS505', title: 'Database Management System', category: 'cs', image: '💻', links: [
 
   ] },
+  //CS506 midterm past paper
   { id: 78, code: 'CS506', title: 'Database Management System', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1_lDa1hNYH8-v9C-tojTcxKkYQ_5qHhjy/view?usp=sharing',
     'https://drive.google.com/file/d/1MrkfdrKO6NlFL5WWzNw7VKpoLHeEjObA/view?usp=sharing',
@@ -191,11 +200,13 @@ export const uniBaseData = [
   { id: 80, code: 'CS508', title: 'Database Management System', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/13a2vsH6Sqn6OfK1f5h2kGrq5qsC42wIC/view?usp=sharing'
   ] },
+  //CS601 midterm past paper
   { id: 81, code: 'CS601', title: 'Database Management System', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1P_C-Uu7qCcNCrctiXxi3aSSUTX9KiEbE/view?usp=sharing',
     'https://drive.google.com/file/d/1GJ4Npl0gj3SjmFf6w-n28C7VtAdogOtD/view?usp=sharing',
     'https://drive.google.com/file/d/1UhM08pXs7J4dZsK-V0caNXo6i9FGSzVn/view?usp=sharing'
   ] },
+  //CS602  midterm past paper
   { id: 82, code: 'CS602', title: 'Database Management System', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1HRi3hma-onHzuggEsFqxTxcGpU6hhIsN/view?usp=sharing',
     'https://drive.google.com/file/d/1B6F-h7w7Nb_CoyjYs2gCpaU1KMxU5C5t/view?usp=sharing',
