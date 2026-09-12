@@ -86,7 +86,13 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1xg98zuubxhZE6zi5J1nyb1Acf2RdptWt/view?usp=sharing',
     'https://drive.google.com/file/d/1CZ3ZIsrDSc-Ve0qL2NRSteUSCENseNU4/view?usp=sharing'
   ]},
-  { id: 53, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻', links: [] },
+  { id: 53, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1hffCphMimLCsXqcR0PpwPbsJroQjf-Fz/view?usp=sharing',
+    'https://drive.google.com/file/d/1TRZwj-B_F64l8rWByfrAG54G6PePoIZr/view?usp=sharing',
+    'https://drive.google.com/file/d/1RfnHTlnpeU7vLwmBi4CLR9ZiQvZjsssF/view?usp=sharing',
+    'https://drive.google.com/file/d/1AmJ1-03XHVj-HagurVweg1woB1-BN5MO/view?usp=sharing',
+    'https://drive.google.com/file/d/1CFZPgEB79SzRteM_4medAyL18lrUhwkm/view?usp=sharing'
+  ] },
   { id: 54, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻', links: [] },
   { id: 55, code: 'CS204', title: 'Cyber Law', category: 'cs', image: '💻', links: [] },
   { id: 56, code: 'CS205', title: 'Information Security', category: 'cs', image: '💻', links: [] },
