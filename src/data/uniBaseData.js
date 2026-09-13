@@ -306,9 +306,13 @@ export const uniBaseDataPart2 = [
   { id: 103, code: 'CS726', title: 'Information Retrieval Techniques', category: 'cs', image: '💻', links: [] },
   
   // ECO - Economics
-  { id: 104, code: 'ECO401', title: 'Economics', category: 'eco', image: '📊', links: [] },
+  { id: 104, code: 'ECO401', title: 'Economics', category: 'eco', image: '📊', links: [
+    'https://drive.google.com/file/d/1i7V4j9o75KBN1j5Q_bn1VurVKxdOSTvg/view?usp=sharing'
+  ] },
   { id: 105, code: 'ECO402', title: 'Microeconomics', category: 'eco', image: '📊', links: [] },
-  { id: 106, code: 'ECO403', title: 'Macroeconomics', category: 'eco', image: '📊', links: [] },
+  { id: 106, code: 'ECO403', title: 'Macroeconomics', category: 'eco', image: '📊', links: [
+    'https://drive.google.com/file/d/1VZdptOjadMwRnBJXANzf5WUZQnxEkDnq/view?usp=sharing'
+  ] },
   { id: 107, code: 'ECO404', title: 'Managerial Economics', category: 'eco', image: '📊', links: [] },
   { id: 108, code: 'ECO501', title: 'Development Economics', category: 'eco', image: '📊', links: [] },
   { id: 109, code: 'ECO601', title: 'Business Econometrics', category: 'eco', image: '📊', links: [] },
@@ -322,9 +326,17 @@ export const uniBaseDataPart2 = [
   { id: 115, code: 'EDU301', title: 'Education 301', category: 'edu', image: '🎓', links: [] },
   
   // ENG - English
-  { id: 116, code: 'ENG001', title: 'English 001', category: 'eng', image: '📚', links: [] },
-  { id: 117, code: 'ENG101', title: 'English 101', category: 'eng', image: '📚', links: [] },
-  { id: 118, code: 'ENG201', title: 'English 201', category: 'eng', image: '📚', links: [] },
+  { id: 116, code: 'ENG101', title: 'English 101. eng101 midterm past papers.', category: 'eng', image: '📚', links: [
+    'https://drive.google.com/file/d/1RX56p1ZKdpsFhJjQo6mrW9gYxwbXrdCx/view?usp=sharing',
+    'https://drive.google.com/file/d/1O_YGW71-xlTcW8w893YxjnQufOWlW4u1/view?usp=sharing',
+    'https://drive.google.com/file/d/1Xqev4o1zisTdSQ4zc7t12V0Tb-Jc7hLJ/view?usp=sharing'
+  ] },
+  { id: 117, code: 'ENG201', title: 'English 101', category: 'eng', image: '📚', links: [
+    'https://drive.google.com/file/d/1jeoiketnPOpt1TM8hkee5ZsVONZXnmuQ/view?usp=sharing',
+    'https://drive.google.com/file/d/1_6wdmVYa4YiOdlnYIGuDZlaYzDgMN4Qp/view?usp=sharing',
+    'https://drive.google.com/file/d/1k-QN95U8_QAg426AkPSBvEulYWiqkez1/view?usp=sharing'
+  ] },
+ // { id: 118, code: 'ENG203', title: 'English 201', category: 'eng', image: '📚', links: [] },
   
   // ETH - Ethics
   { id: 119, code: 'ETH201', title: 'Ethics (For Non-Muslims)', category: 'eth', image: '🧠', links: [] },
@@ -390,9 +402,30 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1aOH2awEK5B9At6vDPWdZxVPAgdjXJ8c1/view?usp=sharing'
   ] },
   { id: 139, code: 'MATH202', title: 'HRM 628', category: 'mth', image: '👩‍💼', links: [] },
-  { id: 139, code: 'MATH202', title: 'HRM 628', category: 'mth', image: '👩‍💼', links: [] },
 
- // { id: 139, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
+
+  { id: 140, code: 'MCM301', title: 'MCM301 Communication Skills. mcm301 midterm past papers.', category: 'mcm', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1M7os09HXxV41FfiVWWlx8yxMzZWUG5kO/view?usp=sharing',
+    'https://drive.google.com/file/d/1GFruHLDWRGqSD55vOLDN-oI8ItrvcGew/view?usp=sharing'
+  ] },
+  //MGT
+  { id: 141, code: 'MGT301', title: 'HRM 628', category: 'mgt', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1SDSBfsk3361gioTkte9SOOawbmF4mmMt/view?usp=sharing',
+    'https://drive.google.com/file/d/1RaOg_u3y2_oYisIcGdb7fEEglmVaKyZt/view?usp=sharing'
+  ] },
+  
+  { id: 142, code: 'MGT501', title: 'mgt501 human resources management. mgt301 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1kkL2lL4loxQ-MrBMhHUTTvWbvdkBniqb/view?usp=sharing',
+    'https://drive.google.com/file/d/1ppNrFOk48eLqYdUOYdKiH1XIEgBLGJr4/view?usp=sharing'
+  ]},
+  { id: 143, code: 'PHY101', title: 'phy101 physics. mgt301 midterm past papers.', category: 'phy', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/19ZLb7K1lSlhJlmIz7o0Yymx6F6rIg0dm/view?usp=sharing',
+    'https://drive.google.com/file/d/19ZLb7K1lSlhJlmIz7o0Yymx6F6rIg0dm/view?usp=sharing'
+  ]},
+  { id: 144, code: 'PHY201', title: 'phy201 physics. mgt301 midterm past papers.', category: 'phy', image: '👩‍💼', links: []},
+
+
+
 ];
 
 export const allUniBaseData = [
@@ -416,5 +449,8 @@ export const uniBaseCategories = [
   { id: 'fin', name: 'FIN - Finance' },
   { id: 'gsc', name: 'GSC - General Science' },
   { id: 'hrm', name: 'HRM - Human Resource Management' },
-  { id: 'mth', name: 'MTAH - Mathematic' },
+  { id: 'mth', name: 'MATH - Mathematic' },
+  { id: 'mcm', name: 'MCM - Communication' },
+  { id: 'mgt', name: 'MGT - Marketing' },
+  { id: 'phy', name: 'PHY - Physics' },
 ];
