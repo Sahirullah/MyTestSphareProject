@@ -365,7 +365,7 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1LrnrLWo7FD2rDsWZ9MmG7xOYzI8AYnQD/view?usp=sharing',
     'https://drive.google.com/file/d/1ZPtFTlToSQoO8Mono7Bl5F3uy2WufGZb/view?usp=sharing'
   ] },
-  { id: 137, code: 'MATH401', title: 'math401 .midterm past papers.', category: 'hrm', image: '👩‍💼', links: [
+  { id: 137, code: 'MATH401', title: 'math401 Differential Equations.midterm past papers.', category: 'hrm', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1uvBNKEr0XzQrwVduhsoL7ZWCxAgZtPL5/view?usp=sharing',
     'https://drive.google.com/file/d/1kWApmlXTVR4xwpQKP06IpplYvEuRI2Co/view?usp=sharing',
     'https://drive.google.com/file/d/1d-tfVGwAqLvtIWHhxAa_TdF-ODb7as0D/view?usp=sharing'
