@@ -382,7 +382,7 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/18LQARZoac5oUIUtVbkN_6Q6Jh1l0THWg/view?usp=sharing',
     'https://drive.google.com/file/d/1NQu6tveLlbsPAmYA50VYcuHWZr80Y_h4/view?usp=sharing'
   ] },
-  { id: 139, code: 'MATH633', title: 'math633 ', category: 'mth', image: '👩‍💼', links: [
+  { id: 139, code: 'MATH633', title: 'math633 Group theory. math633 midterm past papers. ', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1iRRwgYTx5OsvDba4eSzUCt0DbyUO2lE_/view?usp=sharing',
     'https://drive.google.com/file/d/1GYOmUQT2Ewiy5ZpHSRuKafWeowL85FN9/view?usp=sharing',
     'https://drive.google.com/file/d/1AGZY9dJ3u2rvHK8_p_7-JdMQW0GKVFSQ/view?usp=sharing',
