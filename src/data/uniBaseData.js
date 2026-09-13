@@ -137,7 +137,8 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1ly3wZLCdMnxZ6WAq_vR1e10zpiALnCpz/view?usp=sharing',
     'https://drive.google.com/file/d/1pTqmoLwsAnTz5-3JN9tNu7mQp1dVdSL_/view?usp=sharing',
     'https://drive.google.com/file/d/1qMbSx1ucvTTv6dgr5D719K4tQ4al8ORZ/view?usp=sharing',
-    'https://drive.google.com/file/d/1NwdNVK7RC30UA0ipyGi_AJmguDPo6D-U/view?usp=sharing'
+    'https://drive.google.com/file/d/1NwdNVK7RC30UA0ipyGi_AJmguDPo6D-U/view?usp=sharing',
+    'https://drive.google.com/file/d/1Nj-zYfzvqNoTG3S06RUwyEfD7mpwgPlv/view?usp=sharing'
   ] },
   //CS402 midterm past paper
   { id: 65, code: 'CS402', title: 'Theory of Automata.CS402 midterm past papers.', category: 'cs', image: '💻', links: [
