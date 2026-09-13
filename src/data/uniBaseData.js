@@ -370,7 +370,11 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1kWApmlXTVR4xwpQKP06IpplYvEuRI2Co/view?usp=sharing',
     'https://drive.google.com/file/d/1d-tfVGwAqLvtIWHhxAa_TdF-ODb7as0D/view?usp=sharing'
   ] },
-  { id: 138, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
+  { id: 138, code: 'MATH501', title: 'Math501 linear algebra. math501 midterm past papers.', category: 'hrm', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1mn3vQnrVAJsoEQWmO6yC3_8cl9aMfh-z/view?usp=sharing',
+    'https://drive.google.com/file/d/1E7oorhxhHA7MXI79xb58JPteOHttYVES/view?usp=sharing',
+    'https://drive.google.com/file/d/1C-MeHzj5-KrYSOqgh_ZvavSRu-tnuZSj/view?usp=sharing'
+  ] },
   { id: 139, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
  // { id: 139, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
 ];
