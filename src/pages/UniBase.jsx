@@ -25,7 +25,7 @@ const UniBase = () => {
       <div className="exam-hero">
         <div className="hero-content">
           <div className="hero-icon">📚</div>
-          <h1>Uni Base</h1>
+          <h1>University Base</h1>
           <p>Access comprehensive university resources and study materials</p>
         </div>
       </div>
