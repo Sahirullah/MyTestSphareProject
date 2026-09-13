@@ -99,7 +99,8 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1t8l2vZWPCgFDjG55j0vWaetfORakNf2R/view?usp=sharing',
     'https://drive.google.com/file/d/1QdFZQnz9u4yDSLGv7-cko1X2IFjwznO1/view?usp=sharing',
     'https://drive.google.com/file/d/1dC6T8-LCncbebxTEZJN-rquFyfgHYJs5/view?usp=sharing',
-    'https://drive.google.com/file/d/1LY4Tq006m9VmK5gAdeAJdm-nxnGGANdu/view?usp=sharing'
+    'https://drive.google.com/file/d/1LY4Tq006m9VmK5gAdeAJdm-nxnGGANdu/view?usp=sharing',
+    'https://drive.google.com/file/d/1LqjlWvN5_zaP_T5eAJnSmLmQhJmQaM1T/view?usp=sharing'
   ] },
   { id: 55, code: 'CS204', title: 'Cyber Law.CS204 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 56, code: 'CS205', title: 'Information Security.CS205 midterm past papers.', category: 'cs', image: '💻', links: [] },
