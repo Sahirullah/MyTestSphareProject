@@ -360,8 +360,10 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1QssH8ienhpiGtLVOqtNNEh77JG7i6ZC3/view?usp=sharing',
     'https://drive.google.com/file/d/1OrMMzsc3kHa-tEVJShEiRzEltq8wV6aS/view?usp=sharing'
   ] },
-  { id: 136, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [
-
+  { id: 136, code: 'MATH301', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1Aph-amSS8sVeExMEoC2mhLIqJoGP5h7H/view?usp=sharing',
+    'https://drive.google.com/file/d/1LrnrLWo7FD2rDsWZ9MmG7xOYzI8AYnQD/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZPtFTlToSQoO8Mono7Bl5F3uy2WufGZb/view?usp=sharing'
   ] },
   { id: 137, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
   { id: 138, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
