@@ -348,6 +348,25 @@ export const uniBaseDataPart2 = [
   { id: 131, code: 'HRM623', title: 'HRM 623', category: 'hrm', image: '👩‍💼', links: [] },
   { id: 132, code: 'HRM624', title: 'HRM 624', category: 'hrm', image: '👩‍💼', links: [] },
   { id: 133, code: 'HRM628', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
+
+  //Math Midterm Past paper
+  { id: 134, code: 'MATH101', title: 'HRM 628', category: 'Math101 calculus and analytical geometry. midterm past papers.', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1AciOecKcathNmT8ZkyP9BZhyirjP6JZP/view?usp=sharing'
+  ] },
+  { id: 135, code: 'MATH202', title: 'MATH202 Discrete Mathematics.math202 midterm past papers.', category: 'hrm', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1YwWgtZD5QA6gKFjwlnkvsoBpWxPVpNgA/view?usp=sharing',
+    'https://drive.google.com/file/d/1hn17kOHc-c97_6TkQPgpME76h_bMY_F4/view?usp=sharing',
+    'https://drive.google.com/file/d/1fCEjlqvrjW8CQclwhXW8ezFqCgjRadjj/view?usp=sharing',
+    'https://drive.google.com/file/d/1QssH8ienhpiGtLVOqtNNEh77JG7i6ZC3/view?usp=sharing',
+    'https://drive.google.com/file/d/1OrMMzsc3kHa-tEVJShEiRzEltq8wV6aS/view?usp=sharing'
+  ] },
+  { id: 136, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [
+
+  ] },
+  { id: 137, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
+  { id: 138, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
+  { id: 139, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
+ // { id: 139, code: 'MATH202', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
 ];
 
 export const allUniBaseData = [
@@ -371,4 +390,5 @@ export const uniBaseCategories = [
   { id: 'fin', name: 'FIN - Finance' },
   { id: 'gsc', name: 'GSC - General Science' },
   { id: 'hrm', name: 'HRM - Human Resource Management' },
+  { id: 'mth', name: 'MTAH - Mathematic' },
 ];
