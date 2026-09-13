@@ -38,35 +38,6 @@ src/
 └── App.jsx        # Main application and routing
 ```
 
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Sahirullah/MyTestSphareProject.git
-cd MyTestSphareProject
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Start the development server
-
-```bash
-npm run dev
-```
-
-The application will be available at the local development URL shown in your terminal.
-
-### 4. Build for production
-
-```bash
-npm run build
-```
-
 ## 🌐 Live Website
 
 **TestSphare:**
