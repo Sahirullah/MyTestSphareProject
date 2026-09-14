@@ -422,7 +422,16 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/19ZLb7K1lSlhJlmIz7o0Yymx6F6rIg0dm/view?usp=sharing',
     'https://drive.google.com/file/d/19ZLb7K1lSlhJlmIz7o0Yymx6F6rIg0dm/view?usp=sharing'
   ]},
-  { id: 144, code: 'SOC101', title: 'soc101 introduction to . mgt301 midterm past papers.', category: 'soc', image: '👩‍💼', links: []},
+  { id: 144, code: 'SOC101', title: 'soc101 introduction to sociology . soc101 midterm past papers.', category: 'soc', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1IHegGIabUhmccPzxJw_xohMIKBk2LAdM/view?usp=sharing'
+  ]},
+  { id: 145, code: 'STA301', title: 'STA301 statistic and probability. sta301 midterm past papers.', category: 'soc', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/17UYqJNkg1wQT2prK1jqCVJHBnlTz9Xo_/view?usp=sharing',
+    'https://drive.google.com/file/d/1XUUiKtvI0VRkvLQfZD1C2IUvur1TFrol/view?usp=sharing',
+    'https://drive.google.com/file/d/1rI4eSl_nfmwx6_9YFAHbFTn_TUd0iyXd/view?usp=sharing',
+    ';https://drive.google.com/file/d/1sh_fglR60i6-_dDdBrzEW2CWrtRKWB76/view?usp=sharing',
+    'https://drive.google.com/file/d/103V0Arwbdg3BXOvT7KchGOmNiiS9KvzT/view?usp=sharing'
+  ]},
 
 
 
