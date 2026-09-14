@@ -42,7 +42,9 @@ export const uniBaseData = [
   { id: 27, code: 'BIO734', title: 'Advance Cell Biology', category: 'bio', image: '🧪', links: [] },
   
   // BNK - Banking
-  { id: 28, code: 'BNK601', title: 'Banking Laws & Practices', category: 'bnk', image: '💼', links: [] },
+  { id: 28, code: 'BNK601', title: 'Banking Laws & Practices', category: 'bnk', image: '💼', links: [
+    'https://drive.google.com/file/d/1SiUU2u0NYt4TPD5dBTMQRVVxa-PT2jks/view?usp=sharing'
+  ] },
   { id: 29, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼', links: [] },
   { id: 30, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼', links: [] },
   { id: 31, code: 'BNK610', title: 'Islamic Banking Practices', category: 'bnk', image: '💼', links: [] },
