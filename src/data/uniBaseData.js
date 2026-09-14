@@ -409,20 +409,20 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1GFruHLDWRGqSD55vOLDN-oI8ItrvcGew/view?usp=sharing'
   ] },
   //MGT
-  { id: 141, code: 'MGT301', title: 'HRM 628', category: 'mgt', image: '👩‍💼', links: [
+  { id: 141, code: 'MGT301', title: 'mgt301 Principle of marketing.mgt301 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1SDSBfsk3361gioTkte9SOOawbmF4mmMt/view?usp=sharing',
     'https://drive.google.com/file/d/1RaOg_u3y2_oYisIcGdb7fEEglmVaKyZt/view?usp=sharing'
   ] },
   
-  { id: 142, code: 'MGT501', title: 'mgt501 human resources management. mgt301 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
+  { id: 142, code: 'MGT501', title: 'mgt501 human resources management. mgt501 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1kkL2lL4loxQ-MrBMhHUTTvWbvdkBniqb/view?usp=sharing',
     'https://drive.google.com/file/d/1ppNrFOk48eLqYdUOYdKiH1XIEgBLGJr4/view?usp=sharing'
   ]},
-  { id: 143, code: 'PHY101', title: 'phy101 physics. mgt301 midterm past papers.', category: 'phy', image: '👩‍💼', links: [
+  { id: 143, code: 'PHY101', title: 'phy101 physics. phy101 midterm past papers.', category: 'phy', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/19ZLb7K1lSlhJlmIz7o0Yymx6F6rIg0dm/view?usp=sharing',
     'https://drive.google.com/file/d/19ZLb7K1lSlhJlmIz7o0Yymx6F6rIg0dm/view?usp=sharing'
   ]},
-  { id: 144, code: 'PHY201', title: 'phy201 physics. mgt301 midterm past papers.', category: 'phy', image: '👩‍💼', links: []},
+  { id: 144, code: 'SOC101', title: 'soc101 introduction to . mgt301 midterm past papers.', category: 'soc', image: '👩‍💼', links: []},
 
 
 
@@ -453,4 +453,5 @@ export const uniBaseCategories = [
   { id: 'mcm', name: 'MCM - Communication' },
   { id: 'mgt', name: 'MGT - Marketing' },
   { id: 'phy', name: 'PHY - Physics' },
+  { id: 'soc', name: 'SOC - Sociology' },
 ];
