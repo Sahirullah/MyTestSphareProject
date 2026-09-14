@@ -45,9 +45,9 @@ export const uniBaseData = [
   { id: 28, code: 'BNK601 midterm files', title: 'Banking Laws & Practices', category: 'bnk', image: '💼', links: [
     'https://drive.google.com/file/d/1SiUU2u0NYt4TPD5dBTMQRVVxa-PT2jks/view?usp=sharing'
   ] },
-  { id: 29, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼', links: [] },
-  { id: 30, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼', links: [] },
-  { id: 31, code: 'BNK610', title: 'Islamic Banking Practices', category: 'bnk', image: '💼', links: [] },
+  { id: 29, code: 'BNK603 midterm files', title: 'Consumer Banking', category: 'bnk', image: '💼', links: [] },
+  { id: 30, code: 'BNK604 midterm files', title: 'Management of Financial Institutions', category: 'bnk', image: '💼', links: [] },
+  { id: 31, code: 'BNK610 midterm files', title: 'Islamic Banking Practices', category: 'bnk', image: '💼', links: [] },
   
   // BT - Biotechnology
   { id: 32, code: 'BT101', title: 'Ecology, Biodiversity & Evolution-I', category: 'bt', image: '🧬', links: [] },
