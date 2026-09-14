@@ -69,12 +69,12 @@ export const uniBaseData = [
   { id: 48, code: 'BT605 midterm files', title: 'Biosafety & Bioethics', category: 'bt', image: '🧬', links: [] },
   
   // CHE - Chemistry
-  { id: 49, code: 'CHE201', title: 'Thermodynamics', category: 'che', image: '⚗️', links: [] },
-  { id: 50, code: 'CHE301', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️', links: [] },
+  { id: 49, code: 'CHE201 midterm files', title: 'Thermodynamics', category: 'che', image: '⚗️', links: [] },
+  { id: 50, code: 'CHE301 midterm files', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️', links: [] },
   
   // CS - Computer Science
   //CS001 Midterm pastpaper
-  { id: 51, code: 'CS001', title: 'Computer Proficiency License.CS001 midterm past paper.', category: 'cs', image: '💻', links: [
+  { id: 51, code: 'CS001 midterm files', title: 'Computer Proficiency License.CS001 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1UPAPe92JbBcT6eM-j7osVy9MZ7n2gnsB/view?usp=sharing',
     'https://drive.google.com/file/d/1gW4BuQnMBUPYmaOPAsPlZxGAX9RCujUQ/view?usp=sharing',
     'https://drive.google.com/file/d/1f8f6aVmqmk9h_D8TjywDbm9istxhA7aW/view?usp=sharing',
@@ -86,7 +86,7 @@ export const uniBaseData = [
   ] },
 
   //CS101 Midterm Pastpaper
-  { id: 52, code: 'CS101', title: 'Introduction to Computing.CS101 midterm past paper.', category: 'cs', image: '💻', links: [
+  { id: 52, code: 'CS101 midterm files', title: 'Introduction to Computing.CS101 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1CZ3ZIsrDSc-Ve0qL2NRSteUSCENseNU4/view?usp=sharing',
     'https://drive.google.com/file/d/1kXBzw7ztcvSbVFkrNhPVNDdlA3fR0CHs/view?usp=sharing',
     'https://drive.google.com/file/d/1YDgT-opalXjJkQUWTSiQmZK50JfPH_V4/view?usp=sharing',
@@ -98,7 +98,7 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1CZ3ZIsrDSc-Ve0qL2NRSteUSCENseNU4/view?usp=sharing'
   ]},
   //CS201 Midterm Past paper
-  { id: 53, code: 'CS201', title: 'Introduction to Programming.cs201 midterm past paper.', category: 'cs', image: '💻', links: [
+  { id: 53, code: 'CS201 midterm files', title: 'Introduction to Programming.cs201 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1hffCphMimLCsXqcR0PpwPbsJroQjf-Fz/view?usp=sharing',
     'https://drive.google.com/file/d/1TRZwj-B_F64l8rWByfrAG54G6PePoIZr/view?usp=sharing',
     'https://drive.google.com/file/d/1RfnHTlnpeU7vLwmBi4CLR9ZiQvZjsssF/view?usp=sharing',
@@ -106,18 +106,18 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1CFZPgEB79SzRteM_4medAyL18lrUhwkm/view?usp=sharing'
   ] },
   //CS202 Midterm Pastpaper
-  { id: 54, code: 'CS202', title: 'Fundamentals of Front End Development.CS202 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 54, code: 'CS202 midterm files', title: 'Fundamentals of Front End Development.CS202 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1t8l2vZWPCgFDjG55j0vWaetfORakNf2R/view?usp=sharing',
     'https://drive.google.com/file/d/1QdFZQnz9u4yDSLGv7-cko1X2IFjwznO1/view?usp=sharing',
     'https://drive.google.com/file/d/1dC6T8-LCncbebxTEZJN-rquFyfgHYJs5/view?usp=sharing',
     'https://drive.google.com/file/d/1LY4Tq006m9VmK5gAdeAJdm-nxnGGANdu/view?usp=sharing',
     'https://drive.google.com/file/d/1LqjlWvN5_zaP_T5eAJnSmLmQhJmQaM1T/view?usp=sharing'
   ] },
-  { id: 55, code: 'CS204', title: 'Cyber Law.CS204 midterm past papers.', category: 'cs', image: '💻', links: [] },
-  { id: 56, code: 'CS205', title: 'Information Security.CS205 midterm past papers.', category: 'cs', image: '💻', links: [] },
-  { id: 57, code: 'CS206', title: 'Introduction to Network Design & Analysis.CS206 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 55, code: 'CS204 midterm files', title: 'Cyber Law.CS204 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 56, code: 'CS205 midterm files', title: 'Information Security.CS205 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 57, code: 'CS206 midterm files', title: 'Introduction to Network Design & Analysis.CS206 midterm past papers.', category: 'cs', image: '💻', links: [] },
   //CS301 Midterm past paper
-  { id: 58, code: 'CS301', title: 'Data Structures.CS301 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 58, code: 'CS301 midterm files', title: 'Data Structures.CS301 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/18lUHA4zoHBP_PFeQn7i5GMNW1D-y7pA_/view?usp=sharing',
     'https://drive.google.com/file/d/1hkpGJmHXWyOySpsPAi-MCe2z0ozx9ANA/view?usp=sharing',
     'https://drive.google.com/file/d/1rmuDrLuRhcof60fea0mlvKREHnWz_BJ8/view?usp=sharing',
@@ -125,7 +125,7 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1PVVjrh_zQqOnShuAEJZnWdLNQNz3fkFb/view?usp=sharing'
   ]},
   //CS302 Midtrem pastpaper
-  { id: 59, code: 'CS302', title: 'Digital Logic and Design.CS302 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 59, code: 'CS302 midterm files', title: 'Digital Logic and Design.CS302 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1xMuPu9rLDawOvWTmwT2jko64T6QP4Zfo/view?usp=sharing',
     'https://drive.google.com/file/d/1Kk4AGOrJe4greCEvufGJpPiiq7LfeuuF/view?usp=sharing',
     'https://drive.google.com/file/d/1OOI8_2KW6RO8uTqQWieDWEtbQPVYJAmy/view?usp=sharing',
@@ -134,7 +134,7 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1UjvKgeMvPKsDklllGcSKtRefZcMcCAEX/view?usp=sharing'
   ] },
   //CS304 Midterm past paper
-  { id: 60, code: 'CS304', title: 'Object Oriented Programming.CS304 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 60, code: 'CS304 midterm files', title: 'Object Oriented Programming.CS304 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/13fydDtrXIFm1ve9we1NwT0bgV2bu5KIi/view?usp=sharing',
     'https://drive.google.com/file/d/1LPNaSzSu0J5Ka7bQ_U9P9GmnGAZP2hlH/view?usp=sharing',
     'https://drive.google.com/file/d/1MWcJvGdEl-2VGjZm7gfpplBSR0kWAbb8/view?usp=sharing'
