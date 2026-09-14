@@ -139,7 +139,7 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1LPNaSzSu0J5Ka7bQ_U9P9GmnGAZP2hlH/view?usp=sharing',
     'https://drive.google.com/file/d/1MWcJvGdEl-2VGjZm7gfpplBSR0kWAbb8/view?usp=sharing'
   ] },
-  { id: 61, code: 'CS310', title: 'Open Source Web Application Development.CS310 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 61, code: 'CS310 midterm files', title: 'Open Source Web Application Development.CS310 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 62, code: 'CS311', title: 'Introduction to Web Services Development.CS311 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 63, code: 'CS312', title: 'Database Modeling and Design.CS312 midterm past papers.', category: 'cs', image: '💻', links: [] },
   //CS401 midterm past paper
