@@ -46,6 +46,15 @@ const generateCourseQuestions = (courseName) => {
   return questions;
 };
 
+// Convert CS201 question format from object options to array options
+const convertCS201Questions = (rawQuestions) => {
+  return rawQuestions.map(q => ({
+    question: q.question,
+    options: [q.options.a, q.options.b, q.options.c, q.options.d],
+    correct: { a: 0, b: 1, c: 2, d: 3 }[q.answer]
+  }));
+};
+
 export const examPracticeData = [
   // FIN - Finance
   { id: 1, code: 'FIN', title: 'Finance mock test', category: 'fin', image: '💰', questions: generateCourseQuestions('Finance'), totalQuestions: 50 },
@@ -107,6 +116,8 @@ export const examPracticeData = [
   { "question": "Q.50: Which is the largest landlocked country in the world?", "options": ["Uzbekistan", "Kazakhstan", "China", "Bhutan"], "correct": 1 },
   { "question": "Q.51: All of the following countries are permanent members of the Security Council except?", "options": ["France", "Germany", "Italy", "None of these"], "correct": 1 }
 ]},
+
+//CS Subject mocktest start
 
   //CS610 - Computer Science 610
   { id: 28, code: 'CS610', title: 'Computer Science 610 midterm free mock test practice 01', category: 'cs', image: '💻', questions: [
@@ -176,6 +187,61 @@ export const examPracticeData = [
   {"question": "---------- was especially concerned about the lack of high powered computers.", "options": ["ARPA", "IEEE", "EIA", "Non of the given"], "correct": 0},
   {"question": "The term --------- is used to denote the definition of a packet used with a specific type of network.", "options": ["Packet", "Frame", "Data", "None of the given"], "correct": 1}
 ]},
+
+//cs201 midterm mocktest 
+{id: 30, code: 'CS201', title:'CS201 introductioin to programming.cs201 midterm free mock test', category:'cs', image: '💻', questions: convertCS201Questions([
+  {"question_number": 1, "question": "What is the other name of the variable?", "options": {"a": "Identifier", "b": "Visual", "c": "Static", "d": "Constant"}, "answer": "a"},
+  {"question_number": 2, "question": "Which of the Following is true about streams?\nA. It is a sequence of bytes\nB. It is an ordered sequence\nC. All bytes can go trough the stream simultaneously\nD. Bytes that enters first into the stream will go out at last", "options": {"a": "A & D", "b": "A only", "c": "C only", "d": "A & B"}, "answer": "d"},
+  {"question_number": 3, "question": "When No. of repetition is know then we use the ------ structure to perform repetition tasks.", "options": {"a": "While loop", "b": "For loop", "c": "Switch", "d": "Do while loop"}, "answer": "b"},
+  {"question_number": 4, "question": "Shifting the binary number is similar to shifting the------ number.", "options": {"a": "Base 7", "b": "Decimal", "c": "Hexadecimal", "d": "octal"}, "answer": "b"},
+  {"question_number": 5, "question": "We can read, write and manipulate the same file using ---------------.", "options": {"a": "Stdio.h", "b": "Fstream.h", "c": "Iomanp.h", "d": "Iostream.h"}, "answer": "b"},
+  {"question_number": 6, "question": "In do while loop the , condition is checked ----------- one execution of loop.", "options": {"a": "Before", "b": "During", "c": "At Any time", "d": "After"}, "answer": "d"},
+  {"question_number": 7, "question": "< , <=, >, >= are called ----- operators.", "options": {"a": "Arithmetic", "b": "Conditional", "c": "Logical", "d": "Relational"}, "answer": "d"},
+  {"question_number": 8, "question": "For breaking complex problem into smaller pieces we use ------------.", "options": {"a": "Function", "b": "Loops", "c": "If/else", "d": "Break statement"}, "answer": "a"},
+  {"question_number": 9, "question": "In three – dimensional array. We use------- ‘for loop(s)’ to populate the array.", "options": {"a": "3", "b": "2", "c": "1", "d": "4"}, "answer": "a"},
+  {"question_number": 10, "question": "a = a + 1; can be written as ---------------", "options": {"a": "1 + a = a;", "b": "a+a+1", "c": "a+=1", "d": "a+1"}, "answer": "c"},
+  {"question_number": 11, "question": "Continue statement usually force the immediate ------ iteration of the loop .", "options": {"a": "last", "b": "previous", "c": "first", "d": "next"}, "answer": "d"},
+  {"question_number": 12, "question": "If a file is opened with ios::out mode, then -----------------.", "options": {"a": "We can write in this file", "b": "Content of file discarded", "c": "A new file is created", "d": "All of the given"}, "answer": "a"},
+  {"question_number": 13, "question": "----------------------- operator is used to pass the address of variable in call by reference method.", "options": {"a": "&", "b": "@", "c": "%", "d": "+"}, "answer": "a"},
+  {"question_number": 14, "question": "C++ is a -------------- language.", "options": {"a": "Machine", "b": "Low level", "c": "Assembly language", "d": "High level"}, "answer": "d"},
+  {"question_number": 15, "question": "By writing a file seekg (15L, ios::cur) we are moving --------------.", "options": {"a": "15 bit in the backward direction starting from the pervious position.", "b": "15 bit in the backward direction starting from the current position.", "c": "15 bytes in the backward direction starting from the pervious position.", "d": "15 bytes in the forward direction starting from the current position."}, "answer": "d"},
+  {"question_number": 16, "question": "Pointer points to a particular -------------.", "options": {"a": "Data types", "b": "Variable", "c": "Memory address", "d": "value"}, "answer": "c"},
+  {"question_number": 17, "question": "If function has not been declared before it is a -------.", "options": {"a": "Run time error", "b": "Logical error", "c": "Syntax error", "d": "Late binding error"}, "answer": "c"},
+  {"question_number": 18, "question": "---------------- statement is used to terminate the processing of a particular case and exit from switch structure.", "options": {"a": "Break", "b": "If", "c": "Goto", "d": "continue"}, "answer": "a"},
+  {"question_number": 19, "question": "Which one of the following is used to perform bit-wise OR operation?", "options": {"a": "~", "b": "^", "c": "||", "d": "|"}, "answer": "d"},
+  {"question_number": 20, "question": "In the following nested For Loop, which loop will run most number of times?", "options": {"a": "Inner loop", "b": "Depends upon the statements in the inner in the loop body", "c": "Outer loop", "d": "Both loop run equal number of time"}, "answer": "a"},
+  {"question_number": 21, "question": "We can access a global variable ------------.", "options": {"a": "From anywhere in the program", "b": "From the main() function only", "c": "From the function only", "d": "From the loop only"}, "answer": "a"},
+  {"question_number": 22, "question": "Structures are syntactically defined with the word------------.", "options": {"a": "Struct", "b": "Struc", "c": "Structure", "d": "None of the given"}, "answer": "a"},
+  {"question_number": 23, "question": "If y= 20 and z = y++. Then the value of z will be --------------.", "options": {"a": "22", "b": "20", "c": "21", "d": "19"}, "answer": "b"},
+  {"question_number": 24, "question": "The structure which can execute zero or more times is called ------------.", "options": {"a": "For structure", "b": "Do-while loop", "c": "While structure", "d": "None of the above"}, "answer": "c"},
+  {"question_number": 25, "question": "Which of the following is the correct way to write a compound assignment operator?", "options": {"a": "X +  =  4;", "b": "X+=4;", "c": "X+==4;", "d": "None of the above"}, "answer": "b"},
+  {"question_number": 26, "question": "Suppose we have a file with name “myfile.txt”. What will be the correct syntax of file opening for the input.", "options": {"a": "myFile.In(“myfile.txt”, ios::open);", "b": "myFile.open(“myfile.txt”, ios::in);", "c": "myFile.Input(“myfile.txt”, ios::open);", "d": "myFile.open(“myfile.txt”, ios::inpt);"}, "answer": "b"},
+  {"question_number": 27, "question": "What will be the value of the variable output in the given piece of the code?\nDouble output = 0\nOutput = (2 + 2)*4+ 2 /(4- 2);", "options": {"a": "17", "b": "11", "c": "15", "d": "12"}, "answer": "a"},
+  {"question_number": 28, "question": "Which one of the following languages has been used to write the compiler of “C” language?", "options": {"a": "Basic", "b": "Fortran", "c": "Java", "d": "C"}, "answer": "d"},
+  {"question_number": 29, "question": "Char name []= “Hello world”;\nIn the above statement, A memory of ----------- characters will be allocated.", "options": {"a": "10", "b": "12", "c": "13", "d": "11"}, "answer": "b"},
+  {"question_number": 30, "question": "What will be output of following code segment?\nFor (int i = 2; i < 10; i++){\n   If (i == 5)\n      Continue;\n   Cout << i << \".\";\n}", "options": {"a": "2, 3, 4", "b": "2.3.4.6.7.8.9.", "c": "4,6,7,8,9", "d": "2,3,7,8,9"}, "answer": "b"},
+  {"question_number": 31, "question": "Identify the correct syntax for making a class friend of other class", "options": {"a": "class ClassOne { friend class OtherClass; };", "b": "friend ClassOne { OtherClass };", "c": "ClassOne { friend otherclass };", "d": "friend class ClassOne { friend otherclass };"}, "answer": "a"},
+  {"question_number": 32, "question": "The function will be return a reference to the global variable that exits throughout the program and thus there will be no danger of--------.", "options": {"a": "Garbage collection", "b": "Dangling reference", "c": "Wastage of memory", "d": "System crash"}, "answer": "b"},
+  {"question_number": 33, "question": "The friend function are --------------.", "options": {"a": "Not member of class", "b": "Member of class", "c": "Inline function", "d": "Void function"}, "answer": "a"},
+  {"question_number": 34, "question": "The function of calloc takes two arguments, the first argument is the --------- and the second argument is the -------------.", "options": {"a": "Required space in terms of number, size of space", "b": "Size of space, number of bytes", "c": "Space in terms of string character, size of list", "d": "Size of array, number of bytes"}, "answer": "a"},
+  {"question_number": 35, "question": "With the use of dynamic allocation of memory, the system resource can be-------------.", "options": {"a": "Wasted", "b": "Used efficiently", "c": "Used carelessly", "d": "All of the above"}, "answer": "b"},
+  {"question_number": 36, "question": "An instance of a class is called -------.", "options": {"a": "Structure", "b": "Data type", "c": "Object", "d": "Member function"}, "answer": "c"},
+  {"question_number": 37, "question": "Initializing the data member within the class is ---------.", "options": {"a": "A logical error", "b": "A run time error", "c": "A syntax error", "d": "Not an error"}, "answer": "c"},
+  {"question_number": 38, "question": "A friend function of a class is a function defined -------------.", "options": {"a": "Inside that class and that has no access to the member of the class", "b": "Output that class that right to access public member of the class only", "c": "Outside that class and that has the right to access all member of class.", "d": "Outside that class and that has the right to access all member of the class"}, "answer": "c"},
+  {"question_number": 39, "question": "This reference to variable can be obtained by preceding the identifier of a variable with------.", "options": {"a": "Dot operator", "b": "Ampersand sign &", "c": "^ sign", "d": "* operator"}, "answer": "b"},
+  {"question_number": 40, "question": "In C language, the region of memory allocated at run time is called-----------.", "options": {"a": "Stack", "b": "Heap", "c": "Free store", "d": "Available memory"}, "answer": "b"},
+  {"question_number": 41, "question": "Constructor has -------------.", "options": {"a": "No name", "b": "The same name as the class", "c": "The same name as data member", "d": "Return type"}, "answer": "b"},
+  {"question_number": 42, "question": "Programmer should be very careful about the memory management because it can----------.", "options": {"a": "Cause problem of memory leakage and dangling pointers.", "b": "Creates problem of null pointer", "c": "Returns void pointers", "d": "Affects the logic of the program"}, "answer": "a"},
+  {"question_number": 43, "question": "Sometimes after allocating memory we need additional space, for this purpose we use", "options": {"a": "Reallocation function", "b": "Calloc function", "c": "Realloc function", "d": "Void pointer"}, "answer": "c"},
+  {"question_number": 44, "question": "The constructor contains------.", "options": {"a": "Return type", "b": "No return type", "c": "Objects", "d": "Classes"}, "answer": "b"},
+  {"question_number": 45, "question": "Encapsulation means-----------------.", "options": {"a": "That the data of a class cannot be accessed from outside directly", "b": "That the data of a class can be accessed from outside", "c": "That data becomes public", "d": "That the data can be accessed anywhere within a main program"}, "answer": "a"},
+  {"question_number": 46, "question": "Friend classes are used in cases where one class is ------------ to another class", "options": {"a": "Tightly coupled", "b": "Loosely coupled", "c": "Independent", "d": "Encapsulated"}, "answer": "a"},
+  {"question_number": 47, "question": "#define CIRCUMFERENCE(X) (2*pi*R) is a", "options": {"a": "User defined function", "b": "Library function", "c": "Definition of a macro", "d": "Utility function"}, "answer": "c"},
+  {"question_number": 48, "question": "Header files provide -------------- so the program running on one operating system can run without an error on the other system.", "options": {"a": "Accessibility", "b": "Reliability", "c": "Accuracy", "d": "Portability"}, "answer": "d"},
+  {"question_number": 49, "question": "------ will return the number of bytes reserved for a variable or data type.", "options": {"a": "sizeof operator", "b": "Free operator", "c": "Void pointer", "d": "New operator"}, "answer": "a"},
+  {"question_number": 50, "question": "Default constructor takes----------.", "options": {"a": "One parameter", "b": "Two parameter", "c": "No parameter", "d": "Character type parameter"}, "answer": "c"}
+])},
+
 ];
 
  
