@@ -14,13 +14,13 @@ export const uniBaseData = [
   ] },
   
   // BIF - Bioinformatics
-  { id: 4, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬', links: [] },
-  { id: 5, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬', links: [] },
-  { id: 6, code: 'BIF402', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬', links: [] },
-  { id: 7, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬', links: [] },
-  { id: 8, code: 'BIF601', title: 'Bioinformatics Computing I', category: 'bif', image: '🧬', links: [] },
-  { id: 9, code: 'BIF602', title: 'Bioinformatics Computing II', category: 'bif', image: '🧬', links: [] },
-  { id: 10, code: 'BIF731', title: 'Advanced Bioinformatics', category: 'bif', image: '🧬', links: [] },
+  { id: 4, code: 'BIF101 midterm', title: 'Cell Biology', category: 'bif', image: '🧬', links: [] },
+  { id: 5, code: 'BIF401 midterm', title: 'Bioinformatics-I', category: 'bif', image: '🧬', links: [] },
+  { id: 6, code: 'BIF402 midterm', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬', links: [] },
+  { id: 7, code: 'BIF501 midterm', title: 'Bioinformatics-II', category: 'bif', image: '🧬', links: [] },
+  { id: 8, code: 'BIF601 midterm', title: 'Bioinformatics Computing I', category: 'bif', image: '🧬', links: [] },
+  { id: 9, code: 'BIF602 midterm', title: 'Bioinformatics Computing II', category: 'bif', image: '🧬', links: [] },
+  { id: 10, code: 'BIF731 midterm', title: 'Advanced Bioinformatics', category: 'bif', image: '🧬', links: [] },
   
   // BIO - Biology
   { id: 11, code: 'BIO101', title: 'Basic Biology I', category: 'bio', image: '🧪', links: [] },
