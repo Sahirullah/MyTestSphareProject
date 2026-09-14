@@ -1,11 +1,11 @@
 export const uniBaseData = [
   // ACC - Accounting
-  { id: 1, code: 'ACC311 midterm', title: 'Accounting', category: 'acc', image: '📘', links: [
+  { id: 1, code: 'ACC311 midterm files', title: 'Accounting', category: 'acc', image: '📘', links: [
     'https://docs.google.com/document/d/18ncalbAF_td58GTj1bKmHwo6kD0NT3X0/edit?usp=sharing&ouid=115636303576237109989&rtpof=true&sd=true',
     'https://drive.google.com/file/d/13nVj-qHx8FyIP8s-yJ0iWeUWYDwheHF1/view?usp=sharing'
   ] },
  // { id: 2, code: 'ACC312', title: 'Fundamentals of Auditing', category: 'acc', image: '📘', links: [] },
-  { id: 3, code: 'ACC501 midterm', title: 'Business Finance', category: 'acc', image: '📘', links: [
+  { id: 3, code: 'ACC501 midterm files', title: 'Business Finance', category: 'acc', image: '📘', links: [
     'https://drive.google.com/file/d/107XQo-_tr4ZeSIHXxCVzE5nVRUc-OroL/view?usp=sharing',
     'https://drive.google.com/file/d/1ogtuSCHOjbKb_I7TXxzsMXucJWcc_lIm/view?usp=sharing',
     'https://drive.google.com/file/d/1IbIB7IBTeJIosKM3Icr28VW53zL6aClt/view?usp=sharing',
@@ -14,35 +14,35 @@ export const uniBaseData = [
   ] },
   
   // BIF - Bioinformatics
-  { id: 4, code: 'BIF101 midterm', title: 'Cell Biology', category: 'bif', image: '🧬', links: [] },
-  { id: 5, code: 'BIF401 midterm', title: 'Bioinformatics-I', category: 'bif', image: '🧬', links: [] },
-  { id: 6, code: 'BIF402 midterm', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬', links: [] },
-  { id: 7, code: 'BIF501 midterm', title: 'Bioinformatics-II', category: 'bif', image: '🧬', links: [] },
-  { id: 8, code: 'BIF601 midterm', title: 'Bioinformatics Computing I', category: 'bif', image: '🧬', links: [] },
-  { id: 9, code: 'BIF602 midterm', title: 'Bioinformatics Computing II', category: 'bif', image: '🧬', links: [] },
-  { id: 10, code: 'BIF731 midterm', title: 'Advanced Bioinformatics', category: 'bif', image: '🧬', links: [] },
+  { id: 4, code: 'BIF101 midterm files', title: 'Cell Biology', category: 'bif', image: '🧬', links: [] },
+  { id: 5, code: 'BIF401 midterm files', title: 'Bioinformatics-I', category: 'bif', image: '🧬', links: [] },
+  { id: 6, code: 'BIF402 midterm files', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬', links: [] },
+  { id: 7, code: 'BIF501 midterm files', title: 'Bioinformatics-II', category: 'bif', image: '🧬', links: [] },
+  { id: 8, code: 'BIF601 midterm files', title: 'Bioinformatics Computing I', category: 'bif', image: '🧬', links: [] },
+  { id: 9, code: 'BIF602 midterm files', title: 'Bioinformatics Computing II', category: 'bif', image: '🧬', links: [] },
+  { id: 10, code: 'BIF731 midterm files', title: 'Advanced Bioinformatics', category: 'bif', image: '🧬', links: [] },
   
   // BIO - Biology
-  { id: 11, code: 'BIO101', title: 'Basic Biology I', category: 'bio', image: '🧪', links: [] },
-  { id: 12, code: 'BIO102', title: 'Basic Biology II', category: 'bio', image: '🧪', links: [] },
-  { id: 13, code: 'BIO201', title: 'Cell Biology', category: 'bio', image: '🧪', links: [] },
-  { id: 14, code: 'BIO202', title: 'Biochemistry I', category: 'bio', image: '🧪', links: [] },
-  { id: 15, code: 'BIO203', title: 'Methods in Molecular Biology', category: 'bio', image: '🧪', links: [] },
-  { id: 16, code: 'BIO204', title: 'Principles of Biochemical Engineering', category: 'bio', image: '🧪', links: [] },
-  { id: 17, code: 'BIO301', title: 'Essentials of Genetics', category: 'bio', image: '🧪', links: [] },
-  { id: 18, code: 'BIO302', title: 'Molecular Biology', category: 'bio', image: '🧪', links: [] },
-  { id: 19, code: 'BIO303', title: 'Biochemistry II', category: 'bio', image: '🧪', links: [] },
-  { id: 20, code: 'BIO401', title: 'Biostatistics', category: 'bio', image: '🧪', links: [] },
-  { id: 21, code: 'BIO502', title: 'Genomics', category: 'bio', image: '🧪', links: [] },
-  { id: 22, code: 'BIO503', title: 'Biological Physics', category: 'bio', image: '🧪', links: [] },
-  { id: 23, code: 'BIO504T', title: 'Biochemistry I (Theory)', category: 'bio', image: '🧪', links: [] },
-  { id: 24, code: 'BIO505T', title: 'Essentials of Genetics (Theory)', category: 'bio', image: '🧪', links: [] },
-  { id: 25, code: 'BIO506T', title: 'Biochemistry II (Theory)', category: 'bio', image: '🧪', links: [] },
-  { id: 26, code: 'BIO732', title: 'Gene Manipulation & Genetic Engineering', category: 'bio', image: '🧪', links: [] },
-  { id: 27, code: 'BIO734', title: 'Advance Cell Biology', category: 'bio', image: '🧪', links: [] },
+  { id: 11, code: 'BIO101 midterm files', title: 'Basic Biology I', category: 'bio', image: '🧪', links: [] },
+  { id: 12, code: 'BIO102 midterm files', title: 'Basic Biology II', category: 'bio', image: '🧪', links: [] },
+  { id: 13, code: 'BIO201 midterm files', title: 'Cell Biology', category: 'bio', image: '🧪', links: [] },
+  { id: 14, code: 'BIO202 midterm files', title: 'Biochemistry I', category: 'bio', image: '🧪', links: [] },
+  { id: 15, code: 'BIO203 midterm files', title: 'Methods in Molecular Biology', category: 'bio', image: '🧪', links: [] },
+  { id: 16, code: 'BIO204 midterm files', title: 'Principles of Biochemical Engineering', category: 'bio', image: '🧪', links: [] },
+  { id: 17, code: 'BIO301 midterm files', title: 'Essentials of Genetics', category: 'bio', image: '🧪', links: [] },
+  { id: 18, code: 'BIO302 midterm files', title: 'Molecular Biology', category: 'bio', image: '🧪', links: [] },
+  { id: 19, code: 'BIO303 midterm files', title: 'Biochemistry II', category: 'bio', image: '🧪', links: [] },
+  { id: 20, code: 'BIO401 midterm files', title: 'Biostatistics', category: 'bio', image: '🧪', links: [] },
+  { id: 21, code: 'BIO502 midterm files', title: 'Genomics', category: 'bio', image: '🧪', links: [] },
+  { id: 22, code: 'BIO503 midterm files', title: 'Biological Physics', category: 'bio', image: '🧪', links: [] },
+  { id: 23, code: 'BIO504T midterm files', title: 'Biochemistry I (Theory)', category: 'bio', image: '🧪', links: [] },
+  { id: 24, code: 'BIO505T midterm files', title: 'Essentials of Genetics (Theory)', category: 'bio', image: '🧪', links: [] },
+  { id: 25, code: 'BIO506T midterm files', title: 'Biochemistry II (Theory)', category: 'bio', image: '🧪', links: [] },
+  { id: 26, code: 'BIO732 midterm files', title: 'Gene Manipulation & Genetic Engineering', category: 'bio', image: '🧪', links: [] },
+  { id: 27, code: 'BIO734 midterm files', title: 'Advance Cell Biology', category: 'bio', image: '🧪', links: [] },
   
   // BNK - Banking
-  { id: 28, code: 'BNK601', title: 'Banking Laws & Practices', category: 'bnk', image: '💼', links: [
+  { id: 28, code: 'BNK601 midterm files', title: 'Banking Laws & Practices', category: 'bnk', image: '💼', links: [
     'https://drive.google.com/file/d/1SiUU2u0NYt4TPD5dBTMQRVVxa-PT2jks/view?usp=sharing'
   ] },
   { id: 29, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼', links: [] },
