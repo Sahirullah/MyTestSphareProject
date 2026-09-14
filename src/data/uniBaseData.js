@@ -1,11 +1,11 @@
 export const uniBaseData = [
   // ACC - Accounting
-  { id: 1, code: 'ACC311', title: 'Accounting', category: 'acc', image: '📘', links: [
+  { id: 1, code: 'ACC311 midterm', title: 'Accounting', category: 'acc', image: '📘', links: [
     'https://docs.google.com/document/d/18ncalbAF_td58GTj1bKmHwo6kD0NT3X0/edit?usp=sharing&ouid=115636303576237109989&rtpof=true&sd=true',
     'https://drive.google.com/file/d/13nVj-qHx8FyIP8s-yJ0iWeUWYDwheHF1/view?usp=sharing'
   ] },
  // { id: 2, code: 'ACC312', title: 'Fundamentals of Auditing', category: 'acc', image: '📘', links: [] },
-  { id: 3, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘', links: [
+  { id: 3, code: 'ACC501 midterm', title: 'Business Finance', category: 'acc', image: '📘', links: [
     'https://drive.google.com/file/d/107XQo-_tr4ZeSIHXxCVzE5nVRUc-OroL/view?usp=sharing',
     'https://drive.google.com/file/d/1ogtuSCHOjbKb_I7TXxzsMXucJWcc_lIm/view?usp=sharing',
     'https://drive.google.com/file/d/1IbIB7IBTeJIosKM3Icr28VW53zL6aClt/view?usp=sharing',
