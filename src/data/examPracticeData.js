@@ -303,6 +303,7 @@ export const examPracticeData = [
   { "question_number": 58, "question": "Given a two dimensional array of integers, what would be the correct way of assigning the value 6 to the element at third row and fourth column?", "options": { "a": "array[3][4]=6", "b": "array[2][4]=6", "c": "array[4][3]=6", "d": "array[2][3]=6" }, "answer": "d" },
   { "question_number": 59, "question": "Which of the following is true about streams?\nA. It is a sequence of bytes\nB. It is an ordered sequence\nC. All bytes can go through the stream simultaneously\nD. Bytes that enters first into the stream will go out at last", "options": { "a": "A only", "b": "C only", "c": "A and B", "d": "A and D" }, "answer": "c" }
 ])},
+
 //cs201 midterm mocktest 03
 {id: 30, code: 'CS201', title:'CS201 introductioin to programming.cs201 midterm free mock test 03', category:'cs', image: '💻', questions: convertCS201Questions([
   { "question_number": 1, "question": "Void calloc(50,sizeof(int)) will return", "options": { "a": "Char pointer", "b": "A memory chunk of 50 integers from heap", "c": "A memory chunk of 50 integers from stack", "d": "A memory chunk with zero pointer" }, "answer": "b" },
