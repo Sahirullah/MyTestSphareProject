@@ -52,12 +52,12 @@ const Footer = () => {
           <div className="footer-section">
             <h4 className="footer-title">Categories</h4>
             <ul className="footer-links">
-              <li><a href="#computer-science">Computer Science</a></li>
-              <li><a href="#mathematics">Mathematics</a></li>
-              <li><a href="#physics">Physics</a></li>
-              <li><a href="#chemistry">Chemistry</a></li>
-              <li><a href="#islamic-studies">Islamic Studies</a></li>
-              <li><a href="#mcm">MCM</a></li>
+              <li><a href="#islam-other-religion">Islam & All religion</a></li>
+              <li><a href="#science-technology">Science & Technology</a></li>
+              <li><a href="#law-politics">Law & Politics</a></li>
+              <li><a href="#philosophy-history">Philosophy & History</a></li>
+              <li><a href="#literature-languages">Literature & Languages</a></li>
+              <li><a href="#research-innovation">Research & Innovation</a></li>
             </ul>
           </div>
 
